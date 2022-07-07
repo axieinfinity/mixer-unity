@@ -1,0 +1,5698 @@
+
+axie-2d-v3-stuff.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body-bigyak.body-bigyak
+  rotate: false
+  xy: 10,10
+  size: 575,462
+  orig: 575,462
+  offset: 0,0
+  index: -1
+body-sumo.body-sumo
+  rotate: false
+  xy: 605,10
+  size: 504,398
+  orig: 504,398
+  offset: 0,0
+  index: -1
+body-wetdog.body-wetdog
+  rotate: false
+  xy: 1129,10
+  size: 512,380
+  orig: 512,380
+  offset: 0,0
+  index: -1
+body-fuzzy.body-fuzzy
+  rotate: false
+  xy: 1661,10
+  size: 483,399
+  orig: 483,399
+  offset: 0,0
+  index: -1
+body-spiky.body-spiky
+  rotate: false
+  xy: 2164,10
+  size: 457,358
+  orig: 457,358
+  offset: 0,0
+  index: -1
+body-frosty.body-xmas-01
+  rotate: false
+  xy: 2641,10
+  size: 460,345
+  orig: 460,345
+  offset: 0,0
+  index: -1
+body-curly.body-curly
+  rotate: false
+  xy: 3121,10
+  size: 445,347
+  orig: 445,347
+  offset: 0,0
+  index: -1
+body-mystic-fuzzy.body-mfuzzy
+  rotate: false
+  xy: 3586,10
+  size: 447,337
+  orig: 447,337
+  offset: 0,0
+  index: -1
+body-mystic-normal.body-mystic
+  rotate: false
+  xy: 10,492
+  size: 438,325
+  orig: 438,325
+  offset: 0,0
+  index: -1
+body-mystic-fuzzy.body-mystic
+  rotate: false
+  xy: 10,837
+  size: 438,325
+  orig: 438,325
+  offset: 0,0
+  index: -1
+body-normal.body
+  rotate: false
+  xy: 10,1182
+  size: 434,325
+  orig: 434,325
+  offset: 0,0
+  index: -1
+body-agamo.body
+  rotate: false
+  xy: 10,1182
+  size: 434,325
+  orig: 434,325
+  offset: 0,0
+  index: -1
+body-bigyak.shadow
+  rotate: false
+  xy: 468,492
+  size: 671,135
+  orig: 671,135
+  offset: 0,0
+  index: -1
+body-sumo.shadow
+  rotate: false
+  xy: 468,492
+  size: 671,135
+  orig: 671,135
+  offset: 0,0
+  index: -1
+body-spiky.shadow
+  rotate: false
+  xy: 1159,492
+  size: 605,122
+  orig: 605,122
+  offset: 0,0
+  index: -1
+body-curly.shadow
+  rotate: false
+  xy: 1159,492
+  size: 605,122
+  orig: 605,122
+  offset: 0,0
+  index: -1
+body-normal.shadow
+  rotate: false
+  xy: 1159,492
+  size: 605,122
+  orig: 605,122
+  offset: 0,0
+  index: -1
+body-mystic-normal.shadow
+  rotate: false
+  xy: 1159,492
+  size: 605,122
+  orig: 605,122
+  offset: 0,0
+  index: -1
+body-mystic-fuzzy.shadow
+  rotate: false
+  xy: 1159,492
+  size: 605,122
+  orig: 605,122
+  offset: 0,0
+  index: -1
+body-wetdog.shadow
+  rotate: false
+  xy: 1159,492
+  size: 605,122
+  orig: 605,122
+  offset: 0,0
+  index: -1
+body-agamo.shadow
+  rotate: false
+  xy: 1159,492
+  size: 605,122
+  orig: 605,122
+  offset: 0,0
+  index: -1
+body-fuzzy.shadow
+  rotate: false
+  xy: 1159,492
+  size: 605,122
+  orig: 605,122
+  offset: 0,0
+  index: -1
+body-frosty.shadow
+  rotate: false
+  xy: 1159,492
+  size: 605,122
+  orig: 605,122
+  offset: 0,0
+  index: -1
+body-normal.ball
+  rotate: false
+  xy: 10,1527
+  size: 251,256
+  orig: 251,256
+  offset: 0,0
+  index: -1
+reptile-10.back
+  rotate: false
+  xy: 10,1803
+  size: 248,247
+  orig: 248,247
+  offset: 0,0
+  index: -1
+japan-03.back
+  rotate: false
+  xy: 10,2070
+  size: 248,245
+  orig: 248,245
+  offset: 0,0
+  index: -1
+reptile-08.back
+  rotate: false
+  xy: 10,2335
+  size: 237,247
+  orig: 237,247
+  offset: 0,0
+  index: -1
+japan-01.back
+  rotate: false
+  xy: 10,2602
+  size: 238,225
+  orig: 238,225
+  offset: 0,0
+  index: -1
+beast-10.back
+  rotate: false
+  xy: 10,2847
+  size: 224,238
+  orig: 224,238
+  offset: 0,0
+  index: -1
+plant-12.back
+  rotate: false
+  xy: 10,3105
+  size: 249,199
+  orig: 249,199
+  offset: 0,0
+  index: -1
+bird-10.back
+  rotate: false
+  xy: 10,3324
+  size: 215,225
+  orig: 215,225
+  offset: 0,0
+  index: -1
+plant-mystic-02.back
+  rotate: false
+  xy: 10,3569
+  size: 212,228
+  orig: 212,228
+  offset: 0,0
+  index: -1
+xmas-02.tail-glow-01
+  rotate: false
+  xy: 10,3817
+  size: 226,209
+  orig: 226,209
+  offset: 0,0
+  index: -1
+agamo-00.back
+  rotate: false
+  xy: 468,647
+  size: 237,184
+  orig: 237,184
+  offset: 0,0
+  index: -1
+beast-06.back
+  rotate: false
+  xy: 468,851
+  size: 216,200
+  orig: 216,200
+  offset: 0,0
+  index: -1
+plant-10.back
+  rotate: false
+  xy: 267,2335
+  size: 181,233
+  orig: 181,233
+  offset: 0,0
+  index: -1
+bird-12.tail
+  rotate: false
+  xy: 468,1071
+  size: 218,193
+  orig: 218,193
+  offset: 0,0
+  index: -1
+xmas-02.back
+  rotate: false
+  xy: 245,3324
+  size: 200,206
+  orig: 200,206
+  offset: 0,0
+  index: -1
+bug-12.back
+  rotate: false
+  xy: 725,647
+  size: 247,166
+  orig: 247,166
+  offset: 0,0
+  index: -1
+bird-04.back
+  rotate: false
+  xy: 468,1284
+  size: 218,187
+  orig: 218,187
+  offset: 0,0
+  index: -1
+bird-06.back
+  rotate: false
+  xy: 468,1491
+  size: 209,193
+  orig: 209,193
+  offset: 0,0
+  index: -1
+plant-02.back
+  rotate: false
+  xy: 254,2847
+  size: 184,218
+  orig: 184,218
+  offset: 0,0
+  index: -1
+japan-02.back
+  rotate: false
+  xy: 281,1527
+  size: 162,246
+  orig: 162,246
+  offset: 0,0
+  index: -1
+bug-10.back
+  rotate: false
+  xy: 468,1704
+  size: 234,166
+  orig: 234,166
+  offset: 0,0
+  index: -1
+reptile-04.back
+  rotate: false
+  xy: 268,2602
+  size: 176,217
+  orig: 176,217
+  offset: 0,0
+  index: -1
+reptile-08.tail
+  rotate: false
+  xy: 468,1890
+  size: 234,163
+  orig: 234,163
+  offset: 0,0
+  index: -1
+beast-12.tail
+  rotate: false
+  xy: 468,2073
+  size: 235,158
+  orig: 235,158
+  offset: 0,0
+  index: -1
+bug-08.back
+  rotate: false
+  xy: 468,2251
+  size: 225,159
+  orig: 225,159
+  offset: 0,0
+  index: -1
+aquatic-mystic-02.tail
+  rotate: false
+  xy: 468,2430
+  size: 207,172
+  orig: 207,172
+  offset: 0,0
+  index: -1
+aquatic-mystic-02.back
+  rotate: false
+  xy: 242,3569
+  size: 184,190
+  orig: 184,190
+  offset: 0,0
+  index: -1
+aquatic-02.back
+  rotate: false
+  xy: 256,3817
+  size: 177,195
+  orig: 177,195
+  offset: 0,0
+  index: -1
+bird-02.back
+  rotate: false
+  xy: 278,1803
+  size: 152,225
+  orig: 152,225
+  offset: 0,0
+  index: -1
+japan-02.horn
+  rotate: false
+  xy: 468,2622
+  size: 183,183
+  orig: 183,183
+  offset: 0,0
+  index: -1
+plant-04.back
+  rotate: false
+  xy: 468,2825
+  size: 199,167
+  orig: 199,167
+  offset: 0,0
+  index: -1
+bird-08.back
+  rotate: false
+  xy: 468,3012
+  size: 192,172
+  orig: 192,172
+  offset: 0,0
+  index: -1
+beast-02.horn
+  rotate: false
+  xy: 468,3204
+  size: 197,166
+  orig: 197,166
+  offset: 0,0
+  index: -1
+aquatic-02.tail
+  rotate: false
+  xy: 468,3390
+  size: 201,161
+  orig: 201,161
+  offset: 0,0
+  index: -1
+bird-06.horn
+  rotate: false
+  xy: 468,3571
+  size: 216,148
+  orig: 216,148
+  offset: 0,0
+  index: -1
+plant-mystic-02.tail
+  rotate: false
+  xy: 468,3739
+  size: 193,165
+  orig: 193,165
+  offset: 0,0
+  index: -1
+bug-06.back
+  rotate: false
+  xy: 468,3924
+  size: 193,161
+  orig: 193,161
+  offset: 0,0
+  index: -1
+aquatic-08.back
+  rotate: false
+  xy: 725,833
+  size: 180,172
+  orig: 180,172
+  offset: 0,0
+  index: -1
+plant-08.back
+  rotate: false
+  xy: 278,2070
+  size: 165,186
+  orig: 165,186
+  offset: 0,0
+  index: -1
+aquatic-10.tail
+  rotate: false
+  xy: 992,647
+  size: 198,153
+  orig: 198,153
+  offset: 0,0
+  index: -1
+plant-06.tail
+  rotate: false
+  xy: 1210,647
+  size: 208,145
+  orig: 208,145
+  offset: 0,0
+  index: -1
+plant-04.tail
+  rotate: false
+  xy: 1438,647
+  size: 194,155
+  orig: 194,155
+  offset: 0,0
+  index: -1
+beast-06.tail
+  rotate: false
+  xy: 725,1025
+  size: 148,202
+  orig: 148,202
+  offset: 0,0
+  index: -1
+xmas-01.back
+  rotate: false
+  xy: 1652,647
+  size: 186,160
+  orig: 186,160
+  offset: 0,0
+  index: -1
+japan-02.tail
+  rotate: false
+  xy: 1858,647
+  size: 197,151
+  orig: 197,151
+  offset: 0,0
+  index: -1
+aquatic-06.tail
+  rotate: false
+  xy: 2075,647
+  size: 206,142
+  orig: 206,142
+  offset: 0,0
+  index: -1
+beast-12.back
+  rotate: false
+  xy: 2301,647
+  size: 176,165
+  orig: 176,165
+  offset: 0,0
+  index: -1
+plant-02.tail
+  rotate: false
+  xy: 2497,647
+  size: 192,151
+  orig: 192,151
+  offset: 0,0
+  index: -1
+aquatic-06.back
+  rotate: false
+  xy: 725,1247
+  size: 136,213
+  orig: 136,213
+  offset: 0,0
+  index: -1
+bug-06.horn
+  rotate: false
+  xy: 1784,492
+  size: 224,129
+  orig: 224,129
+  offset: 0,0
+  index: -1
+bug-04.back
+  rotate: false
+  xy: 2709,647
+  size: 184,157
+  orig: 184,157
+  offset: 0,0
+  index: -1
+beast-mystic-02.back
+  rotate: false
+  xy: 279,3105
+  size: 165,174
+  orig: 165,174
+  offset: 0,0
+  index: -1
+reptile-10.tail
+  rotate: false
+  xy: 2028,492
+  size: 215,132
+  orig: 215,132
+  offset: 0,0
+  index: -1
+aquatic-12.back
+  rotate: false
+  xy: 725,1480
+  size: 144,197
+  orig: 144,197
+  offset: 0,0
+  index: -1
+reptile-12.back
+  rotate: false
+  xy: 2913,647
+  size: 171,165
+  orig: 171,165
+  offset: 0,0
+  index: -1
+xmas-02.tail-glow-02
+  rotate: false
+  xy: 3104,647
+  size: 183,154
+  orig: 183,154
+  offset: 0,0
+  index: -1
+reptile-mystic-02.mouth-smile
+  rotate: false
+  xy: 2263,492
+  size: 215,131
+  orig: 215,131
+  offset: 0,0
+  index: -1
+bird-mystic-02.back
+  rotate: false
+  xy: 725,1697
+  size: 160,175
+  orig: 160,175
+  offset: 0,0
+  index: -1
+japan-03.horn
+  rotate: false
+  xy: 725,1892
+  size: 144,192
+  orig: 144,192
+  offset: 0,0
+  index: -1
+xmas-02.tail-glow-03
+  rotate: false
+  xy: 2498,492
+  size: 206,132
+  orig: 206,132
+  offset: 0,0
+  index: -1
+beast-08.horn
+  rotate: false
+  xy: 725,2104
+  size: 162,167
+  orig: 162,167
+  offset: 0,0
+  index: -1
+reptile-04.tail
+  rotate: false
+  xy: 3307,647
+  size: 196,138
+  orig: 196,138
+  offset: 0,0
+  index: -1
+reptile-02.tail
+  rotate: false
+  xy: 2724,492
+  size: 214,126
+  orig: 214,126
+  offset: 0,0
+  index: -1
+bug-12.horn
+  rotate: false
+  xy: 2958,492
+  size: 202,131
+  orig: 202,131
+  offset: 0,0
+  index: -1
+bug-04.tail
+  rotate: false
+  xy: 3180,492
+  size: 203,130
+  orig: 203,130
+  offset: 0,0
+  index: -1
+beast-06.horn
+  rotate: false
+  xy: 3403,492
+  size: 216,122
+  orig: 216,122
+  offset: 0,0
+  index: -1
+plant-08.tail
+  rotate: false
+  xy: 3523,647
+  size: 188,140
+  orig: 188,140
+  offset: 0,0
+  index: -1
+bird-08.tail
+  rotate: false
+  xy: 3731,647
+  size: 158,163
+  orig: 158,163
+  offset: 0,0
+  index: -1
+plant-12.tail
+  rotate: false
+  xy: 725,2291
+  size: 180,143
+  orig: 180,143
+  offset: 0,0
+  index: -1
+xmas-01.tail
+  rotate: false
+  xy: 925,833
+  size: 186,136
+  orig: 186,136
+  offset: 0,0
+  index: -1
+aquatic-12.tail
+  rotate: false
+  xy: 3639,492
+  size: 214,118
+  orig: 214,118
+  offset: 0,0
+  index: -1
+xmas-01.horn-blink
+  rotate: false
+  xy: 725,2454
+  size: 131,192
+  orig: 131,192
+  offset: 0,0
+  index: -1
+plant-06.back
+  rotate: false
+  xy: 3909,647
+  size: 157,160
+  orig: 157,160
+  offset: 0,0
+  index: -1
+beast-mystic-02.horn
+  rotate: false
+  xy: 725,2666
+  size: 154,160
+  orig: 154,160
+  offset: 0,0
+  index: -1
+aquatic-10.back
+  rotate: false
+  xy: 725,2846
+  size: 160,154
+  orig: 160,154
+  offset: 0,0
+  index: -1
+reptile-12.horn
+  rotate: false
+  xy: 725,3020
+  size: 171,144
+  orig: 171,144
+  offset: 0,0
+  index: -1
+reptile-06.tail
+  rotate: false
+  xy: 3873,492
+  size: 185,133
+  orig: 185,133
+  offset: 0,0
+  index: -1
+bird-02.tail
+  rotate: false
+  xy: 725,3184
+  size: 164,149
+  orig: 164,149
+  offset: 0,0
+  index: -1
+reptile-08.horn
+  rotate: false
+  xy: 1131,833
+  size: 181,135
+  orig: 181,135
+  offset: 0,0
+  index: -1
+bug-mystic-02.horn
+  rotate: false
+  xy: 725,3353
+  size: 156,156
+  orig: 156,156
+  offset: 0,0
+  index: -1
+aquatic-08.tail
+  rotate: false
+  xy: 725,3529
+  size: 171,142
+  orig: 171,142
+  offset: 0,0
+  index: -1
+bug-04.horn
+  rotate: false
+  xy: 1332,833
+  size: 189,128
+  orig: 189,128
+  offset: 0,0
+  index: -1
+xmas-02.tail
+  rotate: false
+  xy: 1541,833
+  size: 183,132
+  orig: 183,132
+  offset: 0,0
+  index: -1
+aquatic-10.eyes-happy
+  rotate: false
+  xy: 3586,367
+  size: 230,104
+  orig: 230,104
+  offset: 0,0
+  index: -1
+aquatic-10.eyes-shut
+  rotate: false
+  xy: 3836,367
+  size: 230,104
+  orig: 230,104
+  offset: 0,0
+  index: -1
+aquatic-10.eyes-angry
+  rotate: false
+  xy: 1744,833
+  size: 230,104
+  orig: 230,104
+  offset: 0,0
+  index: -1
+aquatic-10.eyes
+  rotate: false
+  xy: 1994,833
+  size: 230,104
+  orig: 230,104
+  offset: 0,0
+  index: -1
+reptile-02.back
+  rotate: false
+  xy: 725,3691
+  size: 132,181
+  orig: 132,181
+  offset: 0,0
+  index: -1
+bird-12.back
+  rotate: false
+  xy: 725,3892
+  size: 151,157
+  orig: 151,157
+  offset: 0,0
+  index: -1
+beast-08.back
+  rotate: false
+  xy: 925,989
+  size: 134,176
+  orig: 134,176
+  offset: 0,0
+  index: -1
+xmas-01.eyes-glow
+  rotate: false
+  xy: 2641,375
+  size: 270,87
+  orig: 270,87
+  offset: 0,0
+  index: -1
+aquatic-04.mouth-open
+  rotate: false
+  xy: 2244,833
+  size: 209,112
+  orig: 209,112
+  offset: 0,0
+  index: -1
+beast-mystic-02.tail
+  rotate: false
+  xy: 1079,989
+  size: 158,148
+  orig: 158,148
+  offset: 0,0
+  index: -1
+bug-08.mouth-open
+  rotate: false
+  xy: 2473,833
+  size: 181,129
+  orig: 181,129
+  offset: 0,0
+  index: -1
+reptile-12.tail
+  rotate: false
+  xy: 2674,833
+  size: 199,117
+  orig: 199,117
+  offset: 0,0
+  index: -1
+beast-04.back
+  rotate: false
+  xy: 1257,989
+  size: 160,145
+  orig: 160,145
+  offset: 0,0
+  index: -1
+japan-03.tail
+  rotate: false
+  xy: 925,1185
+  size: 122,190
+  orig: 122,190
+  offset: 0,0
+  index: -1
+bird-10.tail
+  rotate: false
+  xy: 925,1395
+  size: 122,190
+  orig: 122,190
+  offset: 0,0
+  index: -1
+xmas-01.horn
+  rotate: false
+  xy: 925,1605
+  size: 126,181
+  orig: 126,181
+  offset: 0,0
+  index: -1
+bird-12.horn
+  rotate: false
+  xy: 925,1806
+  size: 134,168
+  orig: 134,168
+  offset: 0,0
+  index: -1
+bug-mystic-02.eyes-happy
+  rotate: false
+  xy: 2893,833
+  size: 225,100
+  orig: 225,100
+  offset: 0,0
+  index: -1
+bug-mystic-02.eyes-shut
+  rotate: false
+  xy: 3138,833
+  size: 225,100
+  orig: 225,100
+  offset: 0,0
+  index: -1
+bug-mystic-02.eyes-angry
+  rotate: false
+  xy: 3383,833
+  size: 225,100
+  orig: 225,100
+  offset: 0,0
+  index: -1
+bug-mystic-02.eyes
+  rotate: false
+  xy: 3628,833
+  size: 225,100
+  orig: 225,100
+  offset: 0,0
+  index: -1
+beast-06.ear-left
+  rotate: false
+  xy: 1079,1157
+  size: 139,160
+  orig: 139,160
+  offset: 0,0
+  index: -1
+japan-01.eyes-angry
+  rotate: false
+  xy: 1437,989
+  size: 231,96
+  orig: 231,96
+  offset: 0,0
+  index: -1
+beast-10.horn
+  rotate: false
+  xy: 1079,1337
+  size: 138,159
+  orig: 138,159
+  offset: 0,0
+  index: -1
+bug-02.eyes-happy
+  rotate: false
+  xy: 1688,989
+  size: 217,101
+  orig: 217,101
+  offset: 0,0
+  index: -1
+bug-02.eyes-shut
+  rotate: false
+  xy: 1925,989
+  size: 217,101
+  orig: 217,101
+  offset: 0,0
+  index: -1
+bug-02.eyes-angry
+  rotate: false
+  xy: 2162,989
+  size: 217,101
+  orig: 217,101
+  offset: 0,0
+  index: -1
+xmas-01.ear-right
+  rotate: false
+  xy: 1238,1157
+  size: 145,151
+  orig: 145,151
+  offset: 0,0
+  index: -1
+beast-06.ear-right
+  rotate: false
+  xy: 1403,1157
+  size: 145,151
+  orig: 145,151
+  offset: 0,0
+  index: -1
+bird-10.horn
+  rotate: false
+  xy: 1568,1157
+  size: 146,149
+  orig: 146,149
+  offset: 0,0
+  index: -1
+beast-02.back
+  rotate: false
+  xy: 1734,1157
+  size: 145,150
+  orig: 145,150
+  offset: 0,0
+  index: -1
+aquatic-08.horn
+  rotate: false
+  xy: 3873,833
+  size: 169,128
+  orig: 169,128
+  offset: 0,0
+  index: -1
+japan-01.eyes
+  rotate: false
+  xy: 3121,377
+  size: 232,93
+  orig: 232,93
+  offset: 0,0
+  index: -1
+bug-02.eyes
+  rotate: false
+  xy: 2399,989
+  size: 213,101
+  orig: 213,101
+  offset: 0,0
+  index: -1
+bug-02.back
+  rotate: false
+  xy: 2632,989
+  size: 147,146
+  orig: 147,146
+  offset: 0,0
+  index: -1
+japan-01.ear-left
+  rotate: false
+  xy: 925,1994
+  size: 116,184
+  orig: 116,184
+  offset: 0,0
+  index: -1
+beast-02.tail
+  rotate: false
+  xy: 2799,989
+  size: 149,143
+  orig: 149,143
+  offset: 0,0
+  index: -1
+aquatic-04.tail
+  rotate: false
+  xy: 2968,989
+  size: 156,135
+  orig: 156,135
+  offset: 0,0
+  index: -1
+aquatic-10.horn
+  rotate: false
+  xy: 3144,989
+  size: 162,130
+  orig: 162,130
+  offset: 0,0
+  index: -1
+bug-mystic-02.back
+  rotate: false
+  xy: 3326,989
+  size: 155,135
+  orig: 155,135
+  offset: 0,0
+  index: -1
+reptile-mystic-02.back
+  rotate: false
+  xy: 925,2198
+  size: 134,156
+  orig: 134,156
+  offset: 0,0
+  index: -1
+aquatic-mystic-02.horn
+  rotate: false
+  xy: 3501,989
+  size: 183,114
+  orig: 183,114
+  offset: 0,0
+  index: -1
+bug-12.tail
+  rotate: false
+  xy: 3704,989
+  size: 158,132
+  orig: 158,132
+  offset: 0,0
+  index: -1
+bird-04.tail
+  rotate: false
+  xy: 3882,989
+  size: 164,126
+  orig: 164,126
+  offset: 0,0
+  index: -1
+reptile-mystic-02.horn
+  rotate: false
+  xy: 1899,1157
+  size: 161,128
+  orig: 161,128
+  offset: 0,0
+  index: -1
+reptile-10.horn
+  rotate: false
+  xy: 2080,1157
+  size: 161,128
+  orig: 161,128
+  offset: 0,0
+  index: -1
+reptile-06.back
+  rotate: false
+  xy: 2261,1157
+  size: 189,109
+  orig: 189,109
+  offset: 0,0
+  index: -1
+beast-10.tail
+  rotate: false
+  xy: 925,2374
+  size: 132,156
+  orig: 132,156
+  offset: 0,0
+  index: -1
+bird-mystic-02.tail
+  rotate: false
+  xy: 2470,1157
+  size: 157,131
+  orig: 157,131
+  offset: 0,0
+  index: -1
+bug-04.eyes-happy
+  rotate: false
+  xy: 2647,1157
+  size: 236,87
+  orig: 236,87
+  offset: 0,0
+  index: -1
+bug-04.eyes-shut
+  rotate: false
+  xy: 2903,1157
+  size: 236,87
+  orig: 236,87
+  offset: 0,0
+  index: -1
+bug-04.eyes-angry
+  rotate: false
+  xy: 3159,1157
+  size: 236,87
+  orig: 236,87
+  offset: 0,0
+  index: -1
+bug-04.eyes
+  rotate: false
+  xy: 3415,1157
+  size: 236,87
+  orig: 236,87
+  offset: 0,0
+  index: -1
+xmas-01.ear-left
+  rotate: false
+  xy: 1079,1516
+  size: 139,147
+  orig: 139,147
+  offset: 0,0
+  index: -1
+plant-10.tail
+  rotate: false
+  xy: 3671,1157
+  size: 170,120
+  orig: 170,120
+  offset: 0,0
+  index: -1
+plant-08.horn
+  rotate: false
+  xy: 3861,1157
+  size: 150,134
+  orig: 150,134
+  offset: 0,0
+  index: -1
+bug-08.eyes-happy
+  rotate: false
+  xy: 1238,1328
+  size: 185,108
+  orig: 185,108
+  offset: 0,0
+  index: -1
+bug-08.eyes-shut
+  rotate: false
+  xy: 1238,1456
+  size: 185,108
+  orig: 185,108
+  offset: 0,0
+  index: -1
+bug-08.eyes-angry
+  rotate: false
+  xy: 1238,1584
+  size: 185,108
+  orig: 185,108
+  offset: 0,0
+  index: -1
+bug-08.eyes
+  rotate: false
+  xy: 1238,1712
+  size: 185,108
+  orig: 185,108
+  offset: 0,0
+  index: -1
+beast-08.eyes-happy
+  rotate: false
+  xy: 1443,1328
+  size: 210,94
+  orig: 210,94
+  offset: 0,0
+  index: -1
+japan-01.eyes-shut
+  rotate: false
+  xy: 1673,1328
+  size: 232,85
+  orig: 232,85
+  offset: 0,0
+  index: -1
+reptile-02.horn
+  rotate: false
+  xy: 1238,1840
+  size: 149,132
+  orig: 149,132
+  offset: 0,0
+  index: -1
+body-wetdog.body-braid
+  rotate: false
+  xy: 925,2550
+  size: 126,156
+  orig: 126,156
+  offset: 0,0
+  index: -1
+bug-08.tail
+  rotate: false
+  xy: 1238,1992
+  size: 150,131
+  orig: 150,131
+  offset: 0,0
+  index: -1
+reptile-mystic-02.ear-left
+  rotate: false
+  xy: 925,2726
+  size: 131,148
+  orig: 131,148
+  offset: 0,0
+  index: -1
+aquatic-04.horn
+  rotate: false
+  xy: 925,2894
+  size: 131,147
+  orig: 131,147
+  offset: 0,0
+  index: -1
+bug-mystic-02.ear-left
+  rotate: false
+  xy: 925,3061
+  size: 106,181
+  orig: 106,181
+  offset: 0,0
+  index: -1
+bird-04.horn
+  rotate: false
+  xy: 925,3262
+  size: 128,149
+  orig: 128,149
+  offset: 0,0
+  index: -1
+bug-10.tail
+  rotate: false
+  xy: 1238,2143
+  size: 149,128
+  orig: 149,128
+  offset: 0,0
+  index: -1
+japan-01.eyes-happy
+  rotate: false
+  xy: 2164,388
+  size: 232,82
+  orig: 232,82
+  offset: 0,0
+  index: -1
+plant-10.horn
+  rotate: false
+  xy: 925,3431
+  size: 131,145
+  orig: 131,145
+  offset: 0,0
+  index: -1
+japan-03.eyes-angry
+  rotate: false
+  xy: 1238,2291
+  size: 183,103
+  orig: 183,103
+  offset: 0,0
+  index: -1
+reptile-mystic-02.ear-right
+  rotate: false
+  xy: 925,3596
+  size: 124,152
+  orig: 124,152
+  offset: 0,0
+  index: -1
+reptile-08.eyes-angry
+  rotate: false
+  xy: 1238,2414
+  size: 176,107
+  orig: 176,107
+  offset: 0,0
+  index: -1
+bug-02.horn
+  rotate: false
+  xy: 1238,2541
+  size: 151,124
+  orig: 151,124
+  offset: 0,0
+  index: -1
+aquatic-04.back
+  rotate: false
+  xy: 925,3768
+  size: 123,152
+  orig: 123,152
+  offset: 0,0
+  index: -1
+reptile-06.horn
+  rotate: false
+  xy: 1238,2685
+  size: 174,106
+  orig: 174,106
+  offset: 0,0
+  index: -1
+bird-02.horn
+  rotate: false
+  xy: 1238,2811
+  size: 154,119
+  orig: 154,119
+  offset: 0,0
+  index: -1
+bird-mystic-02.horn
+  rotate: false
+  xy: 1238,2950
+  size: 155,117
+  orig: 155,117
+  offset: 0,0
+  index: -1
+plant-06.ear-left
+  rotate: false
+  xy: 925,3940
+  size: 134,135
+  orig: 134,135
+  offset: 0,0
+  index: -1
+japan-02.mouth-smile
+  rotate: false
+  xy: 1925,1328
+  size: 215,84
+  orig: 215,84
+  offset: 0,0
+  index: -1
+xmas-02.horn
+  rotate: false
+  xy: 1079,1683
+  size: 130,138
+  orig: 130,138
+  offset: 0,0
+  index: -1
+aquatic-02.horn
+  rotate: false
+  xy: 1238,3087
+  size: 174,103
+  orig: 174,103
+  offset: 0,0
+  index: -1
+reptile-mystic-02.tail
+  rotate: false
+  xy: 1079,1841
+  size: 138,129
+  orig: 138,129
+  offset: 0,0
+  index: -1
+beast-08.eyes
+  rotate: false
+  xy: 2160,1328
+  size: 210,84
+  orig: 210,84
+  offset: 0,0
+  index: -1
+japan-01.horn
+  rotate: false
+  xy: 1079,1990
+  size: 126,140
+  orig: 126,140
+  offset: 0,0
+  index: -1
+beast-12.horn
+  rotate: false
+  xy: 1238,3210
+  size: 163,108
+  orig: 163,108
+  offset: 0,0
+  index: -1
+beast-04.eyes-happy
+  rotate: false
+  xy: 3373,377
+  size: 188,93
+  orig: 188,93
+  offset: 0,0
+  index: -1
+beast-08.eyes-shut
+  rotate: false
+  xy: 2390,1328
+  size: 210,83
+  orig: 210,83
+  offset: 0,0
+  index: -1
+beast-08.eyes-angry
+  rotate: false
+  xy: 2620,1328
+  size: 210,83
+  orig: 210,83
+  offset: 0,0
+  index: -1
+beast-08.tail
+  rotate: false
+  xy: 1079,2150
+  size: 133,131
+  orig: 133,131
+  offset: 0,0
+  index: -1
+bug-mystic-02.tail
+  rotate: false
+  xy: 1079,2301
+  size: 133,130
+  orig: 133,130
+  offset: 0,0
+  index: -1
+body-bigyak.body-braid2
+  rotate: false
+  xy: 1079,2451
+  size: 106,163
+  orig: 106,163
+  offset: 0,0
+  index: -1
+plant-12.horn
+  rotate: false
+  xy: 1079,2634
+  size: 119,144
+  orig: 119,144
+  offset: 0,0
+  index: -1
+aquatic-mystic-02.eyes-shut
+  rotate: false
+  xy: 2850,1328
+  size: 213,80
+  orig: 213,80
+  offset: 0,0
+  index: -1
+aquatic-mystic-02.eyes-angry
+  rotate: false
+  xy: 3083,1328
+  size: 213,80
+  orig: 213,80
+  offset: 0,0
+  index: -1
+aquatic-mystic-02.eyes
+  rotate: false
+  xy: 3316,1328
+  size: 213,80
+  orig: 213,80
+  offset: 0,0
+  index: -1
+beast-02.ear-left
+  rotate: false
+  xy: 1079,2798
+  size: 115,147
+  orig: 115,147
+  offset: 0,0
+  index: -1
+reptile-02.eyes-angry
+  rotate: false
+  xy: 2416,388
+  size: 202,83
+  orig: 202,83
+  offset: 0,0
+  index: -1
+reptile-mystic-02.eyes-happy
+  rotate: false
+  xy: 3549,1328
+  size: 199,84
+  orig: 199,84
+  offset: 0,0
+  index: -1
+reptile-mystic-02.eyes-shut
+  rotate: false
+  xy: 3768,1328
+  size: 199,84
+  orig: 199,84
+  offset: 0,0
+  index: -1
+reptile-mystic-02.eyes-angry
+  rotate: false
+  xy: 1443,1442
+  size: 199,84
+  orig: 199,84
+  offset: 0,0
+  index: -1
+reptile-mystic-02.eyes
+  rotate: false
+  xy: 1662,1442
+  size: 199,84
+  orig: 199,84
+  offset: 0,0
+  index: -1
+reptile-02.ear-left
+  rotate: false
+  xy: 1079,2965
+  size: 129,129
+  orig: 129,129
+  offset: 0,0
+  index: -1
+reptile-08.eyes
+  rotate: false
+  xy: 1238,3338
+  size: 176,94
+  orig: 176,94
+  offset: 0,0
+  index: -1
+reptile-04.eyes-angry
+  rotate: false
+  xy: 1443,1546
+  size: 188,88
+  orig: 188,88
+  offset: 0,0
+  index: -1
+bird-06.tail
+  rotate: false
+  xy: 1079,3114
+  size: 131,126
+  orig: 131,126
+  offset: 0,0
+  index: -1
+japan-03.eyes
+  rotate: false
+  xy: 1238,3452
+  size: 183,90
+  orig: 183,90
+  offset: 0,0
+  index: -1
+japan-02.mouth-open
+  rotate: false
+  xy: 1238,3562
+  size: 184,89
+  orig: 184,89
+  offset: 0,0
+  index: -1
+bird-10.eyes-angry
+  rotate: false
+  xy: 1443,1654
+  size: 188,87
+  orig: 188,87
+  offset: 0,0
+  index: -1
+reptile-08.eyes-happy
+  rotate: false
+  xy: 1238,3671
+  size: 163,100
+  orig: 163,100
+  offset: 0,0
+  index: -1
+reptile-02.eyes
+  rotate: false
+  xy: 1881,1442
+  size: 206,79
+  orig: 206,79
+  offset: 0,0
+  index: -1
+bug-mystic-02.mouth-bite
+  rotate: false
+  xy: 2931,375
+  size: 169,96
+  orig: 169,96
+  offset: 0,0
+  index: -1
+bug-02.tail
+  rotate: false
+  xy: 1079,3260
+  size: 128,126
+  orig: 128,126
+  offset: 0,0
+  index: -1
+bird-mystic-02.eyes-angry
+  rotate: false
+  xy: 2107,1442
+  size: 215,75
+  orig: 215,75
+  offset: 0,0
+  index: -1
+bird-mystic-02.eyes
+  rotate: false
+  xy: 2342,1442
+  size: 215,75
+  orig: 215,75
+  offset: 0,0
+  index: -1
+bug-10.eyes-happy
+  rotate: false
+  xy: 2577,1442
+  size: 209,77
+  orig: 209,77
+  offset: 0,0
+  index: -1
+bug-10.eyes-shut
+  rotate: false
+  xy: 2806,1442
+  size: 209,77
+  orig: 209,77
+  offset: 0,0
+  index: -1
+bug-10.eyes-angry
+  rotate: false
+  xy: 3035,1442
+  size: 209,77
+  orig: 209,77
+  offset: 0,0
+  index: -1
+bug-10.eyes
+  rotate: false
+  xy: 3264,1442
+  size: 209,77
+  orig: 209,77
+  offset: 0,0
+  index: -1
+reptile-04.horn
+  rotate: false
+  xy: 1079,3406
+  size: 104,154
+  orig: 104,154
+  offset: 0,0
+  index: -1
+reptile-10.eyes-angry
+  rotate: false
+  xy: 3493,1442
+  size: 205,78
+  orig: 205,78
+  offset: 0,0
+  index: -1
+plant-08.eyes-happy
+  rotate: false
+  xy: 1238,3791
+  size: 183,86
+  orig: 183,86
+  offset: 0,0
+  index: -1
+plant-08.eyes-shut
+  rotate: false
+  xy: 1238,3897
+  size: 183,86
+  orig: 183,86
+  offset: 0,0
+  index: -1
+plant-08.eyes-angry
+  rotate: false
+  xy: 1443,1761
+  size: 183,86
+  orig: 183,86
+  offset: 0,0
+  index: -1
+plant-08.eyes
+  rotate: false
+  xy: 1443,1867
+  size: 183,86
+  orig: 183,86
+  offset: 0,0
+  index: -1
+body-bigyak.body-braid
+  rotate: false
+  xy: 1079,3580
+  size: 107,147
+  orig: 107,147
+  offset: 0,0
+  index: -1
+bird-mystic-02.ear-left
+  rotate: false
+  xy: 1079,3747
+  size: 104,151
+  orig: 104,151
+  offset: 0,0
+  index: -1
+reptile-08.mouth-open
+  rotate: false
+  xy: 1443,1973
+  size: 176,89
+  orig: 176,89
+  offset: 0,0
+  index: -1
+reptile-04.eyes-shut
+  rotate: false
+  xy: 1443,2082
+  size: 161,97
+  orig: 161,97
+  offset: 0,0
+  index: -1
+aquatic-08.eyes-happy
+  rotate: false
+  xy: 1443,2199
+  size: 183,85
+  orig: 183,85
+  offset: 0,0
+  index: -1
+beast-mystic-02.ear-left
+  rotate: false
+  xy: 1079,3918
+  size: 108,144
+  orig: 108,144
+  offset: 0,0
+  index: -1
+plant-06.ear-right
+  rotate: false
+  xy: 1443,2304
+  size: 113,137
+  orig: 113,137
+  offset: 0,0
+  index: -1
+reptile-mystic-02.mouth-bite
+  rotate: false
+  xy: 3718,1442
+  size: 209,74
+  orig: 209,74
+  offset: 0,0
+  index: -1
+reptile-04.eyes
+  rotate: false
+  xy: 1443,2461
+  size: 188,82
+  orig: 188,82
+  offset: 0,0
+  index: -1
+aquatic-mystic-02.eyes-happy
+  rotate: false
+  xy: 1651,1546
+  size: 218,70
+  orig: 218,70
+  offset: 0,0
+  index: -1
+japan-01.ear-right
+  rotate: false
+  xy: 1443,2563
+  size: 87,175
+  orig: 87,175
+  offset: 0,0
+  index: -1
+aquatic-04.mouth
+  rotate: false
+  xy: 1651,1636
+  size: 200,75
+  orig: 200,75
+  offset: 0,0
+  index: -1
+reptile-10.eyes
+  rotate: false
+  xy: 1871,1636
+  size: 205,73
+  orig: 205,73
+  offset: 0,0
+  index: -1
+aquatic-04.mouth-smile
+  rotate: false
+  xy: 1889,1546
+  size: 213,70
+  orig: 213,70
+  offset: 0,0
+  index: -1
+aquatic-04.eyes-happy
+  rotate: false
+  xy: 1651,1731
+  size: 193,77
+  orig: 193,77
+  offset: 0,0
+  index: -1
+aquatic-04.eyes-shut
+  rotate: false
+  xy: 1864,1731
+  size: 193,77
+  orig: 193,77
+  offset: 0,0
+  index: -1
+aquatic-04.eyes-angry
+  rotate: false
+  xy: 2077,1731
+  size: 193,77
+  orig: 193,77
+  offset: 0,0
+  index: -1
+aquatic-04.eyes
+  rotate: false
+  xy: 2290,1731
+  size: 193,77
+  orig: 193,77
+  offset: 0,0
+  index: -1
+aquatic-08.mouth-smile
+  rotate: false
+  xy: 1443,2758
+  size: 147,101
+  orig: 147,101
+  offset: 0,0
+  index: -1
+aquatic-06.horn
+  rotate: false
+  xy: 1443,2879
+  size: 147,101
+  orig: 147,101
+  offset: 0,0
+  index: -1
+japan-01.tail
+  rotate: false
+  xy: 1443,3000
+  size: 147,101
+  orig: 147,101
+  offset: 0,0
+  index: -1
+bird-08.eyes-angry
+  rotate: false
+  xy: 1238,4003
+  size: 179,82
+  orig: 179,82
+  offset: 0,0
+  index: -1
+bird-08.eyes
+  rotate: false
+  xy: 1443,3121
+  size: 179,82
+  orig: 179,82
+  offset: 0,0
+  index: -1
+aquatic-08.mouth-bite
+  rotate: false
+  xy: 1443,3223
+  size: 145,101
+  orig: 145,101
+  offset: 0,0
+  index: -1
+reptile-08.mouth-smile
+  rotate: false
+  xy: 2122,1546
+  size: 209,70
+  orig: 209,70
+  offset: 0,0
+  index: -1
+reptile-02.mouth-bite
+  rotate: false
+  xy: 2351,1546
+  size: 209,70
+  orig: 209,70
+  offset: 0,0
+  index: -1
+reptile-08.eyes-shut
+  rotate: false
+  xy: 1443,3344
+  size: 155,94
+  orig: 155,94
+  offset: 0,0
+  index: -1
+reptile-02.ear-right
+  rotate: false
+  xy: 1443,3458
+  size: 107,136
+  orig: 107,136
+  offset: 0,0
+  index: -1
+aquatic-08.eyes-shut
+  rotate: false
+  xy: 1443,3614
+  size: 183,79
+  orig: 183,79
+  offset: 0,0
+  index: -1
+aquatic-08.eyes
+  rotate: false
+  xy: 1443,3713
+  size: 183,79
+  orig: 183,79
+  offset: 0,0
+  index: -1
+reptile-02.eyes-shut
+  rotate: false
+  xy: 2503,1731
+  size: 190,76
+  orig: 190,76
+  offset: 0,0
+  index: -1
+plant-mystic-02.horn
+  rotate: false
+  xy: 1443,3812
+  size: 103,140
+  orig: 103,140
+  offset: 0,0
+  index: -1
+aquatic-04.mouth-bite
+  rotate: false
+  xy: 1129,410
+  size: 231,62
+  orig: 231,62
+  offset: 0,0
+  index: -1
+bird-mystic-02.eyes-shut
+  rotate: false
+  xy: 2580,1546
+  size: 215,66
+  orig: 215,66
+  offset: 0,0
+  index: -1
+plant-06.horn
+  rotate: false
+  xy: 1651,1828
+  size: 114,124
+  orig: 114,124
+  offset: 0,0
+  index: -1
+bird-mystic-02.eyes-happy
+  rotate: false
+  xy: 2815,1546
+  size: 215,65
+  orig: 215,65
+  offset: 0,0
+  index: -1
+japan-01.mouth-open
+  rotate: false
+  xy: 1785,1828
+  size: 121,115
+  orig: 121,115
+  offset: 0,0
+  index: -1
+beast-04.eyes-angry
+  rotate: false
+  xy: 1443,3972
+  size: 188,74
+  orig: 188,74
+  offset: 0,0
+  index: -1
+bird-08.horn
+  rotate: false
+  xy: 1926,1828
+  size: 149,93
+  orig: 149,93
+  offset: 0,0
+  index: -1
+plant-08.ear-left
+  rotate: false
+  xy: 1651,1972
+  size: 109,127
+  orig: 109,127
+  offset: 0,0
+  index: -1
+reptile-04.eyes-happy
+  rotate: false
+  xy: 2096,1636
+  size: 189,73
+  orig: 189,73
+  offset: 0,0
+  index: -1
+beast-mystic-02.ear-right
+  rotate: false
+  xy: 1651,2119
+  size: 92,149
+  orig: 92,149
+  offset: 0,0
+  index: -1
+japan-02.eyes-angry
+  rotate: false
+  xy: 2095,1828
+  size: 171,80
+  orig: 171,80
+  offset: 0,0
+  index: -1
+aquatic-02.eyes-angry
+  rotate: false
+  xy: 2286,1828
+  size: 171,80
+  orig: 171,80
+  offset: 0,0
+  index: -1
+plant-10.mouth-open
+  rotate: false
+  xy: 1651,2288
+  size: 113,121
+  orig: 113,121
+  offset: 0,0
+  index: -1
+bird-10.eyes-happy
+  rotate: false
+  xy: 2477,1828
+  size: 164,83
+  orig: 164,83
+  offset: 0,0
+  index: -1
+plant-10.mouth
+  rotate: false
+  xy: 1651,2429
+  size: 111,121
+  orig: 111,121
+  offset: 0,0
+  index: -1
+plant-10.mouth-bite
+  rotate: false
+  xy: 1651,2570
+  size: 111,121
+  orig: 111,121
+  offset: 0,0
+  index: -1
+plant-10.mouth-smile
+  rotate: false
+  xy: 1651,2711
+  size: 111,121
+  orig: 111,121
+  offset: 0,0
+  index: -1
+bird-02.ear-right
+  rotate: false
+  xy: 1651,2852
+  size: 92,145
+  orig: 92,145
+  offset: 0,0
+  index: -1
+beast-02.ear-right
+  rotate: false
+  xy: 1651,2852
+  size: 92,145
+  orig: 92,145
+  offset: 0,0
+  index: -1
+bug-06.ear-right
+  rotate: false
+  xy: 1651,2852
+  size: 92,145
+  orig: 92,145
+  offset: 0,0
+  index: -1
+xmas-02.mouth-bite
+  rotate: false
+  xy: 1926,1941
+  size: 136,98
+  orig: 136,98
+  offset: 0,0
+  index: -1
+bug-08.ear-left
+  rotate: false
+  xy: 1651,3017
+  size: 104,128
+  orig: 104,128
+  offset: 0,0
+  index: -1
+bug-08.ear-right
+  rotate: false
+  xy: 1651,3165
+  size: 100,133
+  orig: 100,133
+  offset: 0,0
+  index: -1
+aquatic-08.eyes-angry
+  rotate: false
+  xy: 2305,1636
+  size: 183,72
+  orig: 183,72
+  offset: 0,0
+  index: -1
+japan-02.eyes-shut
+  rotate: false
+  xy: 2713,1731
+  size: 171,77
+  orig: 171,77
+  offset: 0,0
+  index: -1
+japan-02.eyes
+  rotate: false
+  xy: 2904,1731
+  size: 171,77
+  orig: 171,77
+  offset: 0,0
+  index: -1
+aquatic-02.eyes-shut
+  rotate: false
+  xy: 3095,1731
+  size: 171,77
+  orig: 171,77
+  offset: 0,0
+  index: -1
+aquatic-02.eyes
+  rotate: false
+  xy: 3286,1731
+  size: 171,77
+  orig: 171,77
+  offset: 0,0
+  index: -1
+beast-02.mouth-bite
+  rotate: false
+  xy: 2508,1636
+  size: 177,74
+  orig: 177,74
+  offset: 0,0
+  index: -1
+beast-mystic-02.mouth-bite
+  rotate: false
+  xy: 2705,1636
+  size: 177,74
+  orig: 177,74
+  offset: 0,0
+  index: -1
+plant-10.eyes-happy
+  rotate: false
+  xy: 3477,1731
+  size: 172,76
+  orig: 172,76
+  offset: 0,0
+  index: -1
+plant-10.eyes-shut
+  rotate: false
+  xy: 3669,1731
+  size: 172,76
+  orig: 172,76
+  offset: 0,0
+  index: -1
+plant-10.eyes-angry
+  rotate: false
+  xy: 3861,1731
+  size: 172,76
+  orig: 172,76
+  offset: 0,0
+  index: -1
+plant-10.eyes
+  rotate: false
+  xy: 2661,1828
+  size: 172,76
+  orig: 172,76
+  offset: 0,0
+  index: -1
+bug-08.mouth-bite
+  rotate: false
+  xy: 2902,1636
+  size: 181,72
+  orig: 181,72
+  offset: 0,0
+  index: -1
+japan-03.eyes-happy
+  rotate: false
+  xy: 2853,1828
+  size: 171,76
+  orig: 171,76
+  offset: 0,0
+  index: -1
+japan-03.eyes-shut
+  rotate: false
+  xy: 3044,1828
+  size: 171,76
+  orig: 171,76
+  offset: 0,0
+  index: -1
+aquatic-08.mouth-open
+  rotate: false
+  xy: 1785,1963
+  size: 119,109
+  orig: 119,109
+  offset: 0,0
+  index: -1
+aquatic-10.mouth-open
+  rotate: false
+  xy: 1785,2092
+  size: 121,107
+  orig: 121,107
+  offset: 0,0
+  index: -1
+plant-mystic-02.ear-left
+  rotate: false
+  xy: 1651,3318
+  size: 101,128
+  orig: 101,128
+  offset: 0,0
+  index: -1
+agamo-00.horn
+  rotate: false
+  xy: 1926,2059
+  size: 126,102
+  orig: 126,102
+  offset: 0,0
+  index: -1
+aquatic-12.horn
+  rotate: false
+  xy: 1926,2181
+  size: 126,102
+  orig: 126,102
+  offset: 0,0
+  index: -1
+bug-04.mouth-open
+  rotate: false
+  xy: 3235,1828
+  size: 151,85
+  orig: 151,85
+  offset: 0,0
+  index: -1
+japan-03.mouth-open
+  rotate: false
+  xy: 3050,1546
+  size: 186,69
+  orig: 186,69
+  offset: 0,0
+  index: -1
+japan-02.eyes-happy
+  rotate: false
+  xy: 3103,1636
+  size: 172,73
+  orig: 172,73
+  offset: 0,0
+  index: -1
+aquatic-02.eyes-happy
+  rotate: false
+  xy: 3295,1636
+  size: 172,73
+  orig: 172,73
+  offset: 0,0
+  index: -1
+beast-02.eyes-happy
+  rotate: false
+  xy: 3256,1546
+  size: 181,69
+  orig: 181,69
+  offset: 0,0
+  index: -1
+reptile-02.eyes-happy
+  rotate: false
+  xy: 3457,1546
+  size: 188,65
+  orig: 188,65
+  offset: 0,0
+  index: -1
+bug-08.horn
+  rotate: false
+  xy: 3487,1636
+  size: 165,74
+  orig: 165,74
+  offset: 0,0
+  index: -1
+bug-08.mouth-smile
+  rotate: false
+  xy: 3665,1546
+  size: 181,67
+  orig: 181,67
+  offset: 0,0
+  index: -1
+agamo-01.horn
+  rotate: false
+  xy: 1651,3466
+  size: 92,131
+  orig: 92,131
+  offset: 0,0
+  index: -1
+reptile-10.eyes-happy
+  rotate: false
+  xy: 3672,1636
+  size: 168,71
+  orig: 168,71
+  offset: 0,0
+  index: -1
+plant-02.horn
+  rotate: false
+  xy: 1651,3617
+  size: 92,129
+  orig: 92,129
+  offset: 0,0
+  index: -1
+bird-10.eyes-shut
+  rotate: false
+  xy: 3860,1636
+  size: 164,72
+  orig: 164,72
+  offset: 0,0
+  index: -1
+bird-10.eyes
+  rotate: false
+  xy: 3406,1828
+  size: 164,72
+  orig: 164,72
+  offset: 0,0
+  index: -1
+plant-04.ear-left
+  rotate: false
+  xy: 1651,3766
+  size: 108,109
+  orig: 108,109
+  offset: 0,0
+  index: -1
+japan-01.mouth-bite
+  rotate: false
+  xy: 1380,410
+  size: 212,55
+  orig: 212,55
+  offset: 0,0
+  index: -1
+bug-10.horn
+  rotate: false
+  xy: 1651,3895
+  size: 90,129
+  orig: 90,129
+  offset: 0,0
+  index: -1
+reptile-mystic-02.mouth-open
+  rotate: false
+  xy: 3866,1546
+  size: 200,58
+  orig: 200,58
+  offset: 0,0
+  index: -1
+bird-02.eyes-angry
+  rotate: false
+  xy: 3590,1828
+  size: 187,62
+  orig: 187,62
+  offset: 0,0
+  index: -1
+bird-02.eyes
+  rotate: false
+  xy: 3797,1828
+  size: 187,62
+  orig: 187,62
+  offset: 0,0
+  index: -1
+plant-04.eyes-angry
+  rotate: false
+  xy: 2082,1941
+  size: 160,72
+  orig: 160,72
+  offset: 0,0
+  index: -1
+beast-08.ear-left
+  rotate: false
+  xy: 1785,2219
+  size: 95,121
+  orig: 95,121
+  offset: 0,0
+  index: -1
+xmas-02.mouth-blink
+  rotate: false
+  xy: 1785,2360
+  size: 117,98
+  orig: 117,98
+  offset: 0,0
+  index: -1
+xmas-02.mouth-smile
+  rotate: false
+  xy: 1785,2478
+  size: 117,98
+  orig: 117,98
+  offset: 0,0
+  index: -1
+japan-02.mouth
+  rotate: false
+  xy: 2262,1941
+  size: 204,56
+  orig: 204,56
+  offset: 0,0
+  index: -1
+aquatic-mystic-02.ear-left
+  rotate: false
+  xy: 1785,2596
+  size: 84,136
+  orig: 84,136
+  offset: 0,0
+  index: -1
+reptile-10.eyes-shut
+  rotate: false
+  xy: 2486,1941
+  size: 164,69
+  orig: 164,69
+  offset: 0,0
+  index: -1
+aquatic-08.mouth
+  rotate: false
+  xy: 1785,2752
+  size: 112,101
+  orig: 112,101
+  offset: 0,0
+  index: -1
+japan-02.mouth-bite
+  rotate: false
+  xy: 2670,1941
+  size: 202,56
+  orig: 202,56
+  offset: 0,0
+  index: -1
+aquatic-10.mouth-bite
+  rotate: false
+  xy: 2892,1941
+  size: 212,53
+  orig: 212,53
+  offset: 0,0
+  index: -1
+reptile-08.mouth-bite
+  rotate: false
+  xy: 3124,1941
+  size: 204,55
+  orig: 204,55
+  offset: 0,0
+  index: -1
+reptile-06.ear-left
+  rotate: false
+  xy: 1785,2873
+  size: 111,101
+  orig: 111,101
+  offset: 0,0
+  index: -1
+japan-03.mouth-smile
+  rotate: false
+  xy: 3348,1941
+  size: 186,60
+  orig: 186,60
+  offset: 0,0
+  index: -1
+reptile-08.mouth
+  rotate: false
+  xy: 3554,1941
+  size: 176,63
+  orig: 176,63
+  offset: 0,0
+  index: -1
+bird-08.eyes-happy
+  rotate: false
+  xy: 3750,1941
+  size: 143,76
+  orig: 143,76
+  offset: 0,0
+  index: -1
+beast-02.eyes
+  rotate: false
+  xy: 2072,2059
+  size: 181,60
+  orig: 181,60
+  offset: 0,0
+  index: -1
+plant-mystic-02.eyes-happy
+  rotate: false
+  xy: 2273,2059
+  size: 187,58
+  orig: 187,58
+  offset: 0,0
+  index: -1
+plant-mystic-02.eyes-shut
+  rotate: false
+  xy: 2273,2059
+  size: 187,58
+  orig: 187,58
+  offset: 0,0
+  index: -1
+plant-mystic-02.eyes
+  rotate: false
+  xy: 2273,2059
+  size: 187,58
+  orig: 187,58
+  offset: 0,0
+  index: -1
+plant-mystic-02.eyes-angry
+  rotate: false
+  xy: 2480,2059
+  size: 187,58
+  orig: 187,58
+  offset: 0,0
+  index: -1
+plant-mystic-02.ear-right
+  rotate: false
+  xy: 1550,2563
+  size: 80,133
+  orig: 80,133
+  offset: 0,0
+  index: -1
+plant-12.ear-left
+  rotate: false
+  xy: 1785,2994
+  size: 112,95
+  orig: 112,95
+  offset: 0,0
+  index: -1
+reptile-10.mouth-open
+  rotate: false
+  xy: 1785,3109
+  size: 119,89
+  orig: 119,89
+  offset: 0,0
+  index: -1
+beast-10.mouth-open
+  rotate: false
+  xy: 1785,3218
+  size: 103,102
+  orig: 103,102
+  offset: 0,0
+  index: -1
+beast-02.eyes-shut
+  rotate: false
+  xy: 2687,2059
+  size: 181,58
+  orig: 181,58
+  offset: 0,0
+  index: -1
+plant-02.ear-left
+  rotate: false
+  xy: 1785,3340
+  size: 97,108
+  orig: 97,108
+  offset: 0,0
+  index: -1
+xmas-01.eyes-angry
+  rotate: false
+  xy: 2888,2059
+  size: 186,56
+  orig: 186,56
+  offset: 0,0
+  index: -1
+beast-04.mouth-open
+  rotate: false
+  xy: 1785,3468
+  size: 62,168
+  orig: 62,168
+  offset: 0,0
+  index: -1
+reptile-08.ear-left
+  rotate: false
+  xy: 1785,3656
+  size: 84,124
+  orig: 84,124
+  offset: 0,0
+  index: -1
+beast-10.eyes-happy
+  rotate: false
+  xy: 3947,1442
+  size: 130,80
+  orig: 130,80
+  offset: 0,0
+  index: -1
+reptile-02.mouth-open
+  rotate: false
+  xy: 3094,2059
+  size: 179,58
+  orig: 179,58
+  offset: 0,0
+  index: -1
+beast-08.ear-right
+  rotate: false
+  xy: 1785,3800
+  size: 90,115
+  orig: 90,115
+  offset: 0,0
+  index: -1
+bug-10.ear-right
+  rotate: false
+  xy: 1785,3935
+  size: 83,124
+  orig: 83,124
+  offset: 0,0
+  index: -1
+bug-10.ear-left
+  rotate: false
+  xy: 1926,2303
+  size: 83,124
+  orig: 83,124
+  offset: 0,0
+  index: -1
+plant-10.ear-left
+  rotate: false
+  xy: 1926,2447
+  size: 87,118
+  orig: 87,118
+  offset: 0,0
+  index: -1
+aquatic-12.ear-left
+  rotate: false
+  xy: 1926,2585
+  size: 87,118
+  orig: 87,118
+  offset: 0,0
+  index: -1
+aquatic-02.ear-left
+  rotate: false
+  xy: 1926,2723
+  size: 86,119
+  orig: 86,119
+  offset: 0,0
+  index: -1
+bird-06.ear-right
+  rotate: false
+  xy: 1926,2862
+  size: 86,119
+  orig: 86,119
+  offset: 0,0
+  index: -1
+bird-06.ear-left
+  rotate: false
+  xy: 1926,3001
+  size: 86,119
+  orig: 86,119
+  offset: 0,0
+  index: -1
+plant-08.ear-right
+  rotate: false
+  xy: 1926,3140
+  size: 85,120
+  orig: 85,120
+  offset: 0,0
+  index: -1
+bird-08.eyes-shut
+  rotate: false
+  xy: 3913,1941
+  size: 143,71
+  orig: 143,71
+  offset: 0,0
+  index: -1
+aquatic-02.mouth-bite
+  rotate: false
+  xy: 2072,2139
+  size: 163,62
+  orig: 163,62
+  offset: 0,0
+  index: -1
+aquatic-mystic-02.mouth-bite
+  rotate: false
+  xy: 2255,2139
+  size: 163,62
+  orig: 163,62
+  offset: 0,0
+  index: -1
+japan-03.ear-left
+  rotate: false
+  xy: 1926,3280
+  size: 96,105
+  orig: 96,105
+  offset: 0,0
+  index: -1
+beast-mystic-02.eyes-angry
+  rotate: false
+  xy: 2072,2221
+  size: 129,78
+  orig: 129,78
+  offset: 0,0
+  index: -1
+aquatic-12.ear-right
+  rotate: false
+  xy: 1926,3405
+  size: 86,117
+  orig: 86,117
+  offset: 0,0
+  index: -1
+bird-mystic-02.mouth-bite
+  rotate: false
+  xy: 1926,3542
+  size: 89,113
+  orig: 89,113
+  offset: 0,0
+  index: -1
+bug-mystic-02.mouth
+  rotate: false
+  xy: 1926,3675
+  size: 115,87
+  orig: 115,87
+  offset: 0,0
+  index: -1
+aquatic-02.mouth-open
+  rotate: false
+  xy: 1926,3782
+  size: 90,111
+  orig: 90,111
+  offset: 0,0
+  index: -1
+aquatic-mystic-02.mouth-open
+  rotate: false
+  xy: 1926,3913
+  size: 90,111
+  orig: 90,111
+  offset: 0,0
+  index: -1
+beast-mystic-02.eyes-happy
+  rotate: false
+  xy: 2072,2319
+  size: 117,85
+  orig: 117,85
+  offset: 0,0
+  index: -1
+beast-04.mouth-bite
+  rotate: false
+  xy: 2072,2424
+  size: 81,120
+  orig: 81,120
+  offset: 0,0
+  index: -1
+japan-02.ear-left
+  rotate: false
+  xy: 2072,2564
+  size: 87,110
+  orig: 87,110
+  offset: 0,0
+  index: -1
+plant-02.eyes-angry
+  rotate: false
+  xy: 256,4032
+  size: 180,53
+  orig: 180,53
+  offset: 0,0
+  index: -1
+aquatic-08.ear-left
+  rotate: false
+  xy: 2072,2694
+  size: 107,89
+  orig: 107,89
+  offset: 0,0
+  index: -1
+bird-04.eyes
+  rotate: false
+  xy: 2072,2803
+  size: 119,80
+  orig: 119,80
+  offset: 0,0
+  index: -1
+bird-mystic-02.ear-right
+  rotate: false
+  xy: 2072,2903
+  size: 85,112
+  orig: 85,112
+  offset: 0,0
+  index: -1
+aquatic-06.body-pattern
+  rotate: false
+  xy: 2072,3035
+  size: 88,108
+  orig: 88,108
+  offset: 0,0
+  index: -1
+plant-02.body-pattern
+  rotate: false
+  xy: 2072,3035
+  size: 88,108
+  orig: 88,108
+  offset: 0,0
+  index: -1
+reptile-06.body-pattern
+  rotate: false
+  xy: 2072,3035
+  size: 88,108
+  orig: 88,108
+  offset: 0,0
+  index: -1
+plant-04.body-pattern
+  rotate: false
+  xy: 2072,3035
+  size: 88,108
+  orig: 88,108
+  offset: 0,0
+  index: -1
+japan-03.body-pattern
+  rotate: false
+  xy: 2072,3035
+  size: 88,108
+  orig: 88,108
+  offset: 0,0
+  index: -1
+bug-10.body-pattern
+  rotate: false
+  xy: 2072,3035
+  size: 88,108
+  orig: 88,108
+  offset: 0,0
+  index: -1
+bug-04.body-pattern
+  rotate: false
+  xy: 2072,3035
+  size: 88,108
+  orig: 88,108
+  offset: 0,0
+  index: -1
+bug-02.body-pattern
+  rotate: false
+  xy: 2072,3035
+  size: 88,108
+  orig: 88,108
+  offset: 0,0
+  index: -1
+reptile-12.body-pattern
+  rotate: false
+  xy: 2072,3035
+  size: 88,108
+  orig: 88,108
+  offset: 0,0
+  index: -1
+plant-10.body-pattern
+  rotate: false
+  xy: 2072,3035
+  size: 88,108
+  orig: 88,108
+  offset: 0,0
+  index: -1
+aquatic-12.body-pattern
+  rotate: false
+  xy: 2072,3035
+  size: 88,108
+  orig: 88,108
+  offset: 0,0
+  index: -1
+bird-10.body-pattern
+  rotate: false
+  xy: 2072,3035
+  size: 88,108
+  orig: 88,108
+  offset: 0,0
+  index: -1
+plant-08.body-pattern
+  rotate: false
+  xy: 2072,3035
+  size: 88,108
+  orig: 88,108
+  offset: 0,0
+  index: -1
+reptile-04.body-pattern
+  rotate: false
+  xy: 2072,3035
+  size: 88,108
+  orig: 88,108
+  offset: 0,0
+  index: -1
+beast-06.body-pattern
+  rotate: false
+  xy: 2072,3035
+  size: 88,108
+  orig: 88,108
+  offset: 0,0
+  index: -1
+reptile-02.body-pattern
+  rotate: false
+  xy: 2072,3035
+  size: 88,108
+  orig: 88,108
+  offset: 0,0
+  index: -1
+bug-12.body-pattern
+  rotate: false
+  xy: 2072,3035
+  size: 88,108
+  orig: 88,108
+  offset: 0,0
+  index: -1
+bug-08.body-pattern
+  rotate: false
+  xy: 2072,3035
+  size: 88,108
+  orig: 88,108
+  offset: 0,0
+  index: -1
+bug-06.body-pattern
+  rotate: false
+  xy: 2072,3035
+  size: 88,108
+  orig: 88,108
+  offset: 0,0
+  index: -1
+aquatic-10.body-pattern
+  rotate: false
+  xy: 2072,3035
+  size: 88,108
+  orig: 88,108
+  offset: 0,0
+  index: -1
+bird-12.body-pattern
+  rotate: false
+  xy: 2072,3035
+  size: 88,108
+  orig: 88,108
+  offset: 0,0
+  index: -1
+plant-12.body-pattern
+  rotate: false
+  xy: 2072,3035
+  size: 88,108
+  orig: 88,108
+  offset: 0,0
+  index: -1
+reptile-10.body-pattern
+  rotate: false
+  xy: 2072,3035
+  size: 88,108
+  orig: 88,108
+  offset: 0,0
+  index: -1
+beast-02.mouth-open
+  rotate: false
+  xy: 2072,3163
+  size: 79,120
+  orig: 79,120
+  offset: 0,0
+  index: -1
+beast-mystic-02.mouth-open
+  rotate: false
+  xy: 2072,3303
+  size: 79,120
+  orig: 79,120
+  offset: 0,0
+  index: -1
+bird-08.mouth-open
+  rotate: false
+  xy: 2072,3443
+  size: 92,103
+  orig: 92,103
+  offset: 0,0
+  index: -1
+bug-mystic-02.mouth-smile
+  rotate: false
+  xy: 2072,3566
+  size: 121,78
+  orig: 121,78
+  offset: 0,0
+  index: -1
+plant-04.ear-right
+  rotate: false
+  xy: 2072,3664
+  size: 88,107
+  orig: 88,107
+  offset: 0,0
+  index: -1
+xmas-02.mouth-open
+  rotate: false
+  xy: 2072,3791
+  size: 96,98
+  orig: 96,98
+  offset: 0,0
+  index: -1
+reptile-12.ear-left
+  rotate: false
+  xy: 2072,3909
+  size: 102,92
+  orig: 102,92
+  offset: 0,0
+  index: -1
+bird-mystic-02.mouth-open
+  rotate: false
+  xy: 2221,2221
+  size: 67,140
+  orig: 67,140
+  offset: 0,0
+  index: -1
+xmas-01.mouth-bite
+  rotate: false
+  xy: 2308,2221
+  size: 100,93
+  orig: 100,93
+  offset: 0,0
+  index: -1
+plant-04.eyes
+  rotate: false
+  xy: 3293,2059
+  size: 160,58
+  orig: 160,58
+  offset: 0,0
+  index: -1
+reptile-06.ear-right
+  rotate: false
+  xy: 2308,2334
+  size: 92,100
+  orig: 92,100
+  offset: 0,0
+  index: -1
+xmas-01.mouth-smile
+  rotate: false
+  xy: 2420,2334
+  size: 94,97
+  orig: 94,97
+  offset: 0,0
+  index: -1
+beast-10.mouth-bite
+  rotate: false
+  xy: 2428,2221
+  size: 128,71
+  orig: 128,71
+  offset: 0,0
+  index: -1
+beast-02.eyes-angry
+  rotate: false
+  xy: 3473,2059
+  size: 181,50
+  orig: 181,50
+  offset: 0,0
+  index: -1
+plant-04.mouth-open
+  rotate: false
+  xy: 2308,2454
+  size: 83,109
+  orig: 83,109
+  offset: 0,0
+  index: -1
+bird-04.eyes-angry
+  rotate: false
+  xy: 2576,2221
+  size: 133,68
+  orig: 133,68
+  offset: 0,0
+  index: -1
+bird-mystic-02.mouth-smile
+  rotate: false
+  xy: 2308,2583
+  size: 80,113
+  orig: 80,113
+  offset: 0,0
+  index: -1
+beast-04.tail
+  rotate: false
+  xy: 2729,2221
+  size: 115,78
+  orig: 115,78
+  offset: 0,0
+  index: -1
+plant-04.mouth-bite
+  rotate: false
+  xy: 2864,2221
+  size: 108,83
+  orig: 108,83
+  offset: 0,0
+  index: -1
+beast-mystic-02.eyes
+  rotate: false
+  xy: 2992,2221
+  size: 117,76
+  orig: 117,76
+  offset: 0,0
+  index: -1
+beast-04.ear-left
+  rotate: false
+  xy: 3129,2221
+  size: 101,88
+  orig: 101,88
+  offset: 0,0
+  index: -1
+body-normal.body-light-life
+  rotate: false
+  xy: 3987,1328
+  size: 94,94
+  orig: 94,94
+  offset: 0,0
+  index: -1
+beast-mystic-02.eyes-shut
+  rotate: false
+  xy: 3250,2221
+  size: 115,76
+  orig: 115,76
+  offset: 0,0
+  index: -1
+japan-02.ear-right
+  rotate: false
+  xy: 3385,2221
+  size: 96,91
+  orig: 96,91
+  offset: 0,0
+  index: -1
+aquatic-mystic-02.ear-right
+  rotate: false
+  xy: 2221,2381
+  size: 60,145
+  orig: 60,145
+  offset: 0,0
+  index: -1
+aquatic-10.ear-left
+  rotate: false
+  xy: 2308,2716
+  size: 69,126
+  orig: 69,126
+  offset: 0,0
+  index: -1
+xmas-01.mouth-blink
+  rotate: false
+  xy: 3501,2221
+  size: 93,93
+  orig: 93,93
+  offset: 0,0
+  index: -1
+plant-02.ear-right
+  rotate: false
+  xy: 2308,2862
+  size: 78,110
+  orig: 78,110
+  offset: 0,0
+  index: -1
+reptile-10.ear-right
+  rotate: false
+  xy: 2308,2862
+  size: 78,110
+  orig: 78,110
+  offset: 0,0
+  index: -1
+xmas-01.mouth-open
+  rotate: false
+  xy: 2308,2992
+  size: 73,116
+  orig: 73,116
+  offset: 0,0
+  index: -1
+bird-04.eyes-happy
+  rotate: false
+  xy: 3614,2221
+  size: 119,70
+  orig: 119,70
+  offset: 0,0
+  index: -1
+reptile-04.mouth-open
+  rotate: false
+  xy: 3753,2221
+  size: 115,72
+  orig: 115,72
+  offset: 0,0
+  index: -1
+aquatic-06.ear-right
+  rotate: false
+  xy: 2308,3128
+  size: 88,94
+  orig: 88,94
+  offset: 0,0
+  index: -1
+plant-04.horn
+  rotate: false
+  xy: 2308,3242
+  size: 78,106
+  orig: 78,106
+  offset: 0,0
+  index: -1
+bug-04.mouth-smile
+  rotate: false
+  xy: 3888,2221
+  size: 110,75
+  orig: 110,75
+  offset: 0,0
+  index: -1
+reptile-02.mouth
+  rotate: false
+  xy: 3674,2059
+  size: 149,55
+  orig: 149,55
+  offset: 0,0
+  index: -1
+aquatic-06.ear-left
+  rotate: false
+  xy: 2308,3368
+  size: 88,93
+  orig: 88,93
+  offset: 0,0
+  index: -1
+bird-04.ear-left
+  rotate: false
+  xy: 2308,3481
+  size: 79,102
+  orig: 79,102
+  offset: 0,0
+  index: -1
+aquatic-02.mouth-smile
+  rotate: false
+  xy: 2534,2334
+  size: 120,67
+  orig: 120,67
+  offset: 0,0
+  index: -1
+aquatic-mystic-02.mouth-smile
+  rotate: false
+  xy: 2674,2334
+  size: 120,67
+  orig: 120,67
+  offset: 0,0
+  index: -1
+bird-08.mouth-bite
+  rotate: false
+  xy: 2814,2334
+  size: 101,79
+  orig: 101,79
+  offset: 0,0
+  index: -1
+reptile-02.mouth-smile
+  rotate: false
+  xy: 3843,2059
+  size: 177,45
+  orig: 177,45
+  offset: 0,0
+  index: -1
+beast-04.eyes
+  rotate: false
+  xy: 605,428
+  size: 188,42
+  orig: 188,42
+  offset: 0,0
+  index: -1
+plant-08.mouth-bite
+  rotate: false
+  xy: 2438,2139
+  size: 157,50
+  orig: 157,50
+  offset: 0,0
+  index: -1
+bird-10.ear-right
+  rotate: false
+  xy: 2308,3603
+  size: 85,92
+  orig: 85,92
+  offset: 0,0
+  index: -1
+xmas-01.eyes-happy
+  rotate: false
+  xy: 813,428
+  size: 186,42
+  orig: 186,42
+  offset: 0,0
+  index: -1
+xmas-01.eyes
+  rotate: false
+  xy: 1661,429
+  size: 186,42
+  orig: 186,42
+  offset: 0,0
+  index: -1
+reptile-12.ear-right
+  rotate: false
+  xy: 2308,3715
+  size: 84,93
+  orig: 84,93
+  offset: 0,0
+  index: -1
+bug-10.mouth-open
+  rotate: false
+  xy: 2935,2334
+  size: 113,69
+  orig: 113,69
+  offset: 0,0
+  index: -1
+bird-04.eyes-shut
+  rotate: false
+  xy: 3068,2334
+  size: 116,67
+  orig: 116,67
+  offset: 0,0
+  index: -1
+plant-08.mouth-open
+  rotate: false
+  xy: 2308,3828
+  size: 92,84
+  orig: 92,84
+  offset: 0,0
+  index: -1
+aquatic-08.ear-right
+  rotate: false
+  xy: 3204,2334
+  size: 94,81
+  orig: 94,81
+  offset: 0,0
+  index: -1
+plant-12.ear-right
+  rotate: false
+  xy: 2308,3932
+  size: 87,87
+  orig: 87,87
+  offset: 0,0
+  index: -1
+aquatic-04.ear-left
+  rotate: false
+  xy: 2420,2451
+  size: 73,103
+  orig: 73,103
+  offset: 0,0
+  index: -1
+xmas-02.eyes
+  rotate: false
+  xy: 2615,2139
+  size: 125,60
+  orig: 125,60
+  offset: 0,0
+  index: -1
+xmas-02.ear-right
+  rotate: false
+  xy: 3318,2334
+  size: 85,88
+  orig: 85,88
+  offset: 0,0
+  index: -1
+xmas-02.ear-left
+  rotate: false
+  xy: 3423,2334
+  size: 85,88
+  orig: 85,88
+  offset: 0,0
+  index: -1
+bird-10.ear-left
+  rotate: false
+  xy: 3528,2334
+  size: 83,90
+  orig: 83,90
+  offset: 0,0
+  index: -1
+bird-08.ear-left
+  rotate: false
+  xy: 3631,2334
+  size: 94,79
+  orig: 94,79
+  offset: 0,0
+  index: -1
+bird-mystic-02.mouth
+  rotate: false
+  xy: 1566,3812
+  size: 65,113
+  orig: 65,113
+  offset: 0,0
+  index: -1
+beast-04.eyes-shut
+  rotate: false
+  xy: 1867,429
+  size: 188,39
+  orig: 188,39
+  offset: 0,0
+  index: -1
+bird-04.mouth-bite
+  rotate: false
+  xy: 3745,2334
+  size: 86,85
+  orig: 86,85
+  offset: 0,0
+  index: -1
+reptile-08.ear-right
+  rotate: false
+  xy: 1570,3458
+  size: 57,128
+  orig: 57,128
+  offset: 0,0
+  index: -1
+bird-02.mouth-open
+  rotate: false
+  xy: 2221,2546
+  size: 63,115
+  orig: 63,115
+  offset: 0,0
+  index: -1
+beast-04.mouth-smile
+  rotate: false
+  xy: 2221,2681
+  size: 60,119
+  orig: 60,119
+  offset: 0,0
+  index: -1
+bug-mystic-02.ear-right
+  rotate: false
+  xy: 2221,2820
+  size: 66,108
+  orig: 66,108
+  offset: 0,0
+  index: -1
+bird-02.eyes-happy
+  rotate: false
+  xy: 10,4046
+  size: 187,38
+  orig: 187,38
+  offset: 0,0
+  index: -1
+beast-04.horn
+  rotate: false
+  xy: 2420,2574
+  size: 70,101
+  orig: 70,101
+  offset: 0,0
+  index: -1
+xmas-01.eyes-base
+  rotate: false
+  xy: 2647,1264
+  size: 214,33
+  orig: 214,33
+  offset: 0,0
+  index: -1
+beast-08.mouth-open
+  rotate: false
+  xy: 2221,2948
+  size: 64,110
+  orig: 64,110
+  offset: 0,0
+  index: -1
+beast-04.mouth
+  rotate: false
+  xy: 2221,3078
+  size: 59,118
+  orig: 59,118
+  offset: 0,0
+  index: -1
+bug-02.mouth-bite
+  rotate: false
+  xy: 2760,2139
+  size: 145,48
+  orig: 145,48
+  offset: 0,0
+  index: -1
+japan-01.mouth
+  rotate: false
+  xy: 3851,2334
+  size: 96,72
+  orig: 96,72
+  offset: 0,0
+  index: -1
+reptile-mystic-02.mouth
+  rotate: false
+  xy: 2903,1264
+  size: 172,40
+  orig: 172,40
+  offset: 0,0
+  index: -1
+beast-02.mouth-smile
+  rotate: false
+  xy: 3967,2334
+  size: 103,66
+  orig: 103,66
+  offset: 0,0
+  index: -1
+beast-mystic-02.mouth-smile
+  rotate: false
+  xy: 2513,2451
+  size: 103,66
+  orig: 103,66
+  offset: 0,0
+  index: -1
+plant-10.ear-right
+  rotate: false
+  xy: 4004,1828
+  size: 72,93
+  orig: 72,93
+  offset: 0,0
+  index: -1
+bird-12.ear-left
+  rotate: false
+  xy: 2420,2695
+  size: 69,97
+  orig: 69,97
+  offset: 0,0
+  index: -1
+bird-08.mouth-smile
+  rotate: false
+  xy: 2513,2537
+  size: 83,79
+  orig: 83,79
+  offset: 0,0
+  index: -1
+plant-08.mouth-smile
+  rotate: false
+  xy: 2925,2139
+  size: 138,47
+  orig: 138,47
+  offset: 0,0
+  index: -1
+bug-06.tail
+  rotate: false
+  xy: 3083,2139
+  size: 117,55
+  orig: 117,55
+  offset: 0,0
+  index: -1
+plant-mystic-02.mouth-bite
+  rotate: false
+  xy: 3220,2139
+  size: 130,49
+  orig: 130,49
+  offset: 0,0
+  index: -1
+bird-02.mouth-bite
+  rotate: false
+  xy: 2616,2537
+  size: 89,71
+  orig: 89,71
+  offset: 0,0
+  index: -1
+bug-04.ear-right
+  rotate: false
+  xy: 2513,2636
+  size: 74,85
+  orig: 74,85
+  offset: 0,0
+  index: -1
+bug-04.ear-left
+  rotate: false
+  xy: 2513,2741
+  size: 74,85
+  orig: 74,85
+  offset: 0,0
+  index: -1
+xmas-02.eyes-angry
+  rotate: false
+  xy: 3370,2139
+  size: 123,51
+  orig: 123,51
+  offset: 0,0
+  index: -1
+bird-04.mouth-open
+  rotate: false
+  xy: 2221,3216
+  size: 59,106
+  orig: 59,106
+  offset: 0,0
+  index: -1
+beast-04.ear-right
+  rotate: false
+  xy: 2513,2846
+  size: 79,79
+  orig: 79,79
+  offset: 0,0
+  index: -1
+plant-02.mouth-bite
+  rotate: false
+  xy: 3513,2139
+  size: 130,48
+  orig: 130,48
+  offset: 0,0
+  index: -1
+bug-10.mouth-smile
+  rotate: false
+  xy: 3159,1264
+  size: 145,43
+  orig: 145,43
+  offset: 0,0
+  index: -1
+reptile-10.ear-left
+  rotate: false
+  xy: 2616,2628
+  size: 86,72
+  orig: 86,72
+  offset: 0,0
+  index: -1
+bird-04.ear-right
+  rotate: false
+  xy: 2221,3342
+  size: 60,102
+  orig: 60,102
+  offset: 0,0
+  index: -1
+aquatic-10.mouth-smile
+  rotate: false
+  xy: 3663,2139
+  size: 103,59
+  orig: 103,59
+  offset: 0,0
+  index: -1
+bug-mystic-02.mouth-open
+  rotate: false
+  xy: 2420,2812
+  size: 69,86
+  orig: 69,86
+  offset: 0,0
+  index: -1
+bird-02.mouth-smile
+  rotate: false
+  xy: 2513,2945
+  size: 75,79
+  orig: 75,79
+  offset: 0,0
+  index: -1
+bird-08.mouth
+  rotate: false
+  xy: 2513,3044
+  size: 74,80
+  orig: 74,80
+  offset: 0,0
+  index: -1
+body-normal.xmas-leg-front-right
+  rotate: false
+  xy: 2513,3144
+  size: 76,77
+  orig: 76,77
+  offset: 0,0
+  index: -1
+beast-10.ear-right
+  rotate: false
+  xy: 2513,3241
+  size: 81,72
+  orig: 81,72
+  offset: 0,0
+  index: -1
+body-normal.xmas-leg-back-left
+  rotate: false
+  xy: 2513,3333
+  size: 76,76
+  orig: 76,76
+  offset: 0,0
+  index: -1
+body-normal.xmas-leg-back-left-stretch
+  rotate: false
+  xy: 2513,3333
+  size: 76,76
+  orig: 76,76
+  offset: 0,0
+  index: -1
+japan-03.mouth
+  rotate: false
+  xy: 1437,1105
+  size: 186,31
+  orig: 186,31
+  offset: 0,0
+  index: -1
+beast-10.eyes-angry
+  rotate: false
+  xy: 3415,1264
+  size: 134,43
+  orig: 134,43
+  offset: 0,0
+  index: -1
+aquatic-10.mouth
+  rotate: false
+  xy: 3786,2139
+  size: 96,60
+  orig: 96,60
+  offset: 0,0
+  index: -1
+beast-10.ear-left
+  rotate: false
+  xy: 2513,3429
+  size: 82,70
+  orig: 82,70
+  offset: 0,0
+  index: -1
+bird-02.eyes-shut
+  rotate: false
+  xy: 3902,2139
+  size: 184,31
+  orig: 184,31
+  offset: 0,0
+  index: -1
+body-normal.xmas-leg-back-left-long
+  rotate: false
+  xy: 2513,3519
+  size: 77,74
+  orig: 77,74
+  offset: 0,0
+  index: -1
+body-normal.xmas-leg-front-left-stretch
+  rotate: false
+  xy: 2513,3519
+  size: 77,74
+  orig: 77,74
+  offset: 0,0
+  index: -1
+body-normal.xmas-leg-front-left-long
+  rotate: false
+  xy: 2513,3519
+  size: 77,74
+  orig: 77,74
+  offset: 0,0
+  index: -1
+bug-02.mouth-smile
+  rotate: false
+  xy: 2072,4021
+  size: 94,60
+  orig: 94,60
+  offset: 0,0
+  index: -1
+body-normal.xmas-leg-front-left
+  rotate: false
+  xy: 2513,3613
+  size: 76,74
+  orig: 76,74
+  offset: 0,0
+  index: -1
+reptile-10.mouth-bite
+  rotate: false
+  xy: 2636,2451
+  size: 122,46
+  orig: 122,46
+  offset: 0,0
+  index: -1
+reptile-10.mouth-smile
+  rotate: false
+  xy: 2778,2451
+  size: 130,43
+  orig: 130,43
+  offset: 0,0
+  index: -1
+plant-mystic-02.mouth-open
+  rotate: false
+  xy: 4018,2221
+  size: 68,82
+  orig: 68,82
+  offset: 0,0
+  index: -1
+bird-02.ear-left
+  rotate: false
+  xy: 2420,2918
+  size: 73,76
+  orig: 73,76
+  offset: 0,0
+  index: -1
+beast-12.ear-left
+  rotate: false
+  xy: 2513,3707
+  size: 78,71
+  orig: 78,71
+  offset: 0,0
+  index: -1
+aquatic-02.ear-right
+  rotate: false
+  xy: 4031,1157
+  size: 49,113
+  orig: 49,113
+  offset: 0,0
+  index: -1
+bird-08.ear-right
+  rotate: false
+  xy: 2221,3464
+  size: 62,89
+  orig: 62,89
+  offset: 0,0
+  index: -1
+plant-02.mouth-open
+  rotate: false
+  xy: 2420,3014
+  size: 68,81
+  orig: 68,81
+  offset: 0,0
+  index: -1
+xmas-02.mouth
+  rotate: false
+  xy: 2928,2451
+  size: 84,65
+  orig: 84,65
+  offset: 0,0
+  index: -1
+xmas-01.eyes-shut
+  rotate: false
+  xy: 3032,2451
+  size: 186,29
+  orig: 186,29
+  offset: 0,0
+  index: -1
+aquatic-02.mouth
+  rotate: false
+  xy: 2420,3115
+  size: 72,73
+  orig: 72,73
+  offset: 0,0
+  index: -1
+beast-10.eyes
+  rotate: false
+  xy: 278,2276
+  size: 134,39
+  orig: 134,39
+  offset: 0,0
+  index: -1
+japan-03.mouth-bite
+  rotate: false
+  xy: 3238,2451
+  size: 186,28
+  orig: 186,28
+  offset: 0,0
+  index: -1
+japan-03.ear-right
+  rotate: false
+  xy: 1576,2304
+  size: 49,106
+  orig: 49,106
+  offset: 0,0
+  index: -1
+plant-04.eyes-happy
+  rotate: false
+  xy: 3444,2451
+  size: 152,34
+  orig: 152,34
+  offset: 0,0
+  index: -1
+beast-02.mouth
+  rotate: false
+  xy: 2513,3798
+  size: 77,67
+  orig: 77,67
+  offset: 0,0
+  index: -1
+bug-02.mouth
+  rotate: false
+  xy: 3616,2451
+  size: 107,48
+  orig: 107,48
+  offset: 0,0
+  index: -1
+bird-04.mouth-smile
+  rotate: false
+  xy: 2221,3573
+  size: 64,80
+  orig: 64,80
+  offset: 0,0
+  index: -1
+body-normal.sumo-leg-front-right-long
+  rotate: false
+  xy: 2420,3208
+  size: 71,72
+  orig: 71,72
+  offset: 0,0
+  index: -1
+body-normal.sumo-leg-front-left-long
+  rotate: false
+  xy: 2420,3208
+  size: 71,72
+  orig: 71,72
+  offset: 0,0
+  index: -1
+body-normal.xmas-leg-front-right-stretch
+  rotate: false
+  xy: 2420,3300
+  size: 71,72
+  orig: 71,72
+  offset: 0,0
+  index: -1
+body-normal.xmas-leg-front-right-long
+  rotate: false
+  xy: 2420,3300
+  size: 71,72
+  orig: 71,72
+  offset: 0,0
+  index: -1
+bug-12.ear-left
+  rotate: false
+  xy: 2420,3392
+  size: 69,74
+  orig: 69,74
+  offset: 0,0
+  index: -1
+bug-08.mouth
+  rotate: false
+  xy: 3743,2451
+  size: 181,28
+  orig: 181,28
+  offset: 0,0
+  index: -1
+bird-02.mouth
+  rotate: false
+  xy: 2221,3673
+  size: 64,79
+  orig: 64,79
+  offset: 0,0
+  index: -1
+bird-04.mouth
+  rotate: false
+  xy: 2221,3772
+  size: 62,80
+  orig: 62,80
+  offset: 0,0
+  index: -1
+reptile-04.ear-left
+  rotate: false
+  xy: 2221,3872
+  size: 67,73
+  orig: 67,73
+  offset: 0,0
+  index: -1
+bird-10.mouth-open
+  rotate: false
+  xy: 2420,3486
+  size: 69,70
+  orig: 69,70
+  offset: 0,0
+  index: -1
+body-normal.sumo-leg-front-left-stretch
+  rotate: false
+  xy: 2420,3576
+  size: 71,66
+  orig: 71,66
+  offset: 0,0
+  index: -1
+reptile-10.mouth
+  rotate: false
+  xy: 1926,4044
+  size: 120,39
+  orig: 120,39
+  offset: 0,0
+  index: -1
+bug-02.ear-right
+  rotate: false
+  xy: 3944,2451
+  size: 79,58
+  orig: 79,58
+  offset: 0,0
+  index: -1
+body-normal.sumo-leg-front-left
+  rotate: false
+  xy: 2420,3662
+  size: 71,64
+  orig: 71,64
+  offset: 0,0
+  index: -1
+body-normal.sumo-leg-back-left-long
+  rotate: false
+  xy: 2221,3965
+  size: 64,71
+  orig: 64,71
+  offset: 0,0
+  index: -1
+body-normal.sumo-leg-front-right
+  rotate: false
+  xy: 2420,3746
+  size: 71,64
+  orig: 71,64
+  offset: 0,0
+  index: -1
+beast-08.mouth-bite
+  rotate: false
+  xy: 2725,2537
+  size: 100,45
+  orig: 100,45
+  offset: 0,0
+  index: -1
+aquatic-04.ear-right
+  rotate: false
+  xy: 2420,3830
+  size: 44,101
+  orig: 44,101
+  offset: 0,0
+  index: -1
+aquatic-10.ear-right
+  rotate: false
+  xy: 2420,3830
+  size: 44,101
+  orig: 44,101
+  offset: 0,0
+  index: -1
+aquatic-mystic-02.mouth
+  rotate: false
+  xy: 2420,3951
+  size: 67,66
+  orig: 67,66
+  offset: 0,0
+  index: -1
+xmas-01.mouth
+  rotate: false
+  xy: 2513,3885
+  size: 73,60
+  orig: 73,60
+  offset: 0,0
+  index: -1
+body-normal.sumo-leg-back-left-stretch
+  rotate: false
+  xy: 2513,3965
+  size: 65,67
+  orig: 65,67
+  offset: 0,0
+  index: -1
+body-normal.sumo-leg-front-right-stretch
+  rotate: false
+  xy: 2845,2537
+  size: 67,65
+  orig: 67,65
+  offset: 0,0
+  index: -1
+reptile-04.ear-right
+  rotate: false
+  xy: 2616,2720
+  size: 57,74
+  orig: 57,74
+  offset: 0,0
+  index: -1
+bird-10.mouth-smile
+  rotate: false
+  xy: 2932,2537
+  size: 60,70
+  orig: 60,70
+  offset: 0,0
+  index: -1
+bug-04.mouth-bite
+  rotate: false
+  xy: 3012,2537
+  size: 95,44
+  orig: 95,44
+  offset: 0,0
+  index: -1
+bug-04.mouth
+  rotate: false
+  xy: 1651,4044
+  size: 110,37
+  orig: 110,37
+  offset: 0,0
+  index: -1
+xmas-02.eyes-happy
+  rotate: false
+  xy: 3127,2537
+  size: 145,28
+  orig: 145,28
+  offset: 0,0
+  index: -1
+bug-10.mouth
+  rotate: false
+  xy: 2308,4039
+  size: 86,47
+  orig: 86,47
+  offset: 0,0
+  index: -1
+beast-mystic-02.mouth
+  rotate: false
+  xy: 3292,2537
+  size: 76,53
+  orig: 76,53
+  offset: 0,0
+  index: -1
+japan-01.mouth-smile
+  rotate: false
+  xy: 3388,2537
+  size: 98,41
+  orig: 98,41
+  offset: 0,0
+  index: -1
+reptile-04.mouth-bite
+  rotate: false
+  xy: 3506,2537
+  size: 91,44
+  orig: 91,44
+  offset: 0,0
+  index: -1
+body-normal.sumo-leg-back-left
+  rotate: false
+  xy: 3617,2537
+  size: 66,60
+  orig: 66,60
+  offset: 0,0
+  index: -1
+bug-02.mouth-open
+  rotate: false
+  xy: 3703,2537
+  size: 75,52
+  orig: 75,52
+  offset: 0,0
+  index: -1
+beast-08.mouth-smile
+  rotate: false
+  xy: 2616,2814
+  size: 48,81
+  orig: 48,81
+  offset: 0,0
+  index: -1
+plant-04.mouth-smile
+  rotate: false
+  xy: 3798,2537
+  size: 92,42
+  orig: 92,42
+  offset: 0,0
+  index: -1
+plant-02.eyes-happy
+  rotate: false
+  xy: 1688,1110
+  size: 181,21
+  orig: 181,21
+  offset: 0,0
+  index: -1
+plant-02.eyes
+  rotate: false
+  xy: 1688,1110
+  size: 181,21
+  orig: 181,21
+  offset: 0,0
+  index: -1
+beast-10.eyes-shut
+  rotate: false
+  xy: 3910,2537
+  size: 125,30
+  orig: 125,30
+  offset: 0,0
+  index: -1
+bird-12.ear-right
+  rotate: false
+  xy: 2722,2628
+  size: 76,49
+  orig: 76,49
+  offset: 0,0
+  index: -1
+beast-10.mouth-smile
+  rotate: false
+  xy: 1019,428
+  size: 90,41
+  orig: 90,41
+  offset: 0,0
+  index: -1
+beast-12.ear-right
+  rotate: false
+  xy: 2818,2628
+  size: 55,67
+  orig: 55,67
+  offset: 0,0
+  index: -1
+bug-02.ear-left
+  rotate: false
+  xy: 2893,2628
+  size: 60,60
+  orig: 60,60
+  offset: 0,0
+  index: -1
+bug-10.mouth-bite
+  rotate: false
+  xy: 2973,2628
+  size: 85,42
+  orig: 85,42
+  offset: 0,0
+  index: -1
+plant-02.eyes-shut
+  rotate: false
+  xy: 1925,1110
+  size: 181,19
+  orig: 181,19
+  offset: 0,0
+  index: -1
+xmas-01.body-pattern
+  rotate: false
+  xy: 2616,2915
+  size: 40,83
+  orig: 40,83
+  offset: 0,0
+  index: -1
+xmas-01.mouth-eat
+  rotate: false
+  xy: 3078,2628
+  size: 100,33
+  orig: 100,33
+  offset: 0,0
+  index: -1
+xmas-02.mouth-eat
+  rotate: false
+  xy: 3078,2628
+  size: 100,33
+  orig: 100,33
+  offset: 0,0
+  index: -1
+body-normal.mystic-leg-front-right
+  rotate: false
+  xy: 3198,2628
+  size: 51,60
+  orig: 51,60
+  offset: 0,0
+  index: -1
+body-normal.leg-front-right
+  rotate: false
+  xy: 3269,2628
+  size: 51,60
+  orig: 51,60
+  offset: 0,0
+  index: -1
+body-normal.leg-back-left
+  rotate: false
+  xy: 3340,2628
+  size: 51,60
+  orig: 51,60
+  offset: 0,0
+  index: -1
+plant-04.eyes-shut
+  rotate: false
+  xy: 2162,1110
+  size: 159,19
+  orig: 159,19
+  offset: 0,0
+  index: -1
+body-normal.mystic-leg-back-left
+  rotate: false
+  xy: 3411,2628
+  size: 51,59
+  orig: 51,59
+  offset: 0,0
+  index: -1
+body-bigyak.body-pattern
+  rotate: false
+  xy: 4044,1636
+  size: 39,75
+  orig: 39,75
+  offset: 0,0
+  index: -1
+body-sumo.body-pattern
+  rotate: false
+  xy: 4044,1636
+  size: 39,75
+  orig: 39,75
+  offset: 0,0
+  index: -1
+beast-10.mouth
+  rotate: false
+  xy: 3324,1264
+  size: 71,41
+  orig: 71,41
+  offset: 0,0
+  index: -1
+body-normal.leg-back-left-long
+  rotate: false
+  xy: 3482,2628
+  size: 54,52
+  orig: 54,52
+  offset: 0,0
+  index: -1
+body-normal.mystic-leg-back-left-long
+  rotate: false
+  xy: 3556,2628
+  size: 54,52
+  orig: 54,52
+  offset: 0,0
+  index: -1
+body-normal.mystic-leg-front-left-long
+  rotate: false
+  xy: 2420,4037
+  size: 56,49
+  orig: 56,49
+  offset: 0,0
+  index: -1
+body-normal.mystic-leg-front-right-long
+  rotate: false
+  xy: 2420,4037
+  size: 56,49
+  orig: 56,49
+  offset: 0,0
+  index: -1
+body-normal.leg-front-right-long
+  rotate: false
+  xy: 3630,2628
+  size: 56,49
+  orig: 56,49
+  offset: 0,0
+  index: -1
+body-normal.leg-front-left-long
+  rotate: false
+  xy: 3630,2628
+  size: 56,49
+  orig: 56,49
+  offset: 0,0
+  index: -1
+body-frosty.body-bell
+  rotate: false
+  xy: 3706,2628
+  size: 58,46
+  orig: 58,46
+  offset: 0,0
+  index: -1
+bird-10.mouth-bite
+  rotate: false
+  xy: 3784,2628
+  size: 53,50
+  orig: 53,50
+  offset: 0,0
+  index: -1
+plant-08.mouth
+  rotate: false
+  xy: 2075,429
+  size: 69,38
+  orig: 69,38
+  offset: 0,0
+  index: -1
+xmas-02.eyes-shut
+  rotate: false
+  xy: 2399,1110
+  size: 136,19
+  orig: 136,19
+  offset: 0,0
+  index: -1
+bug-12.ear-right
+  rotate: false
+  xy: 4053,10
+  size: 31,80
+  orig: 31,80
+  offset: 0,0
+  index: -1
+body-normal.body-light-breath
+  rotate: false
+  xy: 3857,2628
+  size: 49,49
+  orig: 49,49
+  offset: 0,0
+  index: -1
+body-normal.mystic-leg-front-right-stretch
+  rotate: false
+  xy: 3569,1264
+  size: 51,44
+  orig: 51,44
+  offset: 0,0
+  index: -1
+body-normal.leg-front-right-stretch
+  rotate: false
+  xy: 3926,2628
+  size: 51,44
+  orig: 51,44
+  offset: 0,0
+  index: -1
+body-normal.leg-front-left-stretch
+  rotate: false
+  xy: 4040,2059
+  size: 44,49
+  orig: 44,49
+  offset: 0,0
+  index: -1
+body-normal.mystic-leg-front-left-stretch
+  rotate: false
+  xy: 3997,2628
+  size: 44,49
+  orig: 44,49
+  offset: 0,0
+  index: -1
+plant-mystic-02.mouth-smile
+  rotate: false
+  xy: 2513,4052
+  size: 60,33
+  orig: 60,33
+  offset: 0,0
+  index: -1
+bird-10.mouth
+  rotate: false
+  xy: 2616,3018
+  size: 45,44
+  orig: 45,44
+  offset: 0,0
+  index: -1
+bug-06.ear-left
+  rotate: false
+  xy: 2693,2720
+  size: 60,32
+  orig: 60,32
+  offset: 0,0
+  index: -1
+body-agamo.body-pattern
+  rotate: false
+  xy: 4043,2451
+  size: 42,45
+  orig: 42,45
+  offset: 0,0
+  index: -1
+body-normal.mystic-leg-back-left-stretch
+  rotate: false
+  xy: 3095,1264
+  size: 42,44
+  orig: 42,44
+  offset: 0,0
+  index: -1
+body-normal.leg-back-left-stretch
+  rotate: false
+  xy: 2616,3082
+  size: 42,44
+  orig: 42,44
+  offset: 0,0
+  index: -1
+body-normal.leg-front-left
+  rotate: false
+  xy: 2616,3146
+  size: 46,40
+  orig: 46,40
+  offset: 0,0
+  index: -1
+body-normal.mystic-leg-front-left
+  rotate: false
+  xy: 2616,3206
+  size: 44,40
+  orig: 44,40
+  offset: 0,0
+  index: -1
+plant-02.mouth-smile
+  rotate: false
+  xy: 2221,4056
+  size: 58,26
+  orig: 58,26
+  offset: 0,0
+  index: -1
+plant-04.mouth
+  rotate: false
+  xy: 2261,1286
+  size: 73,20
+  orig: 73,20
+  offset: 0,0
+  index: -1
+plant-mystic-02.mouth
+  rotate: false
+  xy: 2616,3266
+  size: 51,28
+  orig: 51,28
+  offset: 0,0
+  index: -1
+beast-08.mouth
+  rotate: false
+  xy: 1867,3468
+  size: 36,35
+  orig: 36,35
+  offset: 0,0
+  index: -1
+reptile-04.mouth
+  rotate: false
+  xy: 2341,1110
+  size: 38,26
+  orig: 38,26
+  offset: 0,0
+  index: -1
+reptile-04.mouth-smile
+  rotate: false
+  xy: 2555,1110
+  size: 43,22
+  orig: 43,22
+  offset: 0,0
+  index: -1
+body-normal.body-class-aquatic
+  rotate: false
+  xy: 1612,410
+  size: 26,29
+  orig: 26,29
+  offset: 0,0
+  index: -1
+body-normal.body-class-reptile
+  rotate: false
+  xy: 4053,110
+  size: 26,25
+  orig: 26,25
+  offset: 0,0
+  index: -1
+body-normal.body-class-plant
+  rotate: false
+  xy: 4053,155
+  size: 26,25
+  orig: 26,25
+  offset: 0,0
+  index: -1
+plant-02.mouth
+  rotate: false
+  xy: 242,3779
+  size: 60,10
+  orig: 60,10
+  offset: 0,0
+  index: -1
+body-normal.body-class-beast
+  rotate: false
+  xy: 4053,200
+  size: 23,25
+  orig: 23,25
+  offset: 0,0
+  index: -1
+reptile-mystic-02.mouth-smile-blink
+  rotate: false
+  xy: 4053,245
+  size: 23,23
+  orig: 23,23
+  offset: 0,0
+  index: -1
+plant-mystic-02.mouth-smile-blink
+  rotate: false
+  xy: 4053,245
+  size: 23,23
+  orig: 23,23
+  offset: 0,0
+  index: -1
+beast-mystic-02.mouth-smile-blink
+  rotate: false
+  xy: 4053,245
+  size: 23,23
+  orig: 23,23
+  offset: 0,0
+  index: -1
+bug-mystic-02.mouth-smile-blink
+  rotate: false
+  xy: 4053,245
+  size: 23,23
+  orig: 23,23
+  offset: 0,0
+  index: -1
+bird-mystic-02.mouth-smile-blink
+  rotate: false
+  xy: 4053,245
+  size: 23,23
+  orig: 23,23
+  offset: 0,0
+  index: -1
+body-normal.body-class-bug
+  rotate: false
+  xy: 4053,288
+  size: 23,23
+  orig: 23,23
+  offset: 0,0
+  index: -1
+body-normal.body-class-bird
+  rotate: false
+  xy: 217,4046
+  size: 19,27
+  orig: 19,27
+  offset: 0,0
+  index: -1
+body-normal.body-light-pulse
+  rotate: false
+  xy: 1612,459
+  size: 9,8
+  orig: 9,8
+  offset: 0,0
+  index: -1
+body-normal.body-id-00-bug
+  rotate: false
+  xy: 4053,331
+  size: 5,8
+  orig: 5,8
+  offset: 0,0
+  index: -1
+body-normal.body-id-00-reptile-flipx
+  rotate: false
+  xy: 4078,331
+  size: 5,8
+  orig: 5,8
+  offset: 0,0
+  index: -1
+body-normal.body-id-a-00
+  rotate: false
+  xy: 432,2276
+  size: 5,8
+  orig: 5,8
+  offset: 0,0
+  index: -1
+body-normal.body-id-00-reptile
+  rotate: false
+  xy: 432,2304
+  size: 5,8
+  orig: 5,8
+  offset: 0,0
+  index: -1
+body-normal.body-id-c-00
+  rotate: false
+  xy: 322,3779
+  size: 5,8
+  orig: 5,8
+  offset: 0,0
+  index: -1
+body-normal.body-id-e-00
+  rotate: false
+  xy: 322,3779
+  size: 5,8
+  orig: 5,8
+  offset: 0,0
+  index: -1
+body-normal.body-id-b-00
+  rotate: false
+  xy: 322,3779
+  size: 5,8
+  orig: 5,8
+  offset: 0,0
+  index: -1
+body-normal.body-id-f-00
+  rotate: false
+  xy: 322,3779
+  size: 5,8
+  orig: 5,8
+  offset: 0,0
+  index: -1
+body-normal.body-id-d-00
+  rotate: false
+  xy: 322,3779
+  size: 5,8
+  orig: 5,8
+  offset: 0,0
+  index: -1
+body-normal.body-id-00-plant-flipx
+  rotate: false
+  xy: 347,3779
+  size: 5,8
+  orig: 5,8
+  offset: 0,0
+  index: -1
+body-normal.body-id-00-bird
+  rotate: false
+  xy: 372,3779
+  size: 5,8
+  orig: 5,8
+  offset: 0,0
+  index: -1
+body-normal.body-id-00-beast-flipx
+  rotate: false
+  xy: 397,3779
+  size: 5,8
+  orig: 5,8
+  offset: 0,0
+  index: -1
+body-normal.body-id-00-plant
+  rotate: false
+  xy: 422,3779
+  size: 5,8
+  orig: 5,8
+  offset: 0,0
+  index: -1
+body-normal.body-id-00-beast
+  rotate: false
+  xy: 4078,492
+  size: 5,8
+  orig: 5,8
+  offset: 0,0
+  index: -1
+body-normal.body-id-00-bug-flipx
+  rotate: false
+  xy: 4078,520
+  size: 5,8
+  orig: 5,8
+  offset: 0,0
+  index: -1
+body-normal.body-id-00-bird-flipx
+  rotate: false
+  xy: 4078,548
+  size: 5,8
+  orig: 5,8
+  offset: 0,0
+  index: -1
+body-normal.body-id-00-aquatic
+  rotate: false
+  xy: 4078,576
+  size: 5,8
+  orig: 5,8
+  offset: 0,0
+  index: -1
+body-normal.body-id-00-aquatic-flipx
+  rotate: false
+  xy: 4078,604
+  size: 5,8
+  orig: 5,8
+  offset: 0,0
+  index: -1
+body-normal.body-id-09-reptile
+  rotate: false
+  xy: 697,1491
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-08-plant-flipx
+  rotate: false
+  xy: 697,1518
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-c-06
+  rotate: false
+  xy: 697,1545
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-a-06
+  rotate: false
+  xy: 697,1545
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-e-06
+  rotate: false
+  xy: 697,1545
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-b-06
+  rotate: false
+  xy: 697,1545
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-d-06
+  rotate: false
+  xy: 697,1545
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-f-06
+  rotate: false
+  xy: 697,1545
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-09-aquatic-flipx
+  rotate: false
+  xy: 697,1572
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-c-07
+  rotate: false
+  xy: 697,1599
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-a-07
+  rotate: false
+  xy: 697,1599
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-e-07
+  rotate: false
+  xy: 697,1599
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-b-07
+  rotate: false
+  xy: 697,1599
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-d-07
+  rotate: false
+  xy: 697,1599
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-f-07
+  rotate: false
+  xy: 697,1599
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-06-beast-flipx
+  rotate: false
+  xy: 697,1626
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-08-bug-flipx
+  rotate: false
+  xy: 697,1653
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-a-02
+  rotate: false
+  xy: 695,2430
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-c-02
+  rotate: false
+  xy: 695,2430
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-e-02
+  rotate: false
+  xy: 695,2430
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-b-02
+  rotate: false
+  xy: 695,2430
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-f-02
+  rotate: false
+  xy: 695,2430
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-d-02
+  rotate: false
+  xy: 695,2430
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-09-bug
+  rotate: false
+  xy: 695,2457
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-09-beast-flipx
+  rotate: false
+  xy: 695,2484
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-07-plant
+  rotate: false
+  xy: 695,2511
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-f-09
+  rotate: false
+  xy: 695,2538
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-d-09
+  rotate: false
+  xy: 695,2538
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-b-09
+  rotate: false
+  xy: 695,2538
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-e-09
+  rotate: false
+  xy: 695,2538
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-a-09
+  rotate: false
+  xy: 695,2538
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-c-09
+  rotate: false
+  xy: 695,2538
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-c-05
+  rotate: false
+  xy: 695,2565
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-a-05
+  rotate: false
+  xy: 695,2565
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-e-05
+  rotate: false
+  xy: 695,2565
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-b-05
+  rotate: false
+  xy: 695,2565
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-d-05
+  rotate: false
+  xy: 695,2565
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-f-05
+  rotate: false
+  xy: 695,2565
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-02-aquatic
+  rotate: false
+  xy: 695,2592
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-07-plant-flipx
+  rotate: false
+  xy: 671,2622
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-f-08
+  rotate: false
+  xy: 696,2622
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-d-08
+  rotate: false
+  xy: 696,2622
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-b-08
+  rotate: false
+  xy: 696,2622
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-e-08
+  rotate: false
+  xy: 696,2622
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-a-08
+  rotate: false
+  xy: 696,2622
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-c-08
+  rotate: false
+  xy: 696,2622
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-02-beast
+  rotate: false
+  xy: 671,2649
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-05-reptile-flipx
+  rotate: false
+  xy: 696,2649
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-07-aquatic
+  rotate: false
+  xy: 671,2676
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-08-bug
+  rotate: false
+  xy: 696,2676
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-05-reptile
+  rotate: false
+  xy: 671,2703
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-09-beast
+  rotate: false
+  xy: 696,2703
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-08-aquatic-flipx
+  rotate: false
+  xy: 671,2730
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-07-bird
+  rotate: false
+  xy: 696,2730
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-06-bird
+  rotate: false
+  xy: 671,2757
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-02-reptile-flipx
+  rotate: false
+  xy: 696,2757
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-05-bug-flipx
+  rotate: false
+  xy: 671,2784
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-06-plant
+  rotate: false
+  xy: 696,2784
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-06-reptile
+  rotate: false
+  xy: 687,2825
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-07-reptile-flipx
+  rotate: false
+  xy: 687,2852
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-02-bug
+  rotate: false
+  xy: 687,2879
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-08-beast
+  rotate: false
+  xy: 687,2906
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-09-plant-flipx
+  rotate: false
+  xy: 687,2933
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-07-beast-flipx
+  rotate: false
+  xy: 687,2960
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-05-beast
+  rotate: false
+  xy: 680,3012
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-08-beast-flipx
+  rotate: false
+  xy: 680,3039
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-02-bug-flipx
+  rotate: false
+  xy: 680,3066
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-08-aquatic
+  rotate: false
+  xy: 680,3093
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-06-bug-flipx
+  rotate: false
+  xy: 680,3120
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-06-plant-flipx
+  rotate: false
+  xy: 680,3147
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-06-reptile-flipx
+  rotate: false
+  xy: 680,3174
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-09-bird
+  rotate: false
+  xy: 685,3204
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-08-bird
+  rotate: false
+  xy: 685,3231
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-06-aquatic-flipx
+  rotate: false
+  xy: 685,3258
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-08-plant
+  rotate: false
+  xy: 685,3285
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-07-bug-flipx
+  rotate: false
+  xy: 685,3312
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-02-bird
+  rotate: false
+  xy: 685,3339
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-07-bug
+  rotate: false
+  xy: 689,3390
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-02-beast-flipx
+  rotate: false
+  xy: 689,3417
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-06-aquatic
+  rotate: false
+  xy: 689,3444
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-05-plant
+  rotate: false
+  xy: 689,3471
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-07-aquatic-flipx
+  rotate: false
+  xy: 689,3498
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-05-beast-flipx
+  rotate: false
+  xy: 689,3525
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-06-bug
+  rotate: false
+  xy: 681,3739
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-05-bird-flipx
+  rotate: false
+  xy: 681,3766
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-02-aquatic-flipx
+  rotate: false
+  xy: 681,3793
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-08-reptile
+  rotate: false
+  xy: 681,3820
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-02-bird-flipx
+  rotate: false
+  xy: 681,3847
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-06-beast
+  rotate: false
+  xy: 681,3874
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-09-aquatic
+  rotate: false
+  xy: 681,3924
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-08-bird-flipx
+  rotate: false
+  xy: 681,3951
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-09-plant
+  rotate: false
+  xy: 681,3978
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-05-plant-flipx
+  rotate: false
+  xy: 681,4005
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-02-reptile
+  rotate: false
+  xy: 681,4032
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-07-bird-flipx
+  rotate: false
+  xy: 681,4059
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-08-reptile-flipx
+  rotate: false
+  xy: 3307,805
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-05-aquatic-flipx
+  rotate: false
+  xy: 3332,805
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-07-reptile
+  rotate: false
+  xy: 3357,805
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-09-bug-flipx
+  rotate: false
+  xy: 3382,805
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-06-bird-flipx
+  rotate: false
+  xy: 3407,805
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-05-aquatic
+  rotate: false
+  xy: 3432,805
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-02-plant-flipx
+  rotate: false
+  xy: 3457,805
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-05-bird
+  rotate: false
+  xy: 3482,805
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-02-plant
+  rotate: false
+  xy: 893,1025
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-07-beast
+  rotate: false
+  xy: 893,1052
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-09-reptile-flipx
+  rotate: false
+  xy: 893,1079
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-05-bug
+  rotate: false
+  xy: 893,1106
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-09-bird-flipx
+  rotate: false
+  xy: 893,1133
+  size: 5,7
+  orig: 5,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-a-03
+  rotate: false
+  xy: 893,1160
+  size: 4,7
+  orig: 4,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-c-03
+  rotate: false
+  xy: 893,1160
+  size: 4,7
+  orig: 4,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-e-03
+  rotate: false
+  xy: 893,1160
+  size: 4,7
+  orig: 4,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-b-03
+  rotate: false
+  xy: 893,1160
+  size: 4,7
+  orig: 4,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-f-03
+  rotate: false
+  xy: 893,1160
+  size: 4,7
+  orig: 4,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-d-03
+  rotate: false
+  xy: 893,1160
+  size: 4,7
+  orig: 4,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-c-04
+  rotate: false
+  xy: 893,1187
+  size: 4,7
+  orig: 4,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-a-04
+  rotate: false
+  xy: 893,1187
+  size: 4,7
+  orig: 4,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-e-04
+  rotate: false
+  xy: 893,1187
+  size: 4,7
+  orig: 4,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-b-04
+  rotate: false
+  xy: 893,1187
+  size: 4,7
+  orig: 4,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-d-04
+  rotate: false
+  xy: 893,1187
+  size: 4,7
+  orig: 4,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-f-04
+  rotate: false
+  xy: 893,1187
+  size: 4,7
+  orig: 4,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-04-beast
+  rotate: false
+  xy: 893,1214
+  size: 4,7
+  orig: 4,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-04-reptile-flipx
+  rotate: false
+  xy: 881,1247
+  size: 4,7
+  orig: 4,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-03-bug
+  rotate: false
+  xy: 881,1274
+  size: 4,7
+  orig: 4,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-03-beast
+  rotate: false
+  xy: 881,1301
+  size: 4,7
+  orig: 4,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-04-aquatic
+  rotate: false
+  xy: 881,1328
+  size: 4,7
+  orig: 4,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-03-reptile-flipx
+  rotate: false
+  xy: 881,1355
+  size: 4,7
+  orig: 4,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-03-reptile
+  rotate: false
+  xy: 881,1382
+  size: 4,7
+  orig: 4,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-03-bird-flipx
+  rotate: false
+  xy: 881,1409
+  size: 4,7
+  orig: 4,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-03-plant-flipx
+  rotate: false
+  xy: 881,1436
+  size: 4,7
+  orig: 4,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-03-aquatic-flipx
+  rotate: false
+  xy: 889,1480
+  size: 4,7
+  orig: 4,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-04-bird-flipx
+  rotate: false
+  xy: 889,1507
+  size: 4,7
+  orig: 4,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-03-bird
+  rotate: false
+  xy: 889,1534
+  size: 4,7
+  orig: 4,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-03-bug-flipx
+  rotate: false
+  xy: 889,1561
+  size: 4,7
+  orig: 4,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-04-reptile
+  rotate: false
+  xy: 889,1588
+  size: 4,7
+  orig: 4,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-04-bug-flipx
+  rotate: false
+  xy: 889,1615
+  size: 4,7
+  orig: 4,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-03-aquatic
+  rotate: false
+  xy: 889,1642
+  size: 4,7
+  orig: 4,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-03-plant
+  rotate: false
+  xy: 889,1669
+  size: 4,7
+  orig: 4,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-04-plant-flipx
+  rotate: false
+  xy: 889,1892
+  size: 4,7
+  orig: 4,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-04-beast-flipx
+  rotate: false
+  xy: 889,1919
+  size: 4,7
+  orig: 4,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-04-aquatic-flipx
+  rotate: false
+  xy: 889,1946
+  size: 4,7
+  orig: 4,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-04-bug
+  rotate: false
+  xy: 889,1973
+  size: 4,7
+  orig: 4,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-04-plant
+  rotate: false
+  xy: 889,2000
+  size: 4,7
+  orig: 4,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-04-bird
+  rotate: false
+  xy: 889,2027
+  size: 4,7
+  orig: 4,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-03-beast-flipx
+  rotate: false
+  xy: 889,2054
+  size: 4,7
+  orig: 4,7
+  offset: 0,0
+  index: -1
+body-normal.body-id-a-01
+  rotate: false
+  xy: 876,2454
+  size: 3,8
+  orig: 3,8
+  offset: 0,0
+  index: -1
+body-normal.body-id-c-01
+  rotate: false
+  xy: 876,2454
+  size: 3,8
+  orig: 3,8
+  offset: 0,0
+  index: -1
+body-normal.body-id-e-01
+  rotate: false
+  xy: 876,2454
+  size: 3,8
+  orig: 3,8
+  offset: 0,0
+  index: -1
+body-normal.body-id-b-01
+  rotate: false
+  xy: 876,2454
+  size: 3,8
+  orig: 3,8
+  offset: 0,0
+  index: -1
+body-normal.body-id-f-01
+  rotate: false
+  xy: 876,2454
+  size: 3,8
+  orig: 3,8
+  offset: 0,0
+  index: -1
+body-normal.body-id-d-01
+  rotate: false
+  xy: 876,2454
+  size: 3,8
+  orig: 3,8
+  offset: 0,0
+  index: -1
+body-normal.body-id-01-bird
+  rotate: false
+  xy: 899,2454
+  size: 3,8
+  orig: 3,8
+  offset: 0,0
+  index: -1
+body-normal.body-id-01-reptile-flipx
+  rotate: false
+  xy: 876,2482
+  size: 3,8
+  orig: 3,8
+  offset: 0,0
+  index: -1
+body-normal.body-id-01-beast-flipx
+  rotate: false
+  xy: 899,2482
+  size: 3,8
+  orig: 3,8
+  offset: 0,0
+  index: -1
+body-normal.body-id-01-bug
+  rotate: false
+  xy: 876,2510
+  size: 3,8
+  orig: 3,8
+  offset: 0,0
+  index: -1
+body-normal.body-id-01-plant
+  rotate: false
+  xy: 899,2510
+  size: 3,8
+  orig: 3,8
+  offset: 0,0
+  index: -1
+body-normal.body-id-01-plant-flipx
+  rotate: false
+  xy: 876,2538
+  size: 3,8
+  orig: 3,8
+  offset: 0,0
+  index: -1
+body-normal.body-id-01-bug-flipx
+  rotate: false
+  xy: 899,2538
+  size: 3,8
+  orig: 3,8
+  offset: 0,0
+  index: -1
+body-normal.body-id-01-aquatic
+  rotate: false
+  xy: 876,2566
+  size: 3,8
+  orig: 3,8
+  offset: 0,0
+  index: -1
+body-normal.body-id-01-reptile
+  rotate: false
+  xy: 899,2566
+  size: 3,8
+  orig: 3,8
+  offset: 0,0
+  index: -1
+body-normal.body-id-01-aquatic-flipx
+  rotate: false
+  xy: 876,2594
+  size: 3,8
+  orig: 3,8
+  offset: 0,0
+  index: -1
+body-normal.body-id-01-beast
+  rotate: false
+  xy: 899,2594
+  size: 3,8
+  orig: 3,8
+  offset: 0,0
+  index: -1
+body-normal.body-id-01-bird-flipx
+  rotate: false
+  xy: 876,2622
+  size: 3,8
+  orig: 3,8
+  offset: 0,0
+  index: -1
+
