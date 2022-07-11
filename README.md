@@ -4,7 +4,7 @@ The `Axie Mixer` is built upon [Spine Animation](http://en.esotericsoftware.com/
 
 # Install
 
-⚠️ The package requires `Spine Runtime Library` (spine-unity-3.8-2020-02-06). You need to download it manualy, and put it on Plugins folder.
+⚠️ The package requires `Spine Runtime Library` [(spine-unity 3.8 2021-11-10)](https://esotericsoftware.com/files/runtimes/unity/spine-unity-3.8-2021-11-10.unitypackage). You need to download it manualy, and put it on Plugins folder.
 
 - Download and install [mixer-unity](https://github.com/axieinfinity/mixer-unity) from github.
 
@@ -92,7 +92,8 @@ skeletonGraphic.AnimationState.SetAnimation(0, "action/idle/normal", true);
 // You can find more information about the function here http://en.esotericsoftware.com/spine-applying-animations
 ```
 
-
+## Building Project
+You need add `AxieMixerShaderVariants` into Preloaded Shaders (Project Settings/Graphics/Shader Loading)
 
 ## Scene demo
 
