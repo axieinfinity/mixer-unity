@@ -34,6 +34,13 @@ namespace AxieMixer.Unity
 
         public Axie2dBuilderResult BuildSpineAdultCombo(Dictionary<string, string> adultCombo, byte colorVariant, float scale, bool isGraphic = false)
         {
+            var accessories = adultCombo.Where(x => x.Key.StartsWith("accessory-")).ToList();
+            foreach(var p in accessories)
+            {
+                string accessorySlot = p.Key.Replace("accessory-", "body-");
+                string accessoryName = p.Value.Replace("accessory-", "body-");
+                adultCombo[accessorySlot] = accessoryName;
+            }
             var axieGenesStuff = axieMixerMaterials.GetGenesStuff(AxieFormType.Normal);
             Axie2dBuilderResult builderResult = new Axie2dBuilderResult();
             builderResult.adultCombo = adultCombo;
@@ -66,7 +73,7 @@ namespace AxieMixer.Unity
             return builderResult;
         }
 
-        public Axie2dBuilderResult BuildSpineFromGene(string axieId, string genesStr, float scale, bool isGraphic = false)
+        public Axie2dBuilderResult BuildSpineFromGene(string axieId, string genesStr, Dictionary<string, string> meta, float scale, bool isGraphic = false)
         {
             var axieGenesStuff = axieMixerMaterials.GetGenesStuff(AxieFormType.Normal);
 
@@ -82,10 +89,15 @@ namespace AxieMixer.Unity
             System.Numerics.BigInteger.TryParse(finalGenes512, System.Globalization.NumberStyles.HexNumber, null, out var genes);
             var bodyStructure = axieGenesStuff.GetAxieBodyStructure512(genes);
 
-            return BuildSpineFromGene(axieId, bodyStructure, scale, isGraphic);
+            return BuildSpineFromGene(axieId, bodyStructure, meta, scale, isGraphic);
         }
 
-        public Axie2dBuilderResult BuildSpineFromGene(string axieId, AxieBodyStructure bodyStructure, float scale, bool isGraphic = false)
+        public Axie2dBuilderResult BuildSpineFromGene(string axieId, string genesStr, float scale, bool isGraphic = false)
+        {
+            return BuildSpineFromGene(axieId, genesStr, new Dictionary<string, string>(), scale, isGraphic);
+        }
+
+        public Axie2dBuilderResult BuildSpineFromGene(string axieId, AxieBodyStructure bodyStructure, Dictionary<string, string> meta, float scale, bool isGraphic = false)
         {
             var axieGenesStuff = axieMixerMaterials.GetGenesStuff(AxieFormType.Normal);
             var adultCombo = axieGenesStuff.GetAdultCombo(bodyStructure);
@@ -94,6 +106,13 @@ namespace AxieMixer.Unity
                 axieId = axieId.PadLeft(axieId.Length + (7 - axieId.Length) / 2);
             }
             adultCombo.Add("body-id", axieId);
+            foreach(var p in meta)
+            {
+                if (!adultCombo.ContainsKey(p.Key))
+                {
+                    adultCombo.Add(p.Key, p.Value);
+                }
+            }
             byte colorVariant = (byte)axieGenesStuff.GetAxieColorVariant(bodyStructure);
 
             return BuildSpineAdultCombo(adultCombo, colorVariant, scale, isGraphic);

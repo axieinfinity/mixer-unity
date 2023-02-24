@@ -20,6 +20,14 @@ namespace Game
                 GetComponent<Rigidbody2D>().velocity = Vector2.up * velocity;
                 figure?.DoJumpAnim();
             }
+            else if (Input.GetKeyDown(KeyCode.A))
+            {
+                figure?.DoAttackMeleeAnim();
+            }
+            else if (Input.GetKeyDown(KeyCode.A))
+            {
+                figure?.DoAttackRangedAnim();
+            }
         }
 
         private void OnCollisionEnter2D(Collision2D coll)
