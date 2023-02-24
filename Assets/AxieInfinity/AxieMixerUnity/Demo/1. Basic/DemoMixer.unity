@@ -2913,6 +2913,8 @@ MonoBehaviour:
       m_Image: {fileID: 0}
     - m_Text: Body mystic-fuzzy
       m_Image: {fileID: 0}
+    - m_Text: Body normal-accessory
+      m_Image: {fileID: 0}
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []

@@ -24,7 +24,17 @@ namespace Game
 
         Axie2dBuilder builder => Mixer.Builder;
 
-        const bool USE_GRAPHIC = false;
+        const bool USE_GRAPHIC = true;
+        int accessoryIdx = 1;
+
+        static string[] ACCESSORY_SLOTS = new[]
+          {
+                "accessory-air",
+                "accessory-cheek",
+                "accessory-ground",
+                "accessory-hip",
+                "accessory-neck",
+            };
 
         private void OnEnable()
         {
@@ -53,7 +63,9 @@ namespace Game
             animationDropDown.ClearOptions();
             animationDropDown.AddOptions(animationList);
 
-            TestAll();
+            //TestAll();
+            TestSummer();
+            //ProcessMixer("", "0x90000000000001000080e020c40c00000001001028a084080001000008404408000003000800440c0000039408a0450600000300300041020000048008004104", USE_GRAPHIC);
         }
 
         void OnSwitch()
@@ -96,6 +108,7 @@ namespace Game
                 "body-spiky",
                 "body-sumo",
                 "body-wetdog",
+                //"body-normal-accessory",
             };
 
             int k = 0;
@@ -123,6 +136,7 @@ namespace Game
                 var characterClass = (CharacterClass)classIdx;
                 string key = $"{characterClass}-mystic-02";
                 bodies.Add((key, (classIdx % 2 == 0) ? "body-mystic-normal" : "body-mystic-fuzzy", classIdx, 2));
+                //bodies.Add((key, (classIdx % 2 == 0) ? "body-normal" : "body-fuzzy", classIdx, 2));
             }
 
             {
@@ -138,6 +152,7 @@ namespace Game
                     string key = $"japan-{classValue:00}";
                     bodies.Add((key, "body-normal", 0, classValue));
                 }
+
             }
             {
                 for (int classValue = 0;classValue <= 1;classValue += 1)
@@ -146,7 +161,11 @@ namespace Game
                     bodies.Add((key, "body-agamo", 0, classValue));
                 }
             }
+            bodies.Add(("summer-as", "body-normal", 0, 0));
+            bodies.Add(("summer-a", "body-normal", 0, 0));
 
+
+          
             int total = 0;
             foreach (var (key, body, classIdx, classValue) in bodies)
             {
@@ -165,7 +184,11 @@ namespace Game
                     {"body-class", characterClass.ToString() },
                     {"body-id", " 2727 " },
                 };
-
+                 
+                foreach(var accessorySlot in ACCESSORY_SLOTS)
+                {
+                    adultCombo.Add(accessorySlot, $"{accessorySlot}1{System.Char.ConvertFromUtf32((int)('a') + accessoryIdx - 1)}");
+                }
                 float scale = 0.0018f;
                 byte colorVariant = (byte)builder.GetSampleColorVariant(characterClass, classValue);
 
@@ -175,6 +198,7 @@ namespace Game
                 GameObject go = new GameObject("DemoAxie");
                 int row = total / 6;
                 int col = total % 6;
+                //go.transform.localPosition = new Vector3(row * 1.6f, col * 1.5f) - new Vector3(7.9f, 4.8f, 0);
                 go.transform.localPosition = new Vector3(row * 1.85f, col * 1.5f) - new Vector3(7.9f, 4.8f, 0);
 
                 SkeletonAnimation runtimeSkeletonAnimation = SkeletonAnimation.NewSkeletonAnimationGameObject(builderResult.skeletonDataAsset);
@@ -189,7 +213,7 @@ namespace Game
                 runtimeSkeletonAnimation.state.SetAnimation(0, "action/idle/normal", true);
 
                 runtimeSkeletonAnimation.state.TimeScale = 0.5f;
-                runtimeSkeletonAnimation.skeleton.FindSlot("shadow").Attachment = null;
+                //runtimeSkeletonAnimation.skeleton.FindSlot("shadow").Attachment = null;
                 if (builderResult.adultCombo.ContainsKey("body") &&
                       builderResult.adultCombo["body"].Contains("mystic") &&
                       builderResult.adultCombo.TryGetValue("body-class", out var bodyClass) &&
@@ -201,6 +225,124 @@ namespace Game
             Debug.Log("Done");
         }
 
+        void TestSummer()
+        {
+            List<Dictionary<string, string>> lst = new List<Dictionary<string, string>>();
+
+            var summer0 = new Dictionary<string, string> {
+                    {"back", "summer-a" },
+                    {"body", "body-summer" },
+                    {"ears", "summer-a" },
+                    {"ear", "summer-a" },
+                    {"eyes", "summer-a" },
+                    {"horn", "summer-tc" },
+                    {"mouth", "summer-a" },
+                    {"tail", "summer-a" },
+                };
+            lst.Add(summer0);
+
+            var summer1 = new Dictionary<string, string> {
+                    {"back", "summer-ta" },
+                    {"body", "body-summer" },
+                    {"ears", "summer-a" },
+                    {"ear", "summer-a" },
+                    {"eyes", "summer-a" },
+                    {"horn", "summer-a" },
+                    {"mouth", "summer-a" },
+                    {"tail", "summer-a" },
+                };
+            lst.Add(summer1);
+
+            var summer2 = new Dictionary<string, string> {
+                    {"back", "summer-a" },
+                    {"body", "body-summer" },
+                    {"ears", "summer-a" },
+                    {"ear", "summer-a" },
+                    {"eyes", "summer-a" },
+                    {"horn", "summer-td" },
+                    {"mouth", "summer-a" },
+                    {"tail", "summer-a" },
+                };
+            lst.Add(summer2);
+
+            var summer3 = new Dictionary<string, string> {
+                    {"back", "summer-tc" },
+                    {"body", "body-summer" },
+                    {"ears", "summer-as" },
+                    {"ear", "summer-as" },
+                    {"eyes", "summer-as" },
+                    {"horn", "summer-ta" },
+                    {"mouth", "summer-as" },
+                    {"tail", "summer-as" },
+                };
+            lst.Add(summer3);
+
+            var summer4 = new Dictionary<string, string> {
+                    {"back", "summer-as" },
+                    {"body", "body-summer" },
+                    {"ears", "summer-as" },
+                    {"ear", "summer-as" },
+                    {"eyes", "summer-as" },
+                    {"horn", "summer-as" },
+                    {"mouth", "summer-as" },
+                    {"tail", "summer-as" },
+                };
+            lst.Add(summer4);
+
+            var summer5 = new Dictionary<string, string> {
+                    {"back", "summer-tc" },
+                    {"body", "body-summer" },
+                    {"ears", "summer-as" },
+                    {"ear", "summer-as" },
+                    {"eyes", "summer-as" },
+                    {"horn", "summer-tb" },
+                    {"mouth", "summer-as" },
+                    {"tail", "summer-as" },
+                };
+            lst.Add(summer5);
+
+            var japan1 = new Dictionary<string, string> {
+                    {"back", "japan-03" },
+                    {"body", "body-fuzzy" },
+                    {"ears", "japan-03" },
+                    {"ear", "japan-03" },
+                    {"eyes", "japan-03" },
+                    {"horn", "japan-03" },
+                    {"mouth", "japan-03" },
+                    {"tail", "japan-03" },
+                };
+            lst.Add(japan1);
+
+            float scale = 0.0032f;
+            int total = 0;
+            byte colorVariant = 49;
+
+            foreach (var adultCombo in lst)
+            {
+                //var builderResult = builder.BuildSpineAdultCombo(adultCombo, (byte)(colorVariant + total), scale);
+                var builderResult = builder.BuildSpineAdultCombo(adultCombo, (byte)(colorVariant + total), scale);
+
+                GameObject go = new GameObject("DemoAxie");
+                int row = total / 3;
+                int col = total % 3;
+                //go.transform.localPosition = new Vector3(row * 1.6f, col * 1.5f) - new Vector3(7.9f, 4.8f, 0);
+                go.transform.localPosition = new Vector3(row * 2.85f, col * 2.5f) - new Vector3(6.9f, 4.8f, 0);
+
+                SkeletonAnimation runtimeSkeletonAnimation = SkeletonAnimation.NewSkeletonAnimationGameObject(builderResult.skeletonDataAsset);
+                runtimeSkeletonAnimation.gameObject.layer = LayerMask.NameToLayer("Player");
+                runtimeSkeletonAnimation.transform.SetParent(go.transform, false);
+                runtimeSkeletonAnimation.transform.localScale = Vector3.one;
+                var meshRenderer = runtimeSkeletonAnimation.GetComponent<MeshRenderer>();
+                meshRenderer.sortingOrder = 10 * total;
+                total++;
+
+                runtimeSkeletonAnimation.gameObject.AddComponent<AutoBlendAnimController>();
+                runtimeSkeletonAnimation.state.SetAnimation(0, "action/idle/normal", true);
+
+                runtimeSkeletonAnimation.state.TimeScale = 0.5f;
+            }
+        }
+
         void ProcessMixer(string axieId, string genesStr, bool isGraphic)
         {
             if (string.IsNullOrEmpty(genesStr))
@@ -208,10 +350,14 @@ namespace Game
                 Debug.LogError($"[{axieId}] genes not found!!!");
                 return;
             }
-            float scale = 0.01f;
+            float scale = 0.007f;
 
-            var builderResult = builder.BuildSpineFromGene(axieId, genesStr, scale, isGraphic);
-
+            var meta = new Dictionary<string, string>();
+            //foreach (var accessorySlot in ACCESSORY_SLOTS)
+            //{
+            //    meta.Add(accessorySlot, $"{accessorySlot}1{System.Char.ConvertFromUtf32((int)('a') + accessoryIdx - 1)}");
+            //}
+            var builderResult = builder.BuildSpineFromGene(axieId, genesStr, meta, scale, isGraphic);
 
             //Test
             if (isGraphic)
@@ -307,6 +453,7 @@ namespace Game
             jPayload.Add(new JProperty("query", searchString));
 
             var wr = new UnityWebRequest("https://graphql-gateway.axieinfinity.com/graphql", "POST");
+            //var wr = new UnityWebRequest("https://testnet-graphql.skymavis.one/graphql", "POST");
             byte[] jsonToSend = new System.Text.UTF8Encoding().GetBytes(jPayload.ToString().ToCharArray());
             wr.uploadHandler = (UploadHandler)new UploadHandlerRaw(jsonToSend);
             wr.downloadHandler = (DownloadHandler)new DownloadHandlerBuffer();
@@ -320,6 +467,7 @@ namespace Game
                 {
                     JObject jResult = JObject.Parse(result);
                     string genesStr = (string)jResult["data"]["axie"]["newGenes"];
+                    Debug.Log(genesStr);
                     ProcessMixer(axieId, genesStr, USE_GRAPHIC);
                 }
             }
@@ -346,6 +494,30 @@ namespace Game
                 else
                 {
                     CaptureScreenshot.CaptureTransparentScreenshot(cam, width, height, filename);
+                }
+            }
+            else if (Input.GetKeyDown(KeyCode.S))
+            {
+                var meta = new Dictionary<string, string>();
+                foreach (var accessorySlot in ACCESSORY_SLOTS)
+                {
+                    meta.Add(accessorySlot, $"{accessorySlot}1{System.Char.ConvertFromUtf32((int)('a') + accessoryIdx - 1)}");
+                }
+                var builderResult = builder.BuildSpineFromGene("", "0x90000000000001000080e020c40c00000001001028a084080001000008404408000003000800440c0000039408a0450600000300300041020000048008004104", meta, 0.007f, USE_GRAPHIC);
+                var skeletonGraphics = FindObjectsOfType<SkeletonGraphic>();
+                foreach (var p in skeletonGraphics)
+                {
+                    p.skeletonDataAsset = builderResult.skeletonDataAsset;
+                    p.Initialize(true);
+                    p.AnimationState.SetAnimation(0, "action/idle/normal", true);
+                }
+            }
+            for (int i = 0; i < 8; i++)
+            {
+                if (Input.GetKeyDown($"{i}"))
+                {
+                    accessoryIdx = i;
+                    this.TestAll();
                 }
             }
         }

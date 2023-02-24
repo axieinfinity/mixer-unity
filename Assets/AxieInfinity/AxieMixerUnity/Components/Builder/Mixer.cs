@@ -62,7 +62,9 @@ namespace AxieMixer.Unity
             skeletonGraphic.Skeleton.SetSkin("default");
             skeletonGraphic.Skeleton.SetSlotsToSetupPose();
             skeletonGraphic.gameObject.AddComponent<AutoBlendAnimGraphicController>();
-
+            skeletonGraphic.material = Builder.axieMixerMaterials.GetSampleGraphicMaterial(AxieFormType.Normal);
+            skeletonGraphic.SetMaterialDirty();
+            //var skeletonGraphic = SkeletonGraphic.NewSkeletonGraphicGameObject(builderResult.skeletonDataAsset, rootTF, builderResult.sharedGraphicMaterial);
             if (result.adultCombo.ContainsKey("body") &&
              result.adultCombo["body"].Contains("mystic") &&
              result.adultCombo.TryGetValue("body-class", out var bodyClass) &&
@@ -108,10 +110,7 @@ namespace AxieMixer.Unity
             {
                 Dictionary<string, Texture2D> textures = new Dictionary<string, Texture2D>();
                 var atlasAsset = Resources.Load<TextAsset>($"{StuffName}/{quality}/axie-2d-v3-stuff");
-
-                string atlasStr = atlasAsset.text;
-                atlasStr = atlasStr.Replace("\r", "");
-                string[] lines = atlasStr.Split('\n').Where(x => x.Contains(".png")).Select(x => x.Replace(".png", "")).ToArray();
+                string[] lines = atlasAsset.text.Split('\n').Where(x => x.Contains(".png")).Select(x => x.Replace(".png", "")).ToArray();
                 foreach (var texName in lines)
                 {
                     var colorTexture = Resources.Load<Texture2D>($"{StuffName}/{quality}/{texName}_color");

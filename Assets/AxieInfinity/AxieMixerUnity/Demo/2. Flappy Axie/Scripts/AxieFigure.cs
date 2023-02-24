@@ -7,6 +7,8 @@ namespace Game
 {
     public class AxieFigure : MonoBehaviour
     {
+        public string id;
+        public string genes;
         private SkeletonAnimation skeletonAnimation;
 
         [SerializeField] private bool _flipX = false;
@@ -29,16 +31,9 @@ namespace Game
         private void Awake()
         {
             skeletonAnimation = gameObject.GetComponent<SkeletonAnimation>();
-        }
-
-        public void SetGenes(string id, string genes)
-        {
-            if (string.IsNullOrEmpty(genes)) return;
-
-            if (skeletonAnimation != null && skeletonAnimation.state != null)
-            {
-                skeletonAnimation.state.End -= SpineEndHandler;
-            }
+            
+            // Shouldn't be here, but it's useful
+            Mixer.Init();
             Mixer.SpawnSkeletonAnimation(skeletonAnimation, id, genes);
 
             skeletonAnimation.transform.localPosition = new Vector3(0f, -0.32f, 0f);
@@ -64,6 +59,26 @@ namespace Game
             skeletonAnimation.timeScale = 1f;
             skeletonAnimation.AnimationState.SetAnimation(0, "action/move-forward", false);
         }
+
+        public void DoAttackMeleeAnim()
+        {
+            skeletonAnimation.timeScale = 1f;
+            skeletonAnimation.AnimationState.SetAnimation(0, "attack/melee/tail-roll", false);
+        }
+
+
+        public void DoAttackRangedAnim()
+        {
+            skeletonAnimation.timeScale = 1f;
+            skeletonAnimation.AnimationState.SetAnimation(0, "attack/ranged/tail-roll", false);
+        }
+
+        public void DoBuffAnim()
+        {
+            skeletonAnimation.timeScale = 1f;
+            skeletonAnimation.AnimationState.SetAnimation(0, "attack/ranged/tail-roll", false);
+        }
+
 
         private void SpineEndHandler(TrackEntry trackEntry)
         {
