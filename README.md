@@ -6,7 +6,7 @@ The `Axie Mixer` is built upon [Spine Animation](http://en.esotericsoftware.com/
 
 ⚠️ The package requires `Spine Runtime Library` [(spine-unity 3.8 2021-11-10)](https://esotericsoftware.com/files/runtimes/unity/spine-unity-3.8-2021-11-10.unitypackage). You need to download it manualy, and put it on Plugins folder.
 
-- [Install the package using the following Git URL:](https://docs.unity3d.com/Manual/upm-ui-giturl.html) `https://github.com/axieinfinity/mixer-unity.git?path=/Packages/com.skymavis.axiecore.axiemixer.unity#v0.6.3`
+- [Install the package using the following Git URL:](https://docs.unity3d.com/Manual/upm-ui-giturl.html) `https://github.com/axieinfinity/mixer-unity.git?path=/Packages/com.skymavis.axiemixer.unity#v0.6.3`
 
 
 # Usage
