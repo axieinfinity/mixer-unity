@@ -1,0 +1,2073 @@
+{
+  "version": 1,
+  "items": {
+    "normal": [
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "2",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-04",
+        "colorVariant": "2",
+        "ears": "beast-04",
+        "back": "beast-04",
+        "horn": "beast-04",
+        "tail": "beast-04",
+        "mouth": "beast-04"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-08",
+        "colorVariant": "2",
+        "ears": "beast-08",
+        "back": "beast-08",
+        "horn": "beast-08",
+        "tail": "beast-08",
+        "mouth": "beast-08"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-10",
+        "colorVariant": "2",
+        "ears": "beast-10",
+        "back": "beast-10",
+        "horn": "beast-10",
+        "tail": "beast-10",
+        "mouth": "beast-10"
+      },
+      {
+        "body": "body-normal",
+        "ears": "beast-06",
+        "colorVariant": "2",
+        "back": "beast-06",
+        "horn": "beast-06",
+        "tail": "beast-06"
+      },
+      {
+        "body": "body-normal",
+        "ears": "beast-12",
+        "colorVariant": "2",
+        "back": "beast-12",
+        "horn": "beast-12",
+        "tail": "beast-12"
+      },
+      {
+        "body": "body-normal",
+        "mouth": "bug-02",
+        "colorVariant": "19",
+        "horn": "bug-02",
+        "tail": "bug-02",
+        "back": "bug-02",
+        "ears": "bug-02",
+        "eyes": "bug-02"
+      },
+      {
+        "body": "body-normal",
+        "mouth": "bug-04",
+        "colorVariant": "19",
+        "horn": "bug-04",
+        "tail": "bug-04",
+        "back": "bug-04",
+        "ears": "bug-04",
+        "eyes": "bug-04"
+      },
+      {
+        "body": "body-normal",
+        "mouth": "bug-08",
+        "colorVariant": "19",
+        "horn": "bug-08",
+        "tail": "bug-08",
+        "back": "bug-08",
+        "ears": "bug-08",
+        "eyes": "bug-08"
+      },
+      {
+        "body": "body-normal",
+        "mouth": "bug-10",
+        "colorVariant": "19",
+        "horn": "bug-10",
+        "tail": "bug-10",
+        "back": "bug-10",
+        "ears": "bug-10",
+        "eyes": "bug-10"
+      },
+      {
+        "body": "body-normal",
+        "horn": "bug-06",
+        "colorVariant": "19",
+        "tail": "bug-06",
+        "back": "bug-06",
+        "ears": "bug-06"
+      },
+      {
+        "body": "body-normal",
+        "horn": "bug-12",
+        "colorVariant": "19",
+        "tail": "bug-12",
+        "back": "bug-12",
+        "ears": "bug-12"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "aquatic-02",
+        "colorVariant": "13",
+        "mouth": "aquatic-02",
+        "horn": "aquatic-02",
+        "ears": "aquatic-02",
+        "tail": "aquatic-02",
+        "back": "aquatic-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "aquatic-04",
+        "colorVariant": "13",
+        "mouth": "aquatic-04",
+        "horn": "aquatic-04",
+        "ears": "aquatic-04",
+        "tail": "aquatic-04",
+        "back": "aquatic-04"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "aquatic-08",
+        "colorVariant": "13",
+        "mouth": "aquatic-08",
+        "horn": "aquatic-08",
+        "ears": "aquatic-08",
+        "tail": "aquatic-08",
+        "back": "aquatic-08"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "aquatic-10",
+        "colorVariant": "13",
+        "mouth": "aquatic-10",
+        "horn": "aquatic-10",
+        "ears": "aquatic-10",
+        "tail": "aquatic-10",
+        "back": "aquatic-10"
+      },
+      {
+        "body": "body-normal",
+        "horn": "aquatic-06",
+        "colorVariant": "13",
+        "ears": "aquatic-06",
+        "tail": "aquatic-06",
+        "back": "aquatic-06"
+      },
+      {
+        "body": "body-normal",
+        "horn": "aquatic-12",
+        "colorVariant": "13",
+        "ears": "aquatic-12",
+        "tail": "aquatic-12",
+        "back": "aquatic-12"
+      },
+      {
+        "body": "body-normal",
+        "ears": "bird-02",
+        "colorVariant": "24",
+        "tail": "bird-02",
+        "back": "bird-02",
+        "horn": "bird-02",
+        "mouth": "bird-02",
+        "eyes": "bird-02"
+      },
+      {
+        "body": "body-normal",
+        "ears": "bird-04",
+        "colorVariant": "24",
+        "tail": "bird-04",
+        "back": "bird-04",
+        "horn": "bird-04",
+        "mouth": "bird-04",
+        "eyes": "bird-04"
+      },
+      {
+        "body": "body-normal",
+        "ears": "bird-06",
+        "colorVariant": "24",
+        "tail": "bird-06",
+        "back": "bird-06",
+        "horn": "bird-06"
+      },
+      {
+        "body": "body-normal",
+        "ears": "bird-08",
+        "colorVariant": "24",
+        "tail": "bird-08",
+        "back": "bird-08",
+        "horn": "bird-08",
+        "mouth": "bird-08",
+        "eyes": "bird-08"
+      },
+      {
+        "body": "body-normal",
+        "ears": "bird-10",
+        "colorVariant": "24",
+        "tail": "bird-10",
+        "back": "bird-10",
+        "horn": "bird-10",
+        "mouth": "bird-10",
+        "eyes": "bird-10"
+      },
+      {
+        "body": "body-normal",
+        "ears": "bird-12",
+        "colorVariant": "24",
+        "tail": "bird-12",
+        "back": "bird-12",
+        "horn": "bird-12"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "reptile-02",
+        "colorVariant": "29",
+        "mouth": "reptile-02",
+        "ears": "reptile-02",
+        "back": "reptile-02",
+        "tail": "reptile-02",
+        "horn": "reptile-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "reptile-04",
+        "colorVariant": "29",
+        "mouth": "reptile-04",
+        "ears": "reptile-04",
+        "back": "reptile-04",
+        "tail": "reptile-04",
+        "horn": "reptile-04"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "reptile-08",
+        "colorVariant": "29",
+        "mouth": "reptile-08",
+        "ears": "reptile-08",
+        "back": "reptile-08",
+        "tail": "reptile-08",
+        "horn": "reptile-08"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "reptile-10",
+        "colorVariant": "29",
+        "mouth": "reptile-10",
+        "ears": "reptile-10",
+        "back": "reptile-10",
+        "tail": "reptile-10",
+        "horn": "reptile-10"
+      },
+      {
+        "body": "body-normal",
+        "ears": "reptile-06",
+        "colorVariant": "29",
+        "back": "reptile-06",
+        "tail": "reptile-06",
+        "horn": "reptile-06"
+      },
+      {
+        "body": "body-normal",
+        "ears": "reptile-12",
+        "colorVariant": "29",
+        "back": "reptile-12",
+        "tail": "reptile-12",
+        "horn": "reptile-12"
+      },
+      {
+        "body": "body-normal",
+        "tail": "plant-02",
+        "colorVariant": "8",
+        "mouth": "plant-02",
+        "eyes": "plant-02",
+        "ears": "plant-02",
+        "back": "plant-02",
+        "horn": "plant-02"
+      },
+      {
+        "body": "body-normal",
+        "tail": "plant-04",
+        "colorVariant": "8",
+        "mouth": "plant-04",
+        "eyes": "plant-04",
+        "ears": "plant-04",
+        "back": "plant-04",
+        "horn": "plant-04"
+      },
+      {
+        "body": "body-normal",
+        "tail": "plant-06",
+        "colorVariant": "8",
+        "ears": "plant-06",
+        "back": "plant-06",
+        "horn": "plant-06"
+      },
+      {
+        "body": "body-normal",
+        "tail": "plant-08",
+        "colorVariant": "8",
+        "mouth": "plant-08",
+        "eyes": "plant-08",
+        "ears": "plant-08",
+        "back": "plant-08",
+        "horn": "plant-08"
+      },
+      {
+        "body": "body-normal",
+        "tail": "plant-10",
+        "colorVariant": "8",
+        "mouth": "plant-10",
+        "eyes": "plant-10",
+        "ears": "plant-10",
+        "back": "plant-10",
+        "horn": "plant-10"
+      },
+      {
+        "body": "body-normal",
+        "tail": "plant-12",
+        "colorVariant": "8",
+        "ears": "plant-12",
+        "back": "plant-12",
+        "horn": "plant-12"
+      }
+    ],
+    "normal-lv2": [
+      {
+        "body": "body-normal",
+        "eyes": "beast-02-lv2",
+        "colorVariant": "2",
+        "ears": "beast-02-lv2",
+        "back": "beast-02-lv2",
+        "horn": "beast-02-lv2",
+        "tail": "beast-02-lv2",
+        "mouth": "beast-02-lv2"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-04-lv2",
+        "colorVariant": "2",
+        "ears": "beast-04-lv2",
+        "back": "beast-04-lv2",
+        "horn": "beast-04-lv2",
+        "tail": "beast-04-lv2",
+        "mouth": "beast-04-lv2"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-08-lv2",
+        "colorVariant": "2",
+        "ears": "beast-08-lv2",
+        "back": "beast-08-lv2",
+        "horn": "beast-08-lv2",
+        "tail": "beast-08-lv2",
+        "mouth": "beast-08-lv2"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-10-lv2",
+        "colorVariant": "2",
+        "ears": "beast-10-lv2",
+        "back": "beast-10-lv2",
+        "horn": "beast-10-lv2",
+        "tail": "beast-10-lv2",
+        "mouth": "beast-10-lv2"
+      },
+      {
+        "body": "body-normal",
+        "ears": "beast-06-lv2",
+        "colorVariant": "2",
+        "back": "beast-06-lv2",
+        "horn": "beast-06-lv2",
+        "tail": "beast-06-lv2"
+      },
+      {
+        "body": "body-normal",
+        "ears": "beast-12-lv2",
+        "colorVariant": "2",
+        "back": "beast-12-lv2",
+        "horn": "beast-12-lv2",
+        "tail": "beast-12-lv2"
+      },
+      {
+        "body": "body-normal",
+        "mouth": "bug-02-lv2",
+        "colorVariant": "19",
+        "horn": "bug-02-lv2",
+        "tail": "bug-02-lv2",
+        "back": "bug-02-lv2",
+        "ears": "bug-02-lv2",
+        "eyes": "bug-02-lv2"
+      },
+      {
+        "body": "body-normal",
+        "mouth": "bug-04-lv2",
+        "colorVariant": "19",
+        "horn": "bug-04-lv2",
+        "tail": "bug-04-lv2",
+        "back": "bug-04-lv2",
+        "ears": "bug-04-lv2",
+        "eyes": "bug-04-lv2"
+      },
+      {
+        "body": "body-normal",
+        "mouth": "bug-08-lv2",
+        "colorVariant": "19",
+        "horn": "bug-08-lv2",
+        "tail": "bug-08-lv2",
+        "back": "bug-08-lv2",
+        "ears": "bug-08-lv2",
+        "eyes": "bug-08-lv2"
+      },
+      {
+        "body": "body-normal",
+        "mouth": "bug-10-lv2",
+        "colorVariant": "19",
+        "horn": "bug-10-lv2",
+        "tail": "bug-10-lv2",
+        "back": "bug-10-lv2",
+        "ears": "bug-10-lv2",
+        "eyes": "bug-10-lv2"
+      },
+      {
+        "body": "body-normal",
+        "horn": "bug-06-lv2",
+        "colorVariant": "19",
+        "tail": "bug-06-lv2",
+        "back": "bug-06-lv2",
+        "ears": "bug-06-lv2"
+      },
+      {
+        "body": "body-normal",
+        "horn": "bug-12-lv2",
+        "colorVariant": "19",
+        "tail": "bug-12-lv2",
+        "back": "bug-12-lv2",
+        "ears": "bug-12-lv2"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "aquatic-02-lv2",
+        "colorVariant": "13",
+        "mouth": "aquatic-02-lv2",
+        "horn": "aquatic-02-lv2",
+        "ears": "aquatic-02-lv2",
+        "tail": "aquatic-02-lv2",
+        "back": "aquatic-02-lv2"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "aquatic-04-lv2",
+        "colorVariant": "13",
+        "mouth": "aquatic-04-lv2",
+        "horn": "aquatic-04-lv2",
+        "ears": "aquatic-04-lv2",
+        "tail": "aquatic-04-lv2",
+        "back": "aquatic-04-lv2"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "aquatic-08-lv2",
+        "colorVariant": "13",
+        "mouth": "aquatic-08-lv2",
+        "horn": "aquatic-08-lv2",
+        "ears": "aquatic-08-lv2",
+        "tail": "aquatic-08-lv2",
+        "back": "aquatic-08-lv2"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "aquatic-10-lv2",
+        "colorVariant": "13",
+        "mouth": "aquatic-10-lv2",
+        "horn": "aquatic-10-lv2",
+        "ears": "aquatic-10-lv2",
+        "tail": "aquatic-10-lv2",
+        "back": "aquatic-10-lv2"
+      },
+      {
+        "body": "body-normal",
+        "horn": "aquatic-06-lv2",
+        "colorVariant": "13",
+        "ears": "aquatic-06-lv2",
+        "tail": "aquatic-06-lv2",
+        "back": "aquatic-06-lv2"
+      },
+      {
+        "body": "body-normal",
+        "horn": "aquatic-12-lv2",
+        "colorVariant": "13",
+        "ears": "aquatic-12-lv2",
+        "tail": "aquatic-12-lv2",
+        "back": "aquatic-12-lv2"
+      },
+      {
+        "body": "body-normal",
+        "ears": "bird-02-lv2",
+        "colorVariant": "24",
+        "tail": "bird-02-lv2",
+        "back": "bird-02-lv2",
+        "horn": "bird-02-lv2",
+        "mouth": "bird-02-lv2",
+        "eyes": "bird-02-lv2"
+      },
+      {
+        "body": "body-normal",
+        "ears": "bird-04-lv2",
+        "colorVariant": "24",
+        "tail": "bird-04-lv2",
+        "back": "bird-04-lv2",
+        "horn": "bird-04-lv2",
+        "mouth": "bird-04-lv2",
+        "eyes": "bird-04-lv2"
+      },
+      {
+        "body": "body-normal",
+        "ears": "bird-06-lv2",
+        "colorVariant": "24",
+        "tail": "bird-06-lv2",
+        "back": "bird-06-lv2",
+        "horn": "bird-06-lv2"
+      },
+      {
+        "body": "body-normal",
+        "ears": "bird-08-lv2",
+        "colorVariant": "24",
+        "tail": "bird-08-lv2",
+        "back": "bird-08-lv2",
+        "horn": "bird-08-lv2",
+        "mouth": "bird-08-lv2",
+        "eyes": "bird-08-lv2"
+      },
+      {
+        "body": "body-normal",
+        "ears": "bird-10-lv2",
+        "colorVariant": "24",
+        "tail": "bird-10-lv2",
+        "back": "bird-10-lv2",
+        "horn": "bird-10-lv2",
+        "mouth": "bird-10-lv2",
+        "eyes": "bird-10-lv2"
+      },
+      {
+        "body": "body-normal",
+        "ears": "bird-12-lv2",
+        "colorVariant": "24",
+        "tail": "bird-12-lv2",
+        "back": "bird-12-lv2",
+        "horn": "bird-12-lv2"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "reptile-02-lv2",
+        "colorVariant": "29",
+        "mouth": "reptile-02-lv2",
+        "ears": "reptile-02-lv2",
+        "back": "reptile-02-lv2",
+        "tail": "reptile-02-lv2",
+        "horn": "reptile-02-lv2"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "reptile-04-lv2",
+        "colorVariant": "29",
+        "mouth": "reptile-04-lv2",
+        "ears": "reptile-04-lv2",
+        "back": "reptile-04-lv2",
+        "tail": "reptile-04-lv2",
+        "horn": "reptile-04-lv2"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "reptile-08-lv2",
+        "colorVariant": "29",
+        "mouth": "reptile-08-lv2",
+        "ears": "reptile-08-lv2",
+        "back": "reptile-08-lv2",
+        "tail": "reptile-08-lv2",
+        "horn": "reptile-08-lv2"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "reptile-10-lv2",
+        "colorVariant": "29",
+        "mouth": "reptile-10-lv2",
+        "ears": "reptile-10-lv2",
+        "back": "reptile-10-lv2",
+        "tail": "reptile-10-lv2",
+        "horn": "reptile-10-lv2"
+      },
+      {
+        "body": "body-normal",
+        "ears": "reptile-06-lv2",
+        "colorVariant": "29",
+        "back": "reptile-06-lv2",
+        "tail": "reptile-06-lv2",
+        "horn": "reptile-06-lv2"
+      },
+      {
+        "body": "body-normal",
+        "ears": "reptile-12-lv2",
+        "colorVariant": "29",
+        "back": "reptile-12-lv2",
+        "tail": "reptile-12-lv2",
+        "horn": "reptile-12-lv2"
+      },
+      {
+        "body": "body-normal",
+        "tail": "plant-02-lv2",
+        "colorVariant": "8",
+        "mouth": "plant-02-lv2",
+        "eyes": "plant-02-lv2",
+        "ears": "plant-02-lv2",
+        "back": "plant-02-lv2",
+        "horn": "plant-02-lv2"
+      },
+      {
+        "body": "body-normal",
+        "tail": "plant-04-lv2",
+        "colorVariant": "8",
+        "mouth": "plant-04-lv2",
+        "eyes": "plant-04-lv2",
+        "ears": "plant-04-lv2",
+        "back": "plant-04-lv2",
+        "horn": "plant-04-lv2"
+      },
+      {
+        "body": "body-normal",
+        "tail": "plant-06-lv2",
+        "colorVariant": "8",
+        "ears": "plant-06-lv2",
+        "back": "plant-06-lv2",
+        "horn": "plant-06-lv2"
+      },
+      {
+        "body": "body-normal",
+        "tail": "plant-08-lv2",
+        "colorVariant": "8",
+        "mouth": "plant-08-lv2",
+        "eyes": "plant-08-lv2",
+        "ears": "plant-08-lv2",
+        "back": "plant-08-lv2",
+        "horn": "plant-08-lv2"
+      },
+      {
+        "body": "body-normal",
+        "tail": "plant-10-lv2",
+        "colorVariant": "8",
+        "mouth": "plant-10-lv2",
+        "eyes": "plant-10-lv2",
+        "ears": "plant-10-lv2",
+        "back": "plant-10-lv2",
+        "horn": "plant-10-lv2"
+      },
+      {
+        "body": "body-normal",
+        "tail": "plant-12-lv2",
+        "colorVariant": "8",
+        "ears": "plant-12-lv2",
+        "back": "plant-12-lv2",
+        "horn": "plant-12-lv2"
+      }
+    ],
+    "mystic": [
+      {
+        "body": "body-normal",
+        "eyes": "beast-mystic-02",
+        "colorVariant": "2",
+        "ears": "beast-mystic-02",
+        "back": "beast-mystic-02",
+        "horn": "beast-mystic-02",
+        "tail": "beast-mystic-02",
+        "mouth": "beast-mystic-02"
+      },
+      {
+        "body": "body-normal",
+        "mouth": "bug-mystic-02",
+        "colorVariant": "19",
+        "horn": "bug-mystic-02",
+        "tail": "bug-mystic-02",
+        "back": "bug-mystic-02",
+        "ears": "bug-mystic-02",
+        "eyes": "bug-mystic-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "aquatic-mystic-02",
+        "colorVariant": "13",
+        "mouth": "aquatic-mystic-02",
+        "horn": "aquatic-mystic-02",
+        "ears": "aquatic-mystic-02",
+        "tail": "aquatic-mystic-02",
+        "back": "aquatic-mystic-02"
+      },
+      {
+        "body": "body-normal",
+        "ears": "bird-mystic-02",
+        "colorVariant": "24",
+        "tail": "bird-mystic-02",
+        "back": "bird-mystic-02",
+        "horn": "bird-mystic-02",
+        "mouth": "bird-mystic-02",
+        "eyes": "bird-mystic-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "reptile-mystic-02",
+        "colorVariant": "29",
+        "mouth": "reptile-mystic-02",
+        "ears": "reptile-mystic-02",
+        "back": "reptile-mystic-02",
+        "tail": "reptile-mystic-02",
+        "horn": "reptile-mystic-02"
+      },
+      {
+        "body": "body-normal",
+        "tail": "plant-mystic-02",
+        "colorVariant": "8",
+        "mouth": "plant-mystic-02",
+        "eyes": "plant-mystic-02",
+        "ears": "plant-mystic-02",
+        "back": "plant-mystic-02",
+        "horn": "plant-mystic-02"
+      }
+    ],
+    "mystic-lv2": [
+      {
+        "body": "body-normal",
+        "eyes": "beast-mystic-02-lv2",
+        "colorVariant": "2",
+        "ears": "beast-mystic-02-lv2",
+        "back": "beast-mystic-02-lv2",
+        "horn": "beast-mystic-02-lv2",
+        "tail": "beast-mystic-02-lv2",
+        "mouth": "beast-mystic-02-lv2"
+      },
+      {
+        "body": "body-normal",
+        "mouth": "bug-mystic-02-lv2",
+        "colorVariant": "19",
+        "horn": "bug-mystic-02-lv2",
+        "tail": "bug-mystic-02-lv2",
+        "back": "bug-mystic-02-lv2",
+        "ears": "bug-mystic-02-lv2",
+        "eyes": "bug-mystic-02-lv2"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "aquatic-mystic-02-lv2",
+        "colorVariant": "13",
+        "mouth": "aquatic-mystic-02-lv2",
+        "horn": "aquatic-mystic-02-lv2",
+        "ears": "aquatic-mystic-02-lv2",
+        "tail": "aquatic-mystic-02-lv2",
+        "back": "aquatic-mystic-02-lv2"
+      },
+      {
+        "body": "body-normal",
+        "ears": "bird-mystic-02-lv2",
+        "colorVariant": "24",
+        "tail": "bird-mystic-02-lv2",
+        "back": "bird-mystic-02-lv2",
+        "horn": "bird-mystic-02-lv2",
+        "mouth": "bird-mystic-02-lv2",
+        "eyes": "bird-mystic-02-lv2"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "reptile-mystic-02-lv2",
+        "colorVariant": "29",
+        "mouth": "reptile-mystic-02-lv2",
+        "ears": "reptile-mystic-02-lv2",
+        "back": "reptile-mystic-02-lv2",
+        "tail": "reptile-mystic-02-lv2",
+        "horn": "reptile-mystic-02-lv2"
+      },
+      {
+        "body": "body-normal",
+        "tail": "plant-mystic-02-lv2",
+        "colorVariant": "8",
+        "mouth": "plant-mystic-02-lv2",
+        "eyes": "plant-mystic-02-lv2",
+        "ears": "plant-mystic-02-lv2",
+        "back": "plant-mystic-02-lv2",
+        "horn": "plant-mystic-02-lv2"
+      }
+    ],
+    "agamo": [
+      {
+        "body": "body-normal",
+        "horn": "agamo-01",
+        "colorVariant": "0"
+      },
+      {
+        "body": "body-normal",
+        "horn": "agamo-00",
+        "colorVariant": "0",
+        "back": "agamo-00"
+      }
+    ],
+    "agamo-lv2": [
+      {
+        "body": "body-normal",
+        "horn": "agamo-01-lv2",
+        "colorVariant": "0"
+      },
+      {
+        "body": "body-normal",
+        "horn": "agamo-00-lv2",
+        "colorVariant": "0",
+        "back": "agamo-00-lv2"
+      }
+    ],
+    "japan": [
+      {
+        "body": "body-normal",
+        "back": "japan-02",
+        "colorVariant": "0",
+        "horn": "japan-02",
+        "eyes": "japan-02",
+        "tail": "japan-02",
+        "ears": "japan-02",
+        "mouth": "japan-02"
+      },
+      {
+        "body": "body-normal",
+        "horn": "japan-03",
+        "colorVariant": "0",
+        "mouth": "japan-03",
+        "ears": "japan-03",
+        "tail": "japan-03",
+        "eyes": "japan-03",
+        "back": "japan-03"
+      },
+      {
+        "body": "body-normal",
+        "tail": "japan-01",
+        "colorVariant": "0",
+        "mouth": "japan-01",
+        "back": "japan-01",
+        "eyes": "japan-01",
+        "ears": "japan-01",
+        "horn": "japan-01"
+      }
+    ],
+    "japan-lv2": [
+      {
+        "body": "body-normal",
+        "back": "japan-02-lv2",
+        "colorVariant": "0",
+        "horn": "japan-02-lv2",
+        "eyes": "japan-02-lv2",
+        "tail": "japan-02-lv2",
+        "ears": "japan-02-lv2",
+        "mouth": "japan-02-lv2"
+      },
+      {
+        "body": "body-normal",
+        "horn": "japan-03-lv2",
+        "colorVariant": "0",
+        "mouth": "japan-03-lv2",
+        "ears": "japan-03-lv2",
+        "tail": "japan-03-lv2",
+        "eyes": "japan-03-lv2",
+        "back": "japan-03-lv2"
+      },
+      {
+        "body": "body-normal",
+        "tail": "japan-01-lv2",
+        "colorVariant": "0",
+        "mouth": "japan-01-lv2",
+        "back": "japan-01-lv2",
+        "eyes": "japan-01-lv2",
+        "ears": "japan-01-lv2",
+        "horn": "japan-01-lv2"
+      }
+    ],
+    "xmas": [
+      {
+        "body": "body-normal",
+        "eyes": "xmas-01",
+        "colorVariant": "0",
+        "ears": "xmas-01",
+        "back": "xmas-01",
+        "horn": "xmas-01",
+        "tail": "xmas-01",
+        "mouth": "xmas-01"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "xmas-02",
+        "colorVariant": "0",
+        "mouth": "xmas-02",
+        "back": "xmas-02",
+        "tail": "xmas-02",
+        "ears": "xmas-02",
+        "horn": "xmas-02"
+      }
+    ],
+    "xmas-lv2": [
+      {
+        "body": "body-normal",
+        "eyes": "xmas-01-lv2",
+        "colorVariant": "0",
+        "ears": "xmas-01-lv2",
+        "back": "xmas-01-lv2",
+        "horn": "xmas-01-lv2",
+        "tail": "xmas-01-lv2",
+        "mouth": "xmas-01-lv2"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "xmas-02-lv2",
+        "colorVariant": "0",
+        "mouth": "xmas-02-lv2",
+        "back": "xmas-02-lv2",
+        "tail": "xmas-02-lv2",
+        "ears": "xmas-02-lv2",
+        "horn": "xmas-02-lv2"
+      }
+    ],
+    "summer": [
+      {
+        "body": "body-normal",
+        "ears": "summer-a",
+        "colorVariant": "0",
+        "back": "summer-a",
+        "tail": "summer-a",
+        "eyes": "summer-a",
+        "mouth": "summer-a",
+        "horn": "summer-a"
+      },
+      {
+        "body": "body-normal",
+        "back": "summer-ta",
+        "colorVariant": "0",
+        "horn": "summer-ta"
+      },
+      {
+        "body": "body-normal",
+        "horn": "summer-tc",
+        "colorVariant": "0",
+        "back": "summer-tc"
+      },
+      {
+        "body": "body-normal",
+        "horn": "summer-td",
+        "colorVariant": "0"
+      },
+      {
+        "body": "body-normal",
+        "ears": "summer-as",
+        "colorVariant": "0",
+        "tail": "summer-as",
+        "eyes": "summer-as",
+        "mouth": "summer-as",
+        "back": "summer-as",
+        "horn": "summer-as"
+      },
+      {
+        "body": "body-normal",
+        "horn": "summer-tb",
+        "colorVariant": "0"
+      }
+    ],
+    "summer-lv2": [
+      {
+        "body": "body-normal",
+        "ears": "summer-a-lv2",
+        "colorVariant": "0",
+        "back": "summer-a-lv2",
+        "tail": "summer-a-lv2",
+        "eyes": "summer-a-lv2",
+        "mouth": "summer-a-lv2",
+        "horn": "summer-a-lv2"
+      },
+      {
+        "body": "body-normal",
+        "back": "summer-ta-lv2",
+        "colorVariant": "0",
+        "horn": "summer-ta-lv2"
+      },
+      {
+        "body": "body-normal",
+        "horn": "summer-tc-lv2",
+        "colorVariant": "0",
+        "back": "summer-tc-lv2"
+      },
+      {
+        "body": "body-normal",
+        "horn": "summer-td-lv2",
+        "colorVariant": "0"
+      },
+      {
+        "body": "body-normal",
+        "ears": "summer-as-lv2",
+        "colorVariant": "0",
+        "tail": "summer-as-lv2",
+        "eyes": "summer-as-lv2",
+        "mouth": "summer-as-lv2",
+        "back": "summer-as-lv2",
+        "horn": "summer-as-lv2"
+      },
+      {
+        "body": "body-normal",
+        "horn": "summer-tb-lv2",
+        "colorVariant": "0"
+      }
+    ],
+    "nightmare": [
+      {
+        "body": "body-normal",
+        "eyes": "na-4",
+        "colorVariant": "2",
+        "back": "na-4",
+        "tail": "na-4",
+        "mouth": "na-4",
+        "horn": "na-4",
+        "ears": "na-4"
+      },
+      {
+        "body": "body-normal",
+        "mouth": "na-1",
+        "colorVariant": "2",
+        "tail": "na-1",
+        "eyes": "na-1",
+        "ears": "na-1",
+        "back": "na-1",
+        "horn": "na-1"
+      },
+      {
+        "body": "body-normal",
+        "horn": "na-2",
+        "colorVariant": "2",
+        "ears": "na-2",
+        "eyes": "na-2",
+        "mouth": "na-2",
+        "tail": "na-2",
+        "back": "na-2"
+      },
+      {
+        "body": "body-normal",
+        "ears": "na-3",
+        "colorVariant": "2",
+        "tail": "na-3",
+        "mouth": "na-3",
+        "eyes": "na-3",
+        "back": "na-3",
+        "horn": "na-3"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "nas-4",
+        "colorVariant": "2",
+        "back": "nas-4",
+        "tail": "nas-4",
+        "mouth": "nas-4",
+        "horn": "nas-4",
+        "ears": "nas-4"
+      },
+      {
+        "body": "body-normal",
+        "mouth": "nas-1",
+        "colorVariant": "2",
+        "tail": "nas-1",
+        "eyes": "nas-1",
+        "ears": "nas-1",
+        "back": "nas-1",
+        "horn": "nas-1"
+      },
+      {
+        "body": "body-normal",
+        "horn": "nas-2",
+        "colorVariant": "2",
+        "ears": "nas-2",
+        "eyes": "nas-2",
+        "mouth": "nas-2",
+        "tail": "nas-2",
+        "back": "nas-2"
+      },
+      {
+        "body": "body-normal",
+        "ears": "nas-3",
+        "colorVariant": "2",
+        "tail": "nas-3",
+        "mouth": "nas-3",
+        "eyes": "nas-3",
+        "back": "nas-3",
+        "horn": "nas-3"
+      }
+    ],
+    "body": [
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "0",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-fuzzy",
+        "eyes": "beast-02",
+        "colorVariant": "0",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-agamo",
+        "eyes": "beast-02",
+        "colorVariant": "0",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-spiky",
+        "eyes": "beast-02",
+        "colorVariant": "0",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-curly",
+        "eyes": "beast-02",
+        "colorVariant": "0",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-wetdog",
+        "eyes": "beast-02",
+        "colorVariant": "0",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-sumo",
+        "eyes": "beast-02",
+        "colorVariant": "0",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-bigyak",
+        "eyes": "beast-02",
+        "colorVariant": "0",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-mystic-normal",
+        "eyes": "beast-02",
+        "colorVariant": "0",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-mystic-fuzzy",
+        "eyes": "beast-02",
+        "colorVariant": "0",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-frosty",
+        "eyes": "beast-02",
+        "colorVariant": "48",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-summer",
+        "eyes": "beast-02",
+        "colorVariant": "49",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-summer",
+        "eyes": "beast-02",
+        "colorVariant": "50",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-summer",
+        "eyes": "beast-02",
+        "colorVariant": "51",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-summer",
+        "eyes": "beast-02",
+        "colorVariant": "52",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-summer",
+        "eyes": "beast-02",
+        "colorVariant": "53",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-summer",
+        "eyes": "beast-02",
+        "colorVariant": "54",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-summer",
+        "eyes": "beast-02",
+        "colorVariant": "55",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-summer",
+        "eyes": "beast-02",
+        "colorVariant": "56",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-summer",
+        "eyes": "beast-02",
+        "colorVariant": "57",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-nightmare",
+        "eyes": "beast-02",
+        "colorVariant": "58",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-nightmare",
+        "eyes": "beast-02",
+        "colorVariant": "59",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-nightmare",
+        "eyes": "beast-02",
+        "colorVariant": "60",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-nightmare",
+        "eyes": "beast-02",
+        "colorVariant": "61",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-nightmare",
+        "eyes": "beast-02",
+        "colorVariant": "62",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-nightmare",
+        "eyes": "beast-02",
+        "colorVariant": "63",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-nightmare",
+        "eyes": "beast-02",
+        "colorVariant": "64",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-nightmare",
+        "eyes": "beast-02",
+        "colorVariant": "65",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-nightmare",
+        "eyes": "beast-02",
+        "colorVariant": "66",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      }
+    ],
+    "color": [
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "0",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "1",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "2",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "3",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "4",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "5",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "6",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "7",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "8",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "9",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "10",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "11",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "12",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "13",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "14",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "15",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "16",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "17",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "18",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "19",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "20",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "21",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "22",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "23",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "24",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "25",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "26",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "27",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "28",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "29",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "30",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "31",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "32",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "33",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "34",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "35",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "36",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "37",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "38",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "39",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "40",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "41",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "42",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "43",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "44",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "45",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "46",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-normal",
+        "eyes": "beast-02",
+        "colorVariant": "47",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-frosty",
+        "eyes": "beast-02",
+        "colorVariant": "48",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-summer",
+        "eyes": "beast-02",
+        "colorVariant": "49",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-summer",
+        "eyes": "beast-02",
+        "colorVariant": "50",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-summer",
+        "eyes": "beast-02",
+        "colorVariant": "51",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-summer",
+        "eyes": "beast-02",
+        "colorVariant": "52",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-summer",
+        "eyes": "beast-02",
+        "colorVariant": "53",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-summer",
+        "eyes": "beast-02",
+        "colorVariant": "54",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-summer",
+        "eyes": "beast-02",
+        "colorVariant": "55",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-summer",
+        "eyes": "beast-02",
+        "colorVariant": "56",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-summer",
+        "eyes": "beast-02",
+        "colorVariant": "57",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-nightmare",
+        "eyes": "beast-02",
+        "colorVariant": "58",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-nightmare",
+        "eyes": "beast-02",
+        "colorVariant": "59",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-nightmare",
+        "eyes": "beast-02",
+        "colorVariant": "60",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-nightmare",
+        "eyes": "beast-02",
+        "colorVariant": "61",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-nightmare",
+        "eyes": "beast-02",
+        "colorVariant": "62",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-nightmare",
+        "eyes": "beast-02",
+        "colorVariant": "63",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-nightmare",
+        "eyes": "beast-02",
+        "colorVariant": "64",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-nightmare",
+        "eyes": "beast-02",
+        "colorVariant": "65",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      },
+      {
+        "body": "body-nightmare",
+        "eyes": "beast-02",
+        "colorVariant": "66",
+        "ears": "beast-02",
+        "back": "beast-02",
+        "horn": "beast-02",
+        "tail": "beast-02",
+        "mouth": "beast-02"
+      }
+    ]
+  }
+}
