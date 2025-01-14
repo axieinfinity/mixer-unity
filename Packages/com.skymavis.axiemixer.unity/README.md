@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-[Install the package using the following Git URL:](https://docs.unity3d.com/Manual/upm-ui-giturl.html) `git@github.com:axieinfinity/unity-axie-mixer2d.git?path=/Packages/com.skymavis.axiecore.axiemixer`
+[Install the package using the following Git URL:](https://docs.unity3d.com/Manual/upm-ui-giturl.html) `https://github.com/axieinfinity/mixer-unity.git?path=/Packages/com.skymavis.axiemixer.unity#v0.6.5`
 
 ## Developer Guide
 
