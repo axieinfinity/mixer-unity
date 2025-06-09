@@ -1,0 +1,69 @@
+
+air2a.png
+size: 390,217
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hands/eye_1
+  rotate: true
+  xy: 105, 9
+  size: 69, 70
+  orig: 71, 72
+  offset: 1, 1
+  index: -1
+hands/eye_2
+  rotate: false
+  xy: 243, 37
+  size: 39, 41
+  orig: 41, 43
+  offset: 1, 1
+  index: -1
+hands/eye_3
+  rotate: false
+  xy: 243, 12
+  size: 18, 21
+  orig: 20, 23
+  offset: 1, 1
+  index: -1
+hands/eye_4
+  rotate: false
+  xy: 376, 96
+  size: 10, 11
+  orig: 12, 13
+  offset: 1, 1
+  index: -1
+hands/finger_1
+  rotate: false
+  xy: 297, 111
+  size: 79, 102
+  orig: 80, 102
+  offset: 0, 0
+  index: -1
+hands/finger_2
+  rotate: true
+  xy: 4, 4
+  size: 74, 97
+  orig: 74, 97
+  offset: 0, 0
+  index: -1
+hands/finger_3
+  rotate: true
+  xy: 297, 21
+  size: 86, 75
+  orig: 86, 75
+  offset: 0, 0
+  index: -1
+hands/finger_4
+  rotate: true
+  xy: 179, 9
+  size: 69, 60
+  orig: 69, 60
+  offset: 0, 0
+  index: -1
+hands/hand
+  rotate: true
+  xy: 4, 82
+  size: 131, 289
+  orig: 131, 289
+  offset: 0, 0
+  index: -1

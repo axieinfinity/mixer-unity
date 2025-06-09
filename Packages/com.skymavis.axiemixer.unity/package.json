@@ -1,6 +1,6 @@
 {
   "name": "com.skymavis.axiemixer.unity",
-  "version": "0.6.5",
+  "version": "0.7.3",
   "displayName": "Axie Mixer",
   "description": "Core library for mixing Axie's parts together.",
   "unity": "2020.3"

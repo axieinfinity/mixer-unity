@@ -1,0 +1,13 @@
+
+neck1c.png
+size: 80,112
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+neck1c
+  rotate: false
+  xy: 0, 0
+  size: 80,112
+  orig: 80,112
+  offset: 0, 0
+  index: -1

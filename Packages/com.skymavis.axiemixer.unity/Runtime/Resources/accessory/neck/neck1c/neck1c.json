@@ -1,0 +1,8 @@
+{
+  "skeleton": {"hash": "", "spine": "3.8.99", "x": -128, "y": -128, "width": 512, "height": 512},
+  "bones": [{"name": "root"}, {"name": "bone", "parent": "root", "x": 0, "y": 0}],
+  "slots": [{"name": "sprite", "bone": "root", "attachment": "neck1c"}],
+  "ik": [],
+  "skins": [{"name": "default", "attachments": {"sprite": {"neck1c": {"x": -4.037383177570093, "y": -49.48774193548387, "width": 80, "height": 112}}}}],
+  "animations": {"idle": {"slots": {"sprite": {"attachment": [{"name": "neck1c", "x": -4.037383177570093, "y": -49.48774193548387, "width": 80, "height": 112}]}}}}
+}

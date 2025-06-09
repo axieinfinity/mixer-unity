@@ -1,0 +1,13 @@
+
+cheek1g.png
+size: 105,98
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cheek1g
+  rotate: false
+  xy: 0, 0
+  size: 105,98
+  orig: 105,98
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+ground1a.png
+size: 318,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/a
+  rotate: false
+  xy: 223, 113
+  size: 70, 56
+  orig: 70, 56
+  offset: 0, 0
+  index: -1
+1/b
+  rotate: false
+  xy: 109, 4
+  size: 70, 56
+  orig: 70, 56
+  offset: 0, 0
+  index: -1
+1/bd
+  rotate: false
+  xy: 4, 64
+  size: 215, 200
+  orig: 219, 200
+  offset: 4, 0
+  index: -1
+1/e
+  rotate: true
+  xy: 297, 88
+  size: 81, 16
+  orig: 83, 26
+  offset: 1, 1
+  index: -1
+1/hat1
+  rotate: false
+  xy: 4, 6
+  size: 101, 54
+  orig: 103, 56
+  offset: 1, 1
+  index: -1
+1/hat2
+  rotate: false
+  xy: 223, 173
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+1/m
+  rotate: false
+  xy: 223, 38
+  size: 91, 27
+  orig: 94, 30
+  offset: 2, 1
+  index: -1
+1/n
+  rotate: true
+  xy: 183, 19
+  size: 41, 33
+  orig: 43, 35
+  offset: 1, 1
+  index: -1
+2/hat2
+  rotate: false
+  xy: 223, 69
+  size: 67, 40
+  orig: 67, 40
+  offset: 0, 0
+  index: -1
