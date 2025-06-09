@@ -974,9 +974,26 @@
         "horn": "summer-as"
       },
       {
-        "body": "body-normal",
-        "horn": "summer-tb",
-        "colorVariant": "0"
+        "body": "body-summer",
+        "ears": "reptile-06",
+        "colorVariant": "54",
+        "tail": "reptile-06",
+        "eyes": "reptile-06",
+        "mouth": "reptile-06",
+        "back": "reptile-06",
+        "horn": "reptile-06"
+      }
+    ],
+    "summer-test": [
+      {
+        "body": "body-summer",
+        "ears": "reptile-06",
+        "colorVariant": "54",
+        "tail": "reptile-06",
+        "eyes": "reptile-06",
+        "mouth": "reptile-06",
+        "back": "reptile-06",
+        "horn": "reptile-06"
       }
     ],
     "summer-lv2": [
