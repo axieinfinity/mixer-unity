@@ -37,11 +37,11 @@ namespace SkyMavis.AxieMixer.Unity.Demo
 
         static string[] ACCESSORY_SLOTS = new[]
           {
-                "accessory-air",
-                "accessory-cheek",
-                "accessory-ground",
-                "accessory-hip",
-                "accessory-neck",
+                "air",
+                "cheek",
+                "ground",
+                "hip",
+                "neck",
             };
 
         static string[] SKIN_NAMES = new[]
@@ -191,11 +191,21 @@ namespace SkyMavis.AxieMixer.Unity.Demo
                     {
                         runtimeSkeletonAnimation.gameObject.AddComponent<MysticIdController>().Init(bodyClass, bodyId);
                     }
+
+                    var accessory = new GameObject("accessory", typeof(AccessoryController)).GetComponent<AccessoryController>();
+                    accessory.transform.SetParent(runtimeSkeletonAnimation.transform, false);
+                    accessory.Init(builderResult.skeletonDataAsset.scale);
+                    builderResult.adultCombo.Where(p => p.Value == "accessory").Select(x => x.Key).ToList().ForEach(p => accessory.Equip(p));
+
+                    foreach (var accessorySlot in ACCESSORY_SLOTS)
+                    {
+                        accessory.Equip($"{accessorySlot}1{System.Char.ConvertFromUtf32((int)('a') + accessoryIdx - 1)}");
+                    }
                 }
             }
         }
 
-        void ProcessMixer(string axieId, string genesStr, bool isGraphic)
+        void ProcessMixer(string axieId, string genesStr, Dictionary<string, string> meta, bool isGraphic)
         {
             if (string.IsNullOrEmpty(genesStr))
             {
@@ -204,15 +214,9 @@ namespace SkyMavis.AxieMixer.Unity.Demo
             }
             float scale = 0.017f;
 
-            var meta = new Dictionary<string, string>();
-            //foreach (var accessorySlot in ACCESSORY_SLOTS)
-            //{
-            //    meta.Add(accessorySlot, $"{accessorySlot}1{System.Char.ConvertFromUtf32((int)('a') + accessoryIdx - 1)}");
-            //}
-
             int skin = (int)customSkinSlider.value;
             bool fallbackDefault = fallbackDefaultToggle.isOn;
-           
+
             if (fallbackDefault)
             {
                 meta.Add("fallback-default", "1");
@@ -295,6 +299,11 @@ namespace SkyMavis.AxieMixer.Unity.Demo
                 runtimeSkeletonAnimation.gameObject.AddComponent<MysticIdController>().Init(bodyClass, bodyId);
             }
             runtimeSkeletonAnimation.skeleton.FindSlot("shadow").Attachment = null;
+
+            var accessory = new GameObject("accessory", typeof(AccessoryController)).GetComponent<AccessoryController>();
+            accessory.transform.SetParent(runtimeSkeletonAnimation.transform, false);
+            accessory.Init(builderResult.skeletonDataAsset.scale);
+            builderResult.adultCombo.Where(p => p.Value == "accessory").Select(x => x.Key).ToList().ForEach(p => accessory.Equip(p));
         }
 
         void SpawnSkeletonGraphic(Axie2dBuilderResult builderResult)
@@ -319,6 +328,12 @@ namespace SkyMavis.AxieMixer.Unity.Demo
             {
                 skeletonGraphic.gameObject.AddComponent<MysticIdGraphicController>().Init(bodyClass, bodyId);
             }
+
+            var accessory = new GameObject("accessory", typeof(AccessoryGraphicController)).GetComponent<AccessoryGraphicController>();
+            accessory.transform.SetParent(skeletonGraphic.transform, false);
+            accessory.Init(builderResult.skeletonDataAsset.scale);
+            builderResult.adultCombo.Where(p => p.Value == "accessory").Select(x => x.Key).ToList().ForEach(p => accessory.Equip(p));
+            //if (equipments != null) equipments.ForEach(x => accessory.Equip(x));
         }
 
         bool isFetchingGenes = false;
@@ -338,7 +353,7 @@ namespace SkyMavis.AxieMixer.Unity.Demo
         public IEnumerator GetAxiesGenes(string axieId)
         {
             isFetchingGenes = true;
-            string searchString = "{ axie (axieId: \"" + axieId + "\") { id, genes, newGenes}}";
+            string searchString = "{ axie (axieId: \"" + axieId + "\") { id, genes, newGenes, hasMysticSuit, equipment { attributes }}}";
             JObject jPayload = new JObject();
             jPayload.Add(new JProperty("query", searchString));
 
@@ -357,12 +372,46 @@ namespace SkyMavis.AxieMixer.Unity.Demo
                 {
                     JObject jResult = JObject.Parse(result);
                     string genesStr = (string)jResult["data"]["axie"]["newGenes"];
-                    Debug.Log(genesStr);
+                    Debug.Log(result);
+
+                    bool hasMysticSuit = (bool)jResult["data"]["axie"]["hasMysticSuit"];
+                    JArray jEquipments = jResult["data"]["axie"]["equipment"] as JArray;
+                    List<string> equipments = new List<string>();
+                    if (jEquipments != null)
+                    {
+                        for(int i=0;i< jEquipments.Count; i++)
+                        {
+                            string equipmentKey = (string)(jEquipments[i]["attributes"]["key"]);
+                            equipments.Add(equipmentKey);
+                        }
+                    }
+                    var meta = new Dictionary<string, string>();
+                    if (!hasMysticSuit)
+                    {
+                        meta.Add("accessory-suit-off", "1");
+                    }
+                    foreach (var p in equipments)
+                    {
+                        meta.Add(p, "accessory");
+                    }
                     ClearAll();
-                    ProcessMixer(axieId, genesStr, USE_GRAPHIC);
+                    ProcessMixer(axieId, genesStr, meta, USE_GRAPHIC);
                 }
             }
             isFetchingGenes = false;
+        }
+
+        private void Update()
+        {
+            for(int i = 0; i < 9; i++)
+            {
+                if (Input.GetKeyDown($"{i}"))
+                {
+                    accessoryIdx = i;
+                    OnAxieTagChanged();
+                    break;
+                }
+            }
         }
     }
 }

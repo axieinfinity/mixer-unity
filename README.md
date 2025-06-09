@@ -92,6 +92,56 @@ skeletonGraphic.AnimationState.SetAnimation(0, "action/idle/normal", true);
 // You can find more information about the function here http://en.esotericsoftware.com/spine-applying-animations
 ```
 
+## Accessory
+We change the accessory logic using bone follow.
+
+### Pass accessory info from GraphQL response
+```cs
+    string searchString = "{ axie (axieId: \"" + axieId + "\") { id, genes, newGenes, hasMysticSuit, equipment { attributes }}}";
+    ...
+    bool hasMysticSuit = (bool)jResult["data"]["axie"]["hasMysticSuit"];
+    JArray jEquipments = jResult["data"]["axie"]["equipment"] as JArray;
+    List<string> equipments = new List<string>();
+    if (jEquipments != null)
+    {
+        for(int i=0;i< jEquipments.Count; i++)
+        {
+            string equipmentKey = (string)(jEquipments[i]["attributes"]["key"]);
+            equipments.Add(equipmentKey);
+        }
+    }
+    var meta = new Dictionary<string, string>();
+    if (!hasMysticSuit)
+    {
+        meta.Add("accessory-suit-off", "1");
+    }
+    foreach (var p in equipments)
+    {
+        meta.Add(p, "accessory");
+    }
+    ...
+    var builderResult = builder.BuildSpineFromGene(axieId, genesStr, meta, scale);
+
+```
+
+
+### Spine Skeleton
+```cs
+    var accessory = new GameObject("accessory", typeof(AccessoryController)).GetComponent<AccessoryController>();
+    accessory.transform.SetParent(runtimeSkeletonAnimation.transform, false);
+    accessory.Init(builderResult.skeletonDataAsset.scale);
+    builderResult.adultCombo.Where(p => p.Value == "accessory").Select(x => x.Key).ToList().ForEach(p => accessory.Equip(p));
+```
+
+### Spine For UICanvas
+```cs
+    var accessory = new GameObject("accessory", typeof(AccessoryGraphicController)).GetComponent<AccessoryGraphicController>();
+    accessory.transform.SetParent(skeletonGraphic.transform, false);
+    accessory.Init(builderResult.skeletonDataAsset.scale);
+    builderResult.adultCombo.Where(p => p.Value == "accessory").Select(x => x.Key).ToList().ForEach(p => accessory.Equip(p));
+```
+
+
 ## Building Project
 You need add `AxieMixerShaderVariants` into Preloaded Shaders (Project Settings/Graphics/Shader Loading)
 

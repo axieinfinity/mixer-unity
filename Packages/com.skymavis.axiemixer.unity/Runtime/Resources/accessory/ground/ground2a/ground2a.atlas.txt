@@ -1,0 +1,125 @@
+
+ground2a.png
+size: 277,542
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flower girl/cloth_f
+  rotate: false
+  xy: 125, 4
+  size: 49, 59
+  orig: 50, 59
+  offset: 0, 0
+  index: -1
+flower girl/flower_1a
+  rotate: false
+  xy: 142, 137
+  size: 90, 73
+  orig: 90, 73
+  offset: 0, 0
+  index: -1
+flower girl/flower_1b
+  rotate: true
+  xy: 41, 13
+  size: 94, 80
+  orig: 94, 80
+  offset: 0, 0
+  index: -1
+flower girl/flower_2
+  rotate: true
+  xy: 4, 219
+  size: 32, 118
+  orig: 32, 118
+  offset: 0, 0
+  index: -1
+flower girl/flower_3
+  rotate: false
+  xy: 112, 134
+  size: 26, 81
+  orig: 26, 81
+  offset: 0, 0
+  index: -1
+flower girl/flower_4
+  rotate: false
+  xy: 4, 9
+  size: 33, 98
+  orig: 33, 98
+  offset: 0, 0
+  index: -1
+flower girl/flower_5
+  rotate: true
+  xy: 4, 493
+  size: 45, 153
+  orig: 45, 153
+  offset: 0, 0
+  index: -1
+flower girl/flower_6
+  rotate: false
+  xy: 152, 317
+  size: 121, 126
+  orig: 121, 126
+  offset: 0, 0
+  index: -1
+flower girl/flower_7
+  rotate: false
+  xy: 143, 214
+  size: 127, 99
+  orig: 127, 99
+  offset: 0, 0
+  index: -1
+flower girl/flower_8
+  rotate: true
+  xy: 4, 389
+  size: 100, 144
+  orig: 100, 144
+  offset: 0, 0
+  index: -1
+flower girl/flower_9
+  rotate: true
+  xy: 4, 255
+  size: 130, 135
+  orig: 130, 135
+  offset: 0, 0
+  index: -1
+flower girl/fx/intensity_add
+  rotate: false
+  xy: 4, 111
+  size: 104, 104
+  orig: 128, 128
+  offset: 12, 12
+  index: -1
+flower girl/hand-b
+  rotate: true
+  xy: 142, 73
+  size: 60, 66
+  orig: 60, 66
+  offset: 0, 0
+  index: -1
+flower girl/hand_f
+  rotate: false
+  xy: 212, 67
+  size: 60, 66
+  orig: 60, 66
+  offset: 0, 0
+  index: -1
+flower girl/leg_b
+  rotate: true
+  xy: 221, 23
+  size: 40, 51
+  orig: 42, 53
+  offset: 1, 1
+  index: -1
+flower girl/leg_f
+  rotate: false
+  xy: 178, 10
+  size: 39, 53
+  orig: 44, 55
+  offset: 1, 1
+  index: -1
+flower girl/skirt
+  rotate: false
+  xy: 161, 447
+  size: 105, 91
+  orig: 105, 91
+  offset: 0, 0
+  index: -1

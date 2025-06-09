@@ -1,0 +1,55 @@
+
+air1c.png
+size: 223,421
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/bd
+  rotate: false
+  xy: 4, 217
+  size: 215, 200
+  orig: 219, 200
+  offset: 4, 0
+  index: -1
+1/e
+  rotate: false
+  xy: 4, 4
+  size: 81, 16
+  orig: 83, 26
+  offset: 1, 1
+  index: -1
+1/m
+  rotate: false
+  xy: 4, 24
+  size: 91, 27
+  orig: 94, 30
+  offset: 2, 1
+  index: -1
+1/n
+  rotate: false
+  xy: 173, 180
+  size: 41, 33
+  orig: 43, 35
+  offset: 1, 1
+  index: -1
+2/c
+  rotate: true
+  xy: 4, 55
+  size: 158, 165
+  orig: 159, 167
+  offset: 0, 1
+  index: -1
+2/hat
+  rotate: true
+  xy: 173, 42
+  size: 134, 40
+  orig: 136, 42
+  offset: 1, 1
+  index: -1
+2/hat2
+  rotate: false
+  xy: 99, 11
+  size: 67, 40
+  orig: 67, 40
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+air1d.png
+size: 323,217
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3/bd
+  rotate: true
+  xy: 4, 7
+  size: 206, 201
+  orig: 206, 207
+  offset: 0, 3
+  index: -1
+3/e
+  rotate: true
+  xy: 297, 132
+  size: 81, 16
+  orig: 84, 21
+  offset: 2, 1
+  index: -1
+3/eb1
+  rotate: true
+  xy: 297, 69
+  size: 27, 20
+  orig: 30, 23
+  offset: 2, 2
+  index: -1
+3/eb2
+  rotate: true
+  xy: 297, 100
+  size: 28, 20
+  orig: 30, 22
+  offset: 1, 1
+  index: -1
+3/hat
+  rotate: true
+  xy: 209, 14
+  size: 64, 55
+  orig: 66, 57
+  offset: 1, 1
+  index: -1
+3/n
+  rotate: true
+  xy: 209, 82
+  size: 131, 84
+  orig: 133, 86
+  offset: 1, 1
+  index: -1
+fx3
+  rotate: false
+  xy: 268, 4
+  size: 51, 61
+  orig: 51, 65
+  offset: 0, 2
+  index: -1

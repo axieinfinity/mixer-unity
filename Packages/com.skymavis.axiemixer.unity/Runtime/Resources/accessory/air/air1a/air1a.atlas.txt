@@ -1,0 +1,90 @@
+
+air1a.png
+size: 394,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 196, 29
+  size: 115, 61
+  orig: 115, 61
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 344, 68
+  size: 76, 46
+  orig: 78, 50
+  offset: 1, 2
+  index: -1
+eye-b
+  rotate: false
+  xy: 109, 42
+  size: 67, 35
+  orig: 67, 35
+  offset: 0, 0
+  index: -1
+eye-f1
+  rotate: false
+  xy: 261, 48
+  size: 60, 29
+  orig: 62, 31
+  offset: 1, 1
+  index: -1
+eye-f2
+  rotate: true
+  xy: 325, 4
+  size: 60, 29
+  orig: 62, 31
+  offset: 1, 1
+  index: -1
+eye-f3
+  rotate: true
+  xy: 358, 4
+  size: 60, 29
+  orig: 62, 31
+  offset: 1, 1
+  index: -1
+eye-f4
+  rotate: false
+  xy: 261, 15
+  size: 60, 29
+  orig: 62, 31
+  offset: 1, 1
+  index: -1
+wing-l1
+  rotate: false
+  xy: 4, 6
+  size: 92, 32
+  orig: 94, 34
+  offset: 1, 1
+  index: -1
+wing-l2
+  rotate: false
+  xy: 109, 81
+  size: 79, 63
+  orig: 81, 66
+  offset: 1, 2
+  index: -1
+wing-r1
+  rotate: false
+  xy: 100, 6
+  size: 92, 32
+  orig: 94, 34
+  offset: 1, 1
+  index: -1
+wing-r2
+  rotate: false
+  xy: 261, 81
+  size: 79, 63
+  orig: 81, 66
+  offset: 1, 2
+  index: -1
+wing_blur
+  rotate: true
+  xy: 4, 42
+  size: 102, 101
+  orig: 105, 102
+  offset: 3, 1
+  index: -1

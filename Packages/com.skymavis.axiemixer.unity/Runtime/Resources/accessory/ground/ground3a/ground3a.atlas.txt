@@ -1,0 +1,90 @@
+
+ground3a.png
+size: 409,232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 4, 11
+  size: 217, 206
+  orig: 217, 206
+  offset: 0, 0
+  index: -1
+brown-b
+  rotate: true
+  xy: 388, 125
+  size: 12, 16
+  orig: 14, 18
+  offset: 1, 1
+  index: -1
+brown-f
+  rotate: false
+  xy: 388, 108
+  size: 10, 13
+  orig: 12, 17
+  offset: 1, 2
+  index: -1
+eye-b-01
+  rotate: false
+  xy: 351, 31
+  size: 14, 24
+  orig: 19, 26
+  offset: 2, 1
+  index: -1
+eye-b-02
+  rotate: false
+  xy: 372, 183
+  size: 31, 45
+  orig: 33, 47
+  offset: 1, 1
+  index: -1
+eye-f-01
+  rotate: true
+  xy: 372, 158
+  size: 21, 28
+  orig: 24, 30
+  offset: 2, 1
+  index: -1
+eye-f-02
+  rotate: true
+  xy: 351, 59
+  size: 43, 50
+  orig: 45, 52
+  offset: 1, 1
+  index: -1
+face-b
+  rotate: false
+  xy: 214, 106
+  size: 154, 122
+  orig: 156, 123
+  offset: 0, 0
+  index: -1
+face-f
+  rotate: false
+  xy: 214, 4
+  size: 133, 98
+  orig: 134, 99
+  offset: 1, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 372, 113
+  size: 41, 12
+  orig: 43, 14
+  offset: 1, 1
+  index: -1
+nose-b
+  rotate: true
+  xy: 351, 11
+  size: 16, 12
+  orig: 21, 15
+  offset: 1, 2
+  index: -1
+nose-f
+  rotate: false
+  xy: 388, 141
+  size: 17, 13
+  orig: 19, 16
+  offset: 1, 1
+  index: -1

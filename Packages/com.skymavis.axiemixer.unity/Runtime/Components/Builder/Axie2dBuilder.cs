@@ -90,6 +90,10 @@ namespace SkyMavis.AxieMixer.Unity
             adultCombo["mouth"] = OverridePartSample(AxiePartType.mouth, adultCombo, axieGenesStuff);
             adultCombo["tail"] = OverridePartSample(AxiePartType.tail, adultCombo, axieGenesStuff);
 
+            if (adultCombo.ContainsKey("accessory-suit-off"))
+            {
+                adultCombo["body"] = adultCombo["body"].Replace("-mystic-", "-");
+            }
             var accessories = adultCombo.Where(x => x.Key.StartsWith("accessory-")).ToList();
             foreach(var p in accessories)
             {

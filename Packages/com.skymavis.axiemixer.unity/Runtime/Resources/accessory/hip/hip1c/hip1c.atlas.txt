@@ -1,0 +1,13 @@
+
+hip1c.png
+size: 124,159
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hip1c
+  rotate: false
+  xy: 0, 0
+  size: 124,159
+  orig: 124,159
+  offset: 0, 0
+  index: -1

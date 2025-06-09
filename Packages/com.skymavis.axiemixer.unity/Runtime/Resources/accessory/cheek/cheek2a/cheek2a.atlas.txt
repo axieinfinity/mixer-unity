@@ -1,0 +1,41 @@
+
+cheek2a.png
+size: 380,253
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mouth/eye_b
+  rotate: true
+  xy: 4, 4
+  size: 109, 215
+  orig: 111, 217
+  offset: 1, 1
+  index: -1
+mouth/eye_f
+  rotate: true
+  xy: 4, 117
+  size: 132, 255
+  orig: 132, 255
+  offset: 0, 0
+  index: -1
+mouth/eye_m
+  rotate: false
+  xy: 263, 32
+  size: 113, 217
+  orig: 113, 217
+  offset: 0, 0
+  index: -1
+mouth/tooth_1
+  rotate: false
+  xy: 223, 37
+  size: 29, 30
+  orig: 33, 32
+  offset: 2, 1
+  index: -1
+mouth/tooth_2
+  rotate: false
+  xy: 223, 71
+  size: 29, 42
+  orig: 31, 44
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,90 @@
+
+air1b.png
+size: 300,123
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 4, 7
+  size: 112, 156
+  orig: 113, 156
+  offset: 0, 0
+  index: -1
+brown-l
+  rotate: false
+  xy: 289, 20
+  size: 7, 8
+  orig: 9, 10
+  offset: 1, 1
+  index: -1
+brown-r
+  rotate: false
+  xy: 270, 7
+  size: 8, 8
+  orig: 10, 12
+  offset: 1, 1
+  index: -1
+circle-r
+  rotate: false
+  xy: 253, 26
+  size: 18, 18
+  orig: 20, 20
+  offset: 1, 1
+  index: -1
+cirle-l
+  rotate: false
+  xy: 275, 32
+  size: 12, 12
+  orig: 14, 14
+  offset: 1, 1
+  index: -1
+eye-l
+  rotate: false
+  xy: 253, 8
+  size: 13, 14
+  orig: 15, 16
+  offset: 1, 1
+  index: -1
+eye-r
+  rotate: true
+  xy: 275, 19
+  size: 9, 10
+  orig: 11, 12
+  offset: 1, 1
+  index: -1
+foot-r
+  rotate: false
+  xy: 164, 43
+  size: 71, 76
+  orig: 71, 76
+  offset: 0, 0
+  index: -1
+hand-l
+  rotate: true
+  xy: 239, 86
+  size: 33, 57
+  orig: 33, 57
+  offset: 0, 0
+  index: -1
+hand-r
+  rotate: true
+  xy: 239, 48
+  size: 34, 52
+  orig: 34, 53
+  offset: 0, 1
+  index: -1
+leaf-l
+  rotate: false
+  xy: 209, 4
+  size: 40, 35
+  orig: 41, 36
+  offset: 1, 1
+  index: -1
+leaf-r
+  rotate: false
+  xy: 164, 4
+  size: 41, 35
+  orig: 42, 36
+  offset: 0, 1
+  index: -1
