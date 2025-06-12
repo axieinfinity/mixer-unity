@@ -21,7 +21,7 @@ namespace SkyMavis.AxieMixer.Unity
 
         public AccessoryGraphicController Reset()
         {
-            skeletonGraphic = gameObject.GetComponentInParent<SkeletonGraphic>();
+            skeletonGraphic = gameObject.GetComponentInParent<SkeletonGraphic>(true);
             foreach (var p in _accessories)
             {
                 Destroy(p.Value);
@@ -72,7 +72,8 @@ namespace SkyMavis.AxieMixer.Unity
 
             if (bone == null) return;
 
-            var accessorySkeletonData = Resources.Load<SkeletonDataAsset>($"accessory/{accessoryType.ToString().ToLower()}/{accessoryName}/{accessoryName}_SkeletonData");
+            var accessorySkeletonDataAsset = Resources.Load<SkeletonDataAsset>($"accessory/{accessoryType.ToString().ToLower()}/{accessoryName}/{accessoryName}_SkeletonData");
+            var accessorySkeletonData = ScriptableObject.Instantiate(accessorySkeletonDataAsset);
             var accessoryMat = Resources.Load<Material>($"accessory/{accessoryType.ToString().ToLower()}/{accessoryName}/{accessoryName}_Material");
             if (accessorySkeletonData == null) return;
             accessorySkeletonData.scale = _scale;
